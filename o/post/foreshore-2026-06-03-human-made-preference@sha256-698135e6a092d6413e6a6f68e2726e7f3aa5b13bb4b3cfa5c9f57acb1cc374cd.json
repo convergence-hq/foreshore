@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260603humanmadepreference",
+  "slug": "foreshore-2026-06-03-human-made-preference",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-03-human-made-preference.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-03-human-made-preference@sha256-698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-03T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-03T00:00:00Z",
+    "modified_at": "2026-06-03T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-03-human-made-preference@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "smoke_before_fire",
+        "geography": [
+          "US",
+          "global_english"
+        ],
+        "human_action": "Search for corroborating signals across non-wellness verticals — supplement trade press, food manufacturing publications, financial advice platforms, children's education brands. Check Google Trends for 'human-made product', 'made by humans', 'crafted by people', 'no AI'. Flag any early credentialing or certification initiative forming around human-provenance claims in consumer goods. Watch whether any brand runs paid media leading with human involvement as a differentiator and what results or coverage follow.",
+        "machine_action": "Monitor wellness, food, and consumer goods RSS feeds for 'human-made', 'made by humans', 'crafted by people', 'no AI', 'human-formulated', or 'human-curated' appearing in brand copy or product descriptions. Flag any certification body, labeling standard, or trade association formation in the human-provenance space. Escalate if a second independent editorial source surfaces the same frame within 60 days.",
+        "methodology_footer": "Signal sourced from Embedded Substack RSS feed, 2026-06-03. No search-volume data, no consumer survey, no brand campaign in evidence at time of drafting. Format selected as smoke_before_fire because the source is a single editorial observation without corroborating evidence; the editorial job is to confirm or kill the forming trend before positioning around it. Confidence 0.45 in source system maps to medium_low.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Single-source pass from one Substack newsletter. No corroboration collected in this cycle.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-03",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-03",
+              "notes": "Embedded Substack newsletter, single editorial observation. No sales data, search-volume trend, or second source available at time of drafting.",
+              "source_name": "Embedded (Substack)"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "human_made_preference",
+          "ai_production_substitution",
+          "provenance_premium"
+        ],
+        "uncertainty": "High. The entire observation rests on a single editorial quote from one Substack newsletter. The structural driver — AI automation reaching consumer production at visible scale — is real, but no consumer response data, brand campaign evidence, or search-volume corroboration was collected. The organic-food parallel is analytically useful but not predictive; organic had pesticide-safety fear as a moral accelerant that the AI-substitution story does not obviously replicate. This is a watch-list entry, not an actionable signal."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "falsification": "Thesis weakens if no second independent source — trade publication, consumer survey, or brand campaign — surfaces the 'made by humans' frame within 60–90 days. Also falsified if brands piloting the claim report no pricing premium or conversion lift versus category norms, or if the frame becomes associated with greenwashing incidents before any verification standard forms. Discard if AI-produced wellness products face no consumer backlash through end of 2026, indicating trust opacity is not a purchase factor in this category.",
+        "format": "smoke_before_fire",
+        "geography": [
+          "US",
+          "global_english"
+        ],
+        "headline": "Everything Is Automated Except the Label",
+        "human_action": "Search for corroborating signals across non-wellness verticals — supplement trade press, food manufacturing publications, financial advice platforms, children's education brands. Check Google Trends for 'human-made product', 'made by humans', 'crafted by people', 'no AI'. Flag any early credentialing or certification initiative forming around human-provenance claims in consumer goods. Watch whether any brand runs paid media leading with human involvement as a differentiator and what results or coverage follow.",
+        "issue_id": "foreshore-2026-06-03-human-made-preference",
+        "machine_action": "Monitor wellness, food, and consumer goods RSS feeds for 'human-made', 'made by humans', 'crafted by people', 'no AI', 'human-formulated', or 'human-curated' appearing in brand copy or product descriptions. Flag any certification body, labeling standard, or trade association formation in the human-provenance space. Escalate if a second independent editorial source surfaces the same frame within 60 days.",
+        "methodology_footer": "Signal sourced from Embedded Substack RSS feed, 2026-06-03. No search-volume data, no consumer survey, no brand campaign in evidence at time of drafting. Format selected as smoke_before_fire because the source is a single editorial observation without corroborating evidence; the editorial job is to confirm or kill the forming trend before positioning around it. Confidence 0.45 in source system maps to medium_low.",
+        "product": "foreshore",
+        "publication_date": "2026-06-03",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Single-source pass from one Substack newsletter. No corroboration collected in this cycle.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-03",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-03",
+              "notes": "Embedded Substack newsletter, single editorial observation. No sales data, search-volume trend, or second source available at time of drafting.",
+              "source_name": "Embedded (Substack)"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Embedded (Substack)', 'url': 'https://embedded.substack.com/feed', 'quote': 'The rise of made-by-humans marketing', 'date': '2026-06-03', 'type': 'editorial_mention'}"
+        ],
+        "state": "observing",
+        "thesis": "AI penetration of consumer production has made human involvement legible as a premium claim — 'made by humans' is beginning to surface as marketing vocabulary in wellness, but without any verification infrastructure to make the label stick or defensible.",
+        "trend_ids": [
+          "human_made_preference",
+          "ai_production_substitution",
+          "provenance_premium"
+        ],
+        "uncertainty": "High. The entire observation rests on a single editorial quote from one Substack newsletter. The structural driver — AI automation reaching consumer production at visible scale — is real, but no consumer response data, brand campaign evidence, or search-volume corroboration was collected. The organic-food parallel is analytically useful but not predictive; organic had pesticide-safety fear as a moral accelerant that the AI-substitution story does not obviously replicate. This is a watch-list entry, not an actionable signal."
+      }
+    }
+  },
+  "title": "Everything Is Automated Except the Label",
+  "summary": "AI penetration of consumer production has made human involvement legible as a premium claim — 'made by humans' is beginning to surface as marketing vocabulary in wellness, but without any verification infrastructure to make the label stick or defensible.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "AI penetration of consumer production has made human involvement legible as a premium claim — 'made by humans' is beginning to surface as marketing vocabulary in wellness, but without any verification infrastructure to make the label stick or defensible.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-06-03",
+      "evidence_refs": [
+        "sig_1"
+      ],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-03-human-made-preference@v1",
+      "falsification": "Thesis weakens if no second independent source — trade publication, consumer survey, or brand campaign — surfaces the 'made by humans' frame within 60–90 days. Also falsified if brands piloting the claim report no pricing premium or conversion lift versus category norms, or if the frame becomes associated with greenwashing incidents before any verification standard forms. Discard if AI-produced wellness products face no consumer backlash through end of 2026, indicating trust opacity is not a purchase factor in this category."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "sig_1",
+      "title": "sig_1",
+      "url": "https://embedded.substack.com/feed",
+      "publisher": "Embedded (Substack)"
+    }
+  ],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Everything Is Automated Except the Label",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "AI penetration of consumer production has made human involvement legible as a premium claim — 'made by humans' is beginning to surface as marketing vocabulary in wellness, but without any verification infrastructure to make the label stick or defensible.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Embedded (Substack)', 'url': 'https://embedded.substack.com/feed', 'quote': 'The rise of made-by-humans marketing', 'date': '2026-06-03', 'type': 'editorial_mention'}",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Thesis weakens if no second independent source — trade publication, consumer survey, or brand campaign — surfaces the 'made by humans' frame within 60–90 days. Also falsified if brands piloting the claim report no pricing premium or conversion lift versus category norms, or if the frame becomes associated with greenwashing incidents before any verification standard forms. Discard if AI-produced wellness products face no consumer backlash through end of 2026, indicating trust opacity is not a purchase factor in this category.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"Everything Is Automated Except the Label.\" Convergence Daily. 2026-06-03. Resolve signal://foreshore/claim/foreshore-2026-06-03-human-made-preference@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-03-human-made-preference@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-03",
+      "published_at": "2026-06-03T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

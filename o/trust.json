@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0.0",
+  "publication": {
+    "id": "foreshore",
+    "name": "Foreshore",
+    "base_url": "https://foreshore.permanentupperclass.com"
+  },
+  "generated_by": "@convergence/build@0.1.0",
+  "schemas": {
+    "object": {
+      "id": "https://schemas.convergence-hq.org/object/v1.json",
+      "version": "1.0.0",
+      "url": "https://schemas.convergence-hq.org/object/v1.json"
+    },
+    "build_manifest": {
+      "id": "https://schemas.convergence-hq.org/build-manifest/v1.json",
+      "version": "1.0.0",
+      "url": "https://schemas.convergence-hq.org/build-manifest/v1.json"
+    },
+    "detached_signature": {
+      "id": "https://schemas.convergence-hq.org/signature/v1.json",
+      "version": "1.0.0",
+      "url": "https://schemas.convergence-hq.org/signature/v1.json"
+    }
+  },
+  "integrity": {
+    "canonicalization": "RFC8785-JCS",
+    "hash": "sha256",
+    "verification": "Strip top-level content_digest and version_uri, canonicalize with RFC 8785 JCS, SHA-256 hash.",
+    "build_manifest": "https://foreshore.permanentupperclass.com/build-manifest.json"
+  },
+  "signing": {
+    "ed25519": {
+      "status": "enabled",
+      "algorithm": "ed25519",
+      "key_id": "foreshore-ed25519",
+      "public_key": {
+        "encoding": "spki-der-base64",
+        "value": "MCowBQYDK2VwAyEAo270FLvN05xT8dO5yiRduyZmx1qN0Yraw76+X1rdaHY="
+      },
+      "manifest_signature": "/build-manifest.json.sig",
+      "object_signature_template": "/o/{kind}/{slug}@sha256-{digest}.json.sig",
+      "note": "Publisher key loaded at build time; no private key material is emitted."
+    },
+    "sigstore": {
+      "status": "release-ci",
+      "algorithm": "sigstore-keyless",
+      "issuer": "https://token.actions.githubusercontent.com",
+      "subject": "repo:convergence-hq/foreshore:ref:refs/tags/*",
+      "manifest": "https://foreshore.permanentupperclass.com/build-manifest.json",
+      "bundle_artifact": "build-manifest.json.sigstore.json",
+      "rekor": true,
+      "note": "Sigstore signing is performed by the release workflow with GitHub Actions OIDC and is not required for local verification."
+    }
+  },
+  "licenses": {
+    "content_default": "CC-BY-4.0",
+    "data_default": "ODC-By-1.0",
+    "per_object_overrides": true,
+    "verbatim_citation_default": "permitted",
+    "attribution_required": true,
+    "enforcement_note": "Signatures prove provenance and make correct attribution machine-verifiable. They do not prevent copying or force downstream license compliance; this is not DRM."
+  },
+  "feeds": {
+    "rss": "https://foreshore.permanentupperclass.com/rss.xml",
+    "json_feed": "https://foreshore.permanentupperclass.com/feed.json",
+    "sitemap": "https://foreshore.permanentupperclass.com/sitemap.xml"
+  },
+  "surfaces": {
+    "human": "https://foreshore.permanentupperclass.com/p/%7Bslug%7D/",
+    "machine_latest": "https://foreshore.permanentupperclass.com/o/%7Bkind%7D/%7Bslug%7D.json",
+    "machine_immutable": "https://foreshore.permanentupperclass.com/o/%7Bkind%7D/%7Bslug%7D@sha256-%7Bdigest%7D.json",
+    "object_index": "https://foreshore.permanentupperclass.com/o/index.json",
+    "claims_index": "https://foreshore.permanentupperclass.com/o/claims.json",
+    "aliases_index": "https://foreshore.permanentupperclass.com/o/aliases.json"
+  },
+  "overlays": {
+    "api": {
+      "status": "optional",
+      "base_url": "https://foreshore.permanentupperclass.com/api/",
+      "package": "@convergence/api",
+      "read_only": true,
+      "truth_source": "Static JSON emitted under /o; no database or mutation path.",
+      "byte_match_contract": "Non-projected object responses are the exact bytes of the matching immutable /o/{kind}/{slug}@sha256-{digest}.json file. Projection responses are marked derived and include version_uri plus content_digest.",
+      "endpoints": {
+        "objects": "https://foreshore.permanentupperclass.com/api/objects",
+        "object": "https://foreshore.permanentupperclass.com/api/objects/%7Bkind%7D/%7Bslug%7D",
+        "immutable_object": "https://foreshore.permanentupperclass.com/api/objects/%7Bkind%7D/%7Bslug%7D@sha256-%7Bdigest%7D",
+        "claims": "https://foreshore.permanentupperclass.com/api/claims",
+        "claim": "https://foreshore.permanentupperclass.com/api/claims/%7Bid%7D",
+        "trust": "https://foreshore.permanentupperclass.com/api/trust",
+        "resolve": "https://foreshore.permanentupperclass.com/api/resolve?uri={uri}"
+      },
+      "degradation": "If the live API is removed, /o static files, discovery, feeds, and signatures remain valid."
+    },
+    "mcp": {
+      "status": "optional",
+      "endpoint": "https://foreshore.permanentupperclass.com/mcp",
+      "package": "@convergence/mcp",
+      "read_only": true,
+      "tools": [
+        "search_objects",
+        "get_object",
+        "search_claims",
+        "get_claim",
+        "resolve",
+        "get_trust"
+      ],
+      "resolve_semantics": "resolve returns the static object plus integrity and Ed25519 signature verification status using the same verifier as convergence-verify --signatures.",
+      "degradation": "If the MCP overlay is removed, agents can still consume /o/index.json, /o/claims.json, /o/trust.json, and immutable objects directly."
+    }
+  }
+}

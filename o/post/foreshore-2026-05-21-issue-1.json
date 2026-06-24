@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260521issue1",
+  "slug": "foreshore-2026-05-21-issue-1",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-21-issue-1.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-21-issue-1@sha256-ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-05-21T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-05-21T00:00:00Z",
+    "modified_at": "2026-05-21T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-05-21-issue-1@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.55,
+            "event_date": "2026-05-19",
+            "evidence_quote": "GLP-1s Can Do a Number On Your Skin. Experts explain how to combat 'Ozempic face' at the 2026 Women's Health Lab in New York City.",
+            "interpretation": "A mainstream wellness publisher is naming skin management as a GLP-1 side-effect category in its own right.",
+            "signal": "GLP-1 Skin Aesthetics",
+            "source_type": "general_feed",
+            "source_url": "https://www.womenshealthmag.com/rss/all.xml"
+          },
+          {
+            "confidence": 0.72,
+            "event_date": "2026-05-19",
+            "evidence_quote": "Experts explain how to combat 'Ozempic face' at the 2026 Women's Health Lab in New York City.",
+            "interpretation": "The duplicate label points to a single maintenance-demand cluster, but the source type is still singular.",
+            "signal": "GLP-1 Skin Treatments",
+            "source_type": "general_feed",
+            "source_url": "https://www.womenshealthmag.com/rss/all.xml"
+          }
+        ],
+        "format": "boring_business_hidden_inside_trend",
+        "human_action": "If you operate near skin, bodies, or local services, claim the post-weight-loss vocabulary now: a clinic consult, a skincare copy test, or a local provider index, before the category has clean search results.",
+        "machine_action": "Cluster glp1_aesthetics and glp1_skincare_treatments into one maintenance-layer trend, then monitor Reddit, Google Trends rising, and Places operator density for 28 days for a second independent source type.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 1,
+          "degradation_note": "TikTok Creative Center is disabled through 2026-06-19; this issue rests on RSS duplication and must not claim broad demand yet.",
+          "degraded": true,
+          "last_successful_fetch_at": "2026-05-20 19:11:38",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-20 14:10:43",
+              "notes": "Healthy for this issue's source type.",
+              "source_name": "RSS general feeds"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": "2026-05-20 17:51:08",
+              "last_successful_fetch_at": "2026-05-20 19:11:38",
+              "notes": "Recovered on May 20; no GLP-1 skin rising query attached yet.",
+              "source_name": "Google Trends related/rising"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": "2026-05-20 17:53:27",
+              "last_successful_fetch_at": "2026-05-20 19:11:17",
+              "notes": "Recovered on May 20.",
+              "source_name": "Reddit subscriber-delta"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-20 02:56:10",
+              "notes": "Healthy, but no GLP-1 skin operator-density evidence attached yet.",
+              "source_name": "Google Places"
+            },
+            {
+              "consecutive_failures": 1,
+              "degraded": true,
+              "last_failure_at": "2026-05-20 17:53:08",
+              "last_successful_fetch_at": null,
+              "notes": "Disabled until 2026-06-19 after TikTok pulled the Trends feature.",
+              "source_name": "TikTok Creative Center"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Women's Health RSS",
+            "last_error": null,
+            "last_fetched_at": "2026-05-20 14:10:43",
+            "source_type": "general_feed",
+            "url": "https://www.womenshealthmag.com/rss/all.xml"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "glp1_aesthetics",
+          "glp1_skincare_treatments"
+        ],
+        "uncertainty": "Single-source: both proposals came from the same RSS feed cycle, and TikTok trend tooling is down through mid-June, so the consumer-volume side is unobserved."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.55,
+            "event_date": "2026-05-19",
+            "evidence_quote": "GLP-1s Can Do a Number On Your Skin. Experts explain how to combat 'Ozempic face' at the 2026 Women's Health Lab in New York City.",
+            "interpretation": "A mainstream wellness publisher is naming skin management as a GLP-1 side-effect category in its own right.",
+            "signal": "GLP-1 Skin Aesthetics",
+            "source_type": "general_feed",
+            "source_url": "https://www.womenshealthmag.com/rss/all.xml"
+          },
+          {
+            "confidence": 0.72,
+            "event_date": "2026-05-19",
+            "evidence_quote": "Experts explain how to combat 'Ozempic face' at the 2026 Women's Health Lab in New York City.",
+            "interpretation": "The duplicate label points to a single maintenance-demand cluster, but the source type is still singular.",
+            "signal": "GLP-1 Skin Treatments",
+            "source_type": "general_feed",
+            "source_url": "https://www.womenshealthmag.com/rss/all.xml"
+          }
+        ],
+        "falsification": "No second source type appears within 28 days, or clinic/operator language fails to appear outside the Women's Health RSS feed.",
+        "format": "boring_business_hidden_inside_trend",
+        "headline": "The cleanup economy",
+        "human_action": "If you operate near skin, bodies, or local services, claim the post-weight-loss vocabulary now: a clinic consult, a skincare copy test, or a local provider index, before the category has clean search results.",
+        "issue_id": "foreshore-2026-05-21-issue-1",
+        "machine_action": "Cluster glp1_aesthetics and glp1_skincare_treatments into one maintenance-layer trend, then monitor Reddit, Google Trends rising, and Places operator density for 28 days for a second independent source type.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "publication_date": "2026-05-21",
+        "signal_health": {
+          "consecutive_failures": 1,
+          "degradation_note": "TikTok Creative Center is disabled through 2026-06-19; this issue rests on RSS duplication and must not claim broad demand yet.",
+          "degraded": true,
+          "last_successful_fetch_at": "2026-05-20 19:11:38",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-20 14:10:43",
+              "notes": "Healthy for this issue's source type.",
+              "source_name": "RSS general feeds"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": "2026-05-20 17:51:08",
+              "last_successful_fetch_at": "2026-05-20 19:11:38",
+              "notes": "Recovered on May 20; no GLP-1 skin rising query attached yet.",
+              "source_name": "Google Trends related/rising"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": "2026-05-20 17:53:27",
+              "last_successful_fetch_at": "2026-05-20 19:11:17",
+              "notes": "Recovered on May 20.",
+              "source_name": "Reddit subscriber-delta"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-20 02:56:10",
+              "notes": "Healthy, but no GLP-1 skin operator-density evidence attached yet.",
+              "source_name": "Google Places"
+            },
+            {
+              "consecutive_failures": 1,
+              "degraded": true,
+              "last_failure_at": "2026-05-20 17:53:08",
+              "last_successful_fetch_at": null,
+              "notes": "Disabled until 2026-06-19 after TikTok pulled the Trends feature.",
+              "source_name": "TikTok Creative Center"
+            }
+          ]
+        },
+        "signals": [
+          "rss_mentions",
+          "duplicate_proposal_labels",
+          "medical_aesthetics_language",
+          "vocabulary_gap"
+        ],
+        "source_objects": [
+          {
+            "label": "Women's Health RSS",
+            "last_error": null,
+            "last_fetched_at": "2026-05-20 14:10:43",
+            "source_type": "general_feed",
+            "url": "https://www.womenshealthmag.com/rss/all.xml"
+          }
+        ],
+        "state": "observing",
+        "thesis": "The mature GLP-1 story is the drug; the next business is the maintenance layer that cleans up after rapid weight loss, beginning with skin and aesthetics, where the buyer already has a named problem and the seller still speaks the old vocabulary.",
+        "trend_ids": [
+          "glp1_aesthetics",
+          "glp1_skincare_treatments"
+        ],
+        "uncertainty": "Single-source: both proposals came from the same RSS feed cycle, and TikTok trend tooling is down through mid-June, so the consumer-volume side is unobserved."
+      }
+    }
+  },
+  "title": "The cleanup economy",
+  "summary": "The mature GLP-1 story is the drug; the next business is the maintenance layer that cleans up after rapid weight loss, beginning with skin and aesthetics, where the buyer already has a named problem and the seller still speaks the old vocabulary.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The mature GLP-1 story is the drug; the next business is the maintenance layer that cleans up after rapid weight loss, beginning with skin and aesthetics, where the buyer already has a named problem and the seller still speaks the old vocabulary.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-05-21",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-05-21-issue-1@v1",
+      "falsification": "No second source type appears within 28 days, or clinic/operator language fails to appear outside the Women's Health RSS feed."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The cleanup economy",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The mature GLP-1 story is the drug; the next business is the maintenance layer that cleans up after rapid weight loss, beginning with skin and aesthetics, where the buyer already has a named problem and the seller still speaks the old vocabulary.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: rss_mentions\n\nsig_2: duplicate_proposal_labels\n\nsig_3: medical_aesthetics_language\n\nsig_4: vocabulary_gap",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "No second source type appears within 28 days, or clinic/operator language fails to appear outside the Women's Health RSS feed.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The cleanup economy.\" Convergence Daily. 2026-05-21. Resolve signal://foreshore/claim/foreshore-2026-05-21-issue-1@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-05-21-issue-1@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-05-21",
+      "published_at": "2026-05-21T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

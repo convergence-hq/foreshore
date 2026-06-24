@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260616cinemawellnessritual",
+  "slug": "foreshore-2026-06-16-cinema-wellness-ritual",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-16-cinema-wellness-ritual.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-16-cinema-wellness-ritual@sha256-ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-16T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-16T00:00:00Z",
+    "modified_at": "2026-06-16T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-16-cinema-wellness-ritual@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.45,
+            "event_date": "2026-06-12",
+            "evidence_quote": "Going to the cinema is the new wellness hack … against all odds, young people are keeping the industry alive",
+            "interpretation": "A UK/EU youth culture editorial source is applying wellness-budget framing to cinema attendance; the vocabulary migration is the signal, not the attendance data.",
+            "signal": "cinema_wellness_vocabulary",
+            "source_type": "general_feed",
+            "source_url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "format": "vocabulary_shift",
+        "geography": [
+          "UK",
+          "EU"
+        ],
+        "human_action": "Watch for a second independent source outside the UK using cinema-wellness vocabulary; monitor whether premium cinema chains begin adopting ritual or wellness framing in membership copy. If you operate a venue or run leisure programming, test a 'ritual session' descriptor on a midweek slot and track dwell and return rates against standard sessions.",
+        "machine_action": "Monitor non-Dazed RSS feeds for cinema-wellness vocabulary crossover; flag if any premium cinema operator uses 'ritual', 'mindful', or 'wellness' in promotional copy; track search query volume for cinema combined with phone-free or self-care.",
+        "methodology_footer": "Foreshore treats single-source vocabulary observations as watchlist material. Signal logged 2026-06-12 from Dazed Digital RSS. No second source type present. Hold at observing until independent corroboration appears.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Source healthy but singularly thin. One editorial outlet, no search or transaction layer. Issue rests entirely on vocabulary observation from a single feed.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-12 13:33:10",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-12 13:33:10",
+              "notes": "Healthy fetch. Single source for this issue; editorial clustering risk given recent use on separate wellness-adjacent topics.",
+              "source_name": "Dazed Digital RSS"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Dazed Digital RSS",
+            "last_error": null,
+            "last_fetched_at": "2026-06-12 13:33:10",
+            "source_type": "general_feed",
+            "url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "cinema_wellness_ritual",
+          "leisure_budget_reframing",
+          "phone_free_ritual_leisure",
+          "wellness_vocabulary_migration"
+        ],
+        "uncertainty": "High. Single editorial source from a culturally forward UK youth outlet. No search volume, transaction data, or geographic corroboration beyond the source's editorial perspective. Dazed Digital has appeared in recent issues on distinct wellness-adjacent topics, which introduces editorial clustering risk — the outlet may be running a themed season rather than reflecting diffuse cultural movement."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.45,
+            "event_date": "2026-06-12",
+            "evidence_quote": "Going to the cinema is the new wellness hack … against all odds, young people are keeping the industry alive",
+            "interpretation": "A UK/EU youth culture editorial source is applying wellness-budget framing to cinema attendance; the vocabulary migration is the signal, not the attendance data.",
+            "signal": "cinema_wellness_vocabulary",
+            "source_type": "general_feed",
+            "source_url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "falsification": "Trend does not hold if: cinema attendance among 18-34 cohorts is not outperforming the category average; wellness vocabulary does not appear in a second independent source within 90 days; and cinema operators show no uptake of wellness-adjacent framing in their own marketing copy within 12 months.",
+        "format": "vocabulary_shift",
+        "geography": [
+          "UK",
+          "EU"
+        ],
+        "headline": "The Accidental Wellness Chamber",
+        "human_action": "Watch for a second independent source outside the UK using cinema-wellness vocabulary; monitor whether premium cinema chains begin adopting ritual or wellness framing in membership copy. If you operate a venue or run leisure programming, test a 'ritual session' descriptor on a midweek slot and track dwell and return rates against standard sessions.",
+        "issue_id": "foreshore-2026-06-16-cinema-wellness-ritual",
+        "machine_action": "Monitor non-Dazed RSS feeds for cinema-wellness vocabulary crossover; flag if any premium cinema operator uses 'ritual', 'mindful', or 'wellness' in promotional copy; track search query volume for cinema combined with phone-free or self-care.",
+        "methodology_footer": "Foreshore treats single-source vocabulary observations as watchlist material. Signal logged 2026-06-12 from Dazed Digital RSS. No second source type present. Hold at observing until independent corroboration appears.",
+        "product": "foreshore",
+        "publication_date": "2026-06-16",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Source healthy but singularly thin. One editorial outlet, no search or transaction layer. Issue rests entirely on vocabulary observation from a single feed.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-12 13:33:10",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-12 13:33:10",
+              "notes": "Healthy fetch. Single source for this issue; editorial clustering risk given recent use on separate wellness-adjacent topics.",
+              "source_name": "Dazed Digital RSS"
+            }
+          ]
+        },
+        "signals": [
+          "cinema_wellness_vocabulary_mention",
+          "youth_ritual_leisure_framing",
+          "dazed_rss_single_editorial_source",
+          "budget_category_migration_signal"
+        ],
+        "source_objects": [
+          {
+            "label": "Dazed Digital RSS",
+            "last_error": null,
+            "last_fetched_at": "2026-06-12 13:33:10",
+            "source_type": "general_feed",
+            "url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "state": "observing",
+        "thesis": "The phrase 'wellness hack' is migrating onto cinema-going among young audiences, relocating the cinema ticket from the entertainment budget to the wellness budget — a reframing that operators have not yet named or productized.",
+        "trend_ids": [
+          "cinema_wellness_ritual",
+          "leisure_budget_reframing",
+          "phone_free_ritual_leisure",
+          "wellness_vocabulary_migration"
+        ],
+        "uncertainty": "High. Single editorial source from a culturally forward UK youth outlet. No search volume, transaction data, or geographic corroboration beyond the source's editorial perspective. Dazed Digital has appeared in recent issues on distinct wellness-adjacent topics, which introduces editorial clustering risk — the outlet may be running a themed season rather than reflecting diffuse cultural movement."
+      }
+    }
+  },
+  "title": "The Accidental Wellness Chamber",
+  "summary": "The phrase 'wellness hack' is migrating onto cinema-going among young audiences, relocating the cinema ticket from the entertainment budget to the wellness budget — a reframing that operators have not yet named or productized.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The phrase 'wellness hack' is migrating onto cinema-going among young audiences, relocating the cinema ticket from the entertainment budget to the wellness budget — a reframing that operators have not yet named or productized.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-06-16",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-16-cinema-wellness-ritual@v1",
+      "falsification": "Trend does not hold if: cinema attendance among 18-34 cohorts is not outperforming the category average; wellness vocabulary does not appear in a second independent source within 90 days; and cinema operators show no uptake of wellness-adjacent framing in their own marketing copy within 12 months."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Accidental Wellness Chamber",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The phrase 'wellness hack' is migrating onto cinema-going among young audiences, relocating the cinema ticket from the entertainment budget to the wellness budget — a reframing that operators have not yet named or productized.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: cinema_wellness_vocabulary_mention\n\nsig_2: youth_ritual_leisure_framing\n\nsig_3: dazed_rss_single_editorial_source\n\nsig_4: budget_category_migration_signal",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Trend does not hold if: cinema attendance among 18-34 cohorts is not outperforming the category average; wellness vocabulary does not appear in a second independent source within 90 days; and cinema operators show no uptake of wellness-adjacent framing in their own marketing copy within 12 months.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Accidental Wellness Chamber.\" Convergence Daily. 2026-06-16. Resolve signal://foreshore/claim/foreshore-2026-06-16-cinema-wellness-ritual@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-16-cinema-wellness-ritual@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-16",
+      "published_at": "2026-06-16T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

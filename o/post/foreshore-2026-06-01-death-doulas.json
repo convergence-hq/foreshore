@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260601deathdoulas",
+  "slug": "foreshore-2026-06-01-death-doulas",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-01-death-doulas.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-01-death-doulas@sha256-26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-01T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-01T00:00:00Z",
+    "modified_at": "2026-06-01T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-01-death-doulas@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "rich_people_beta",
+        "geography": [
+          "US",
+          "UK"
+        ],
+        "human_action": "Search for corroborating signals: death doula training program enrollment data, INELDA membership trends, Google Trends for 'death doula training', any trade or wellness publication coverage independent of Dazed. Assess whether a vetting or credentialing platform already exists in the market.",
+        "machine_action": "Monitor death-positive, end-of-life, and death doula training keywords across wellness and culture RSS feeds. Flag any enrollment data, training provider announcements, insurance coverage developments, or search-volume spikes.",
+        "methodology_footer": "Signal sourced from Dazed Digital RSS cycle 2026-05-29. No enrollment data, no trade source, no search-volume data collected at time of drafting. Format selected as rich_people_beta on the basis of named high-status early adopters with no professional incentive to train.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-01",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-01",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "death_doula_training",
+          "death_positive_movement",
+          "end_of_life_care_professionalization"
+        ],
+        "uncertainty": "Primary uncertainty is source depth — one culture article with celebrity name-drops is not sector confirmation. The underlying demographic driver (peak boomer mortality) is real and measurable; the professional formation around it is the claim requiring verification."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "falsification": "Thesis weakens if celebrity training turns out to be isolated personal development rather than a pattern; if death doula training enrollment shows no material growth in independent sources; or if the practitioner market is too thin to support a credentialing platform at viable unit economics.",
+        "format": "rich_people_beta",
+        "geography": [
+          "US",
+          "UK"
+        ],
+        "headline": "Learning to Hold the Door",
+        "human_action": "Search for corroborating signals: death doula training program enrollment data, INELDA membership trends, Google Trends for 'death doula training', any trade or wellness publication coverage independent of Dazed. Assess whether a vetting or credentialing platform already exists in the market.",
+        "issue_id": "foreshore-2026-06-01-death-doulas",
+        "machine_action": "Monitor death-positive, end-of-life, and death doula training keywords across wellness and culture RSS feeds. Flag any enrollment data, training provider announcements, insurance coverage developments, or search-volume spikes.",
+        "methodology_footer": "Signal sourced from Dazed Digital RSS cycle 2026-05-29. No enrollment data, no trade source, no search-volume data collected at time of drafting. Format selected as rich_people_beta on the basis of named high-status early adopters with no professional incentive to train.",
+        "product": "foreshore",
+        "publication_date": "2026-06-01",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-01",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-01",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Dazed Digital RSS', 'url': 'https://www.dazeddigital.com/rss', 'quote': 'the number of people training to be death doulas has spiked, with celebrities like Nicole Kidman and Chloe Zhao joining their ranks — but why are so many of us being drawn to work with death?', 'date': '2026-05-29', 'type': 'editorial_mention'}"
+        ],
+        "state": "observing",
+        "thesis": "Celebrity adoption of death doula training is the rich-people-beta signal for a profession about to be formalized — the near-term business is the credentialing and vetting infrastructure, not the doulas themselves.",
+        "trend_ids": [
+          "death_doula_training",
+          "death_positive_movement",
+          "end_of_life_care_professionalization"
+        ],
+        "uncertainty": "Primary uncertainty is source depth — one culture article with celebrity name-drops is not sector confirmation. The underlying demographic driver (peak boomer mortality) is real and measurable; the professional formation around it is the claim requiring verification."
+      }
+    }
+  },
+  "title": "Learning to Hold the Door",
+  "summary": "Celebrity adoption of death doula training is the rich-people-beta signal for a profession about to be formalized — the near-term business is the credentialing and vetting infrastructure, not the doulas themselves.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Celebrity adoption of death doula training is the rich-people-beta signal for a profession about to be formalized — the near-term business is the credentialing and vetting infrastructure, not the doulas themselves.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-06-01",
+      "evidence_refs": [
+        "sig_1"
+      ],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-01-death-doulas@v1",
+      "falsification": "Thesis weakens if celebrity training turns out to be isolated personal development rather than a pattern; if death doula training enrollment shows no material growth in independent sources; or if the practitioner market is too thin to support a credentialing platform at viable unit economics."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "sig_1",
+      "title": "sig_1",
+      "url": "https://www.dazeddigital.com/rss",
+      "publisher": "Dazed Digital RSS"
+    }
+  ],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Learning to Hold the Door",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Celebrity adoption of death doula training is the rich-people-beta signal for a profession about to be formalized — the near-term business is the credentialing and vetting infrastructure, not the doulas themselves.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Dazed Digital RSS', 'url': 'https://www.dazeddigital.com/rss', 'quote': 'the number of people training to be death doulas has spiked, with celebrities like Nicole Kidman and Chloe Zhao joining their ranks — but why are so many of us being drawn to work with death?', 'date': '2026-05-29', 'type': 'editorial_mention'}",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Thesis weakens if celebrity training turns out to be isolated personal development rather than a pattern; if death doula training enrollment shows no material growth in independent sources; or if the practitioner market is too thin to support a credentialing platform at viable unit economics.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"Learning to Hold the Door.\" Convergence Daily. 2026-06-01. Resolve signal://foreshore/claim/foreshore-2026-06-01-death-doulas@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-01-death-doulas@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-01",
+      "published_at": "2026-06-01T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

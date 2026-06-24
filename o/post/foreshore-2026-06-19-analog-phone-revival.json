@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260619analogphonerevival",
+  "slug": "foreshore-2026-06-19-analog-phone-revival",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-19T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-19T00:00:00Z",
+    "modified_at": "2026-06-19T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-19-analog-phone-revival@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.45,
+            "event_date": "2026-06-18",
+            "evidence_quote": "Driven by digital burnout and some good old nostalgia, some young people are plugging back into corded phones with the hope of reviving the art of uninterrupted conversation",
+            "interpretation": "Frames the corded phone as a domestic ritual object — tethering to place is the stated appeal, not capability reduction. Wellness vocabulary is already attaching to the object before a product market exists.",
+            "signal": "corded landline domestic revival framed as wellness practice",
+            "source_type": "rss_editorial",
+            "source_url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "format": "smoke_before_fire",
+        "geography": [
+          "UK",
+          "youth_cultural_media_london"
+        ],
+        "human_action": "Watch for a second source outside Dazed Digital: a different editorial outlet, search volume movement on 'corded phone' or 'landline revival', or vintage telephone retail traffic data. Two independent confirmations within 90 days would justify a confidence upgrade to medium_low and scope a premium product opportunity.",
+        "machine_action": "Monitor search index for 'corded phone', 'landline revival', 'vintage telephone home'; track Etsy and eBay vintage telephony listing volume and average price week-over-week; flag any editorial mention from a non-Dazed outlet covering corded phone or domestic analog ritual in a wellness or design frame.",
+        "methodology_footer": "Signal sourced from automated RSS ingestion on 2026-06-18. Human editorial review required before promotion. Source-concentration flag active: Dazed Digital RSS has contributed to four of the last ten Foreshore issues.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Source operational. Concentration risk noted — same outlet as multiple recent issues.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-18",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-18",
+              "notes": "Single source. Culturally forward UK youth outlet. No search or retail corroboration available at time of writing.",
+              "source_name": "Dazed Digital RSS"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Dazed Digital RSS",
+            "last_error": null,
+            "last_fetched_at": "2026-06-18T13:33:58Z",
+            "source_type": "rss_editorial",
+            "url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "analog_phone_revival",
+          "corded_phone_domestic_wellness",
+          "digital_burnout_objects",
+          "analog_object_nostalgia"
+        ],
+        "uncertainty": "Single editorial source. Dazed Digital has appeared in multiple recent Foreshore issues, creating source-concentration risk. Confidence held at low pending independent corroboration from a second outlet, search data, or vintage retail price movement."
+      },
+      "original_issue": {
+        "confidence": "low",
+        "evidence_map": [
+          {
+            "confidence": 0.45,
+            "event_date": "2026-06-18",
+            "evidence_quote": "Driven by digital burnout and some good old nostalgia, some young people are plugging back into corded phones with the hope of reviving the art of uninterrupted conversation",
+            "interpretation": "Frames the corded phone as a domestic ritual object — tethering to place is the stated appeal, not capability reduction. Wellness vocabulary is already attaching to the object before a product market exists.",
+            "signal": "corded landline domestic revival framed as wellness practice",
+            "source_type": "rss_editorial",
+            "source_url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "falsification": "Signal is dead if search volume shows no movement after 90 days, no second editorial source picks up the object, and vintage phone listings on resale platforms show no price appreciation. Dazed editorial alone is insufficient to promote.",
+        "format": "smoke_before_fire",
+        "geography": [
+          "UK",
+          "youth_cultural_media_london"
+        ],
+        "headline": "The Call You Had to Stay For",
+        "human_action": "Watch for a second source outside Dazed Digital: a different editorial outlet, search volume movement on 'corded phone' or 'landline revival', or vintage telephone retail traffic data. Two independent confirmations within 90 days would justify a confidence upgrade to medium_low and scope a premium product opportunity.",
+        "issue_id": "foreshore-2026-06-19-analog-phone-revival",
+        "machine_action": "Monitor search index for 'corded phone', 'landline revival', 'vintage telephone home'; track Etsy and eBay vintage telephony listing volume and average price week-over-week; flag any editorial mention from a non-Dazed outlet covering corded phone or domestic analog ritual in a wellness or design frame.",
+        "methodology_footer": "Signal sourced from automated RSS ingestion on 2026-06-18. Human editorial review required before promotion. Source-concentration flag active: Dazed Digital RSS has contributed to four of the last ten Foreshore issues.",
+        "product": "foreshore",
+        "publication_date": "2026-06-19",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Source operational. Concentration risk noted — same outlet as multiple recent issues.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-18",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-18",
+              "notes": "Single source. Culturally forward UK youth outlet. No search or retail corroboration available at time of writing.",
+              "source_name": "Dazed Digital RSS"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Dazed Digital', 'source_url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-18', 'quote': 'Driven by digital burnout and some good old nostalgia, some young people are plugging back into corded phones with the hope of reviving the art of uninterrupted conversation', 'strength': 'weak', 'notes': 'Single UK youth cultural outlet, no search volume, retail movement, or second-source corroboration. Dazed Digital has contributed to four of the last ten Foreshore issues — source-concentration risk.'}"
+        ],
+        "source_objects": [
+          {
+            "label": "Dazed Digital RSS",
+            "last_error": null,
+            "last_fetched_at": "2026-06-18T13:33:58Z",
+            "source_type": "rss_editorial",
+            "url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "state": "observing",
+        "thesis": "A single Dazed Digital editorial marks the domestic corded landline as an emerging wellness object among digital-burnout youth — distinct from dumb phone substitution in that it anchors the user to a room rather than reducing mobile capability. No premium product exists to meet the demand if the signal scales.",
+        "trend_ids": [
+          "analog_phone_revival",
+          "corded_phone_domestic_wellness",
+          "digital_burnout_objects",
+          "analog_object_nostalgia"
+        ],
+        "uncertainty": "Single editorial source. Dazed Digital has appeared in multiple recent Foreshore issues, creating source-concentration risk. Confidence held at low pending independent corroboration from a second outlet, search data, or vintage retail price movement."
+      }
+    }
+  },
+  "title": "The Call You Had to Stay For",
+  "summary": "A single Dazed Digital editorial marks the domestic corded landline as an emerging wellness object among digital-burnout youth — distinct from dumb phone substitution in that it anchors the user to a room rather than reducing mobile capability.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "A single Dazed Digital editorial marks the domestic corded landline as an emerging wellness object among digital-burnout youth — distinct from dumb phone substitution in that it anchors the user to a room rather than reducing mobile capability. No premium product exists to meet the demand if the signal scales.",
+      "claim_kind": "predictive",
+      "confidence": 0.2,
+      "confidence_label": "low",
+      "as_of": "2026-06-19",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-19-analog-phone-revival@v1",
+      "falsification": "Signal is dead if search volume shows no movement after 90 days, no second editorial source picks up the object, and vintage phone listings on resale platforms show no price appreciation. Dazed editorial alone is insufficient to promote."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Call You Had to Stay For",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "A single Dazed Digital editorial marks the domestic corded landline as an emerging wellness object among digital-burnout youth — distinct from dumb phone substitution in that it anchors the user to a room rather than reducing mobile capability. No premium product exists to meet the demand if the signal scales.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Dazed Digital', 'source_url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-18', 'quote': 'Driven by digital burnout and some good old nostalgia, some young people are plugging back into corded phones with the hope of reviving the art of uninterrupted conversation', 'strength': 'weak', 'notes': 'Single UK youth cultural outlet, no search volume, retail movement, or second-source corroboration. Dazed Digital has contributed to four of the last ten Foreshore issues — source-concentration risk.'} (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Signal is dead if search volume shows no movement after 90 days, no second editorial source picks up the object, and vintage phone listings on resale platforms show no price appreciation. Dazed editorial alone is insufficient to promote.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Call You Had to Stay For.\" Convergence Daily. 2026-06-19. Resolve signal://foreshore/claim/foreshore-2026-06-19-analog-phone-revival@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-19-analog-phone-revival@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-19",
+      "published_at": "2026-06-19T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

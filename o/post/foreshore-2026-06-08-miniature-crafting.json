@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260608miniaturecrafting",
+  "slug": "foreshore-2026-06-08-miniature-crafting",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-08-miniature-crafting.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-08-miniature-crafting@sha256-eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-08T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-08T00:00:00Z",
+    "modified_at": "2026-06-08T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-08-miniature-crafting@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.3,
+            "event_date": "2026-06-04",
+            "evidence_quote": "A Canadian reality TV show got me making my own miniatures",
+            "interpretation": "Gaming-culture writer attributes hobby entry to a Canadian television format — implied buyer is a non-hobbyist arriving from mainstream media rather than the existing tabletop or dollhouse community.",
+            "signal": "TV-to-hobby pipeline, miniature crafting",
+            "source_type": "editorial_feed",
+            "source_url": "https://aftermath.site/feed"
+          }
+        ],
+        "format": "local_signal",
+        "geography": [
+          "Canada",
+          "United States"
+        ],
+        "human_action": "Monitor for a second independent signal within 60 days: beginner miniature search volume spike, craft-supply retailer SKU expansion into starter kits, second editorial mention from outside gaming media, or subreddit growth in r/minipainting or r/dollhouses.",
+        "machine_action": "Track aftermath.site and equivalent gaming-culture feeds for miniature crafting mentions; flag any craft-supply or toy retailer beginner kit launches; monitor Canadian broadcasting news for show renewal or US licensing deals.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement. The 60-day falsification window is standard for low-confidence TV-driven hobby signals.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-08",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "aftermath.site",
+            "last_error": null,
+            "last_fetched_at": "2026-06-04 13:34:15",
+            "source_type": "editorial_feed",
+            "url": "https://aftermath.site/feed"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "miniature_crafting",
+          "tv_to_hobby_pipeline",
+          "craft_hobby_onboarding"
+        ],
+        "uncertainty": "Single source with no transaction, search volume, or demographic corroboration. The Canada-first craft adoption pattern is consistent historically but not deterministic. The specific Canadian show is unnamed in the source."
+      },
+      "original_issue": {
+        "confidence": "low",
+        "evidence_map": [
+          {
+            "confidence": 0.3,
+            "event_date": "2026-06-04",
+            "evidence_quote": "A Canadian reality TV show got me making my own miniatures",
+            "interpretation": "Gaming-culture writer attributes hobby entry to a Canadian television format — implied buyer is a non-hobbyist arriving from mainstream media rather than the existing tabletop or dollhouse community.",
+            "signal": "TV-to-hobby pipeline, miniature crafting",
+            "source_type": "editorial_feed",
+            "source_url": "https://aftermath.site/feed"
+          }
+        ],
+        "falsification": "No second independent signal — search volume, editorial mention outside gaming media, or retail movement — surfaces by 2026-08-08.",
+        "format": "local_signal",
+        "geography": [
+          "Canada",
+          "United States"
+        ],
+        "headline": "The Tiny Room at the End of the Feed",
+        "human_action": "Monitor for a second independent signal within 60 days: beginner miniature search volume spike, craft-supply retailer SKU expansion into starter kits, second editorial mention from outside gaming media, or subreddit growth in r/minipainting or r/dollhouses.",
+        "issue_id": "foreshore-2026-06-08-miniature-crafting",
+        "machine_action": "Track aftermath.site and equivalent gaming-culture feeds for miniature crafting mentions; flag any craft-supply or toy retailer beginner kit launches; monitor Canadian broadcasting news for show renewal or US licensing deals.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement. The 60-day falsification window is standard for low-confidence TV-driven hobby signals.",
+        "product": "foreshore",
+        "publication_date": "2026-06-08",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-08",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'aftermath.site', 'source_url': 'https://aftermath.site/feed', 'type': 'editorial_mention', 'date': '2026-06-04', 'quote': 'A Canadian reality TV show got me making my own miniatures', 'strength': 'weak', 'notes': 'Single first-person account from a gaming-culture outlet. No search volume, retail movement, or second-source corroboration. Signals TV-to-hobby pipeline, not demand at scale.'}"
+        ],
+        "source_objects": [
+          {
+            "label": "aftermath.site",
+            "last_error": null,
+            "last_fetched_at": "2026-06-04 13:34:15",
+            "source_type": "editorial_feed",
+            "url": "https://aftermath.site/feed"
+          }
+        ],
+        "state": "observing",
+        "thesis": "A Canadian reality TV format is driving new entrants into miniature crafting from outside the existing hobby base; the beginner onboarding and supply infrastructure for this non-hobbyist buyer does not yet exist.",
+        "trend_ids": [
+          "miniature_crafting",
+          "tv_to_hobby_pipeline",
+          "craft_hobby_onboarding"
+        ],
+        "uncertainty": "Single source with no transaction, search volume, or demographic corroboration. The Canada-first craft adoption pattern is consistent historically but not deterministic. The specific Canadian show is unnamed in the source."
+      }
+    }
+  },
+  "title": "The Tiny Room at the End of the Feed",
+  "summary": "A Canadian reality TV format is driving new entrants into miniature crafting from outside the existing hobby base; the beginner onboarding and supply infrastructure for this non-hobbyist buyer does not yet exist.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "A Canadian reality TV format is driving new entrants into miniature crafting from outside the existing hobby base; the beginner onboarding and supply infrastructure for this non-hobbyist buyer does not yet exist.",
+      "claim_kind": "predictive",
+      "confidence": 0.2,
+      "confidence_label": "low",
+      "as_of": "2026-06-08",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-08-miniature-crafting@v1",
+      "falsification": "No second independent signal — search volume, editorial mention outside gaming media, or retail movement — surfaces by 2026-08-08."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Tiny Room at the End of the Feed",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "A Canadian reality TV format is driving new entrants into miniature crafting from outside the existing hobby base; the beginner onboarding and supply infrastructure for this non-hobbyist buyer does not yet exist.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'aftermath.site', 'source_url': 'https://aftermath.site/feed', 'type': 'editorial_mention', 'date': '2026-06-04', 'quote': 'A Canadian reality TV show got me making my own miniatures', 'strength': 'weak', 'notes': 'Single first-person account from a gaming-culture outlet. No search volume, retail movement, or second-source corroboration. Signals TV-to-hobby pipeline, not demand at scale.'} (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "No second independent signal — search volume, editorial mention outside gaming media, or retail movement — surfaces by 2026-08-08.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Tiny Room at the End of the Feed.\" Convergence Daily. 2026-06-08. Resolve signal://foreshore/claim/foreshore-2026-06-08-miniature-crafting@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-08-miniature-crafting@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-08",
+      "published_at": "2026-06-08T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

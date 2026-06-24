@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260617bjjlifestylecommunity",
+  "slug": "foreshore-2026-06-17-bjj-lifestyle-community",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-17-bjj-lifestyle-community.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-17-bjj-lifestyle-community@sha256-f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-17T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-17T00:00:00Z",
+    "modified_at": "2026-06-17T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-17-bjj-lifestyle-community@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.32,
+            "event_date": "2026-06-15",
+            "evidence_quote": "Japanese cult label Needles is linking up with martial arts powerhouse Albino & Preto for a capsule that bridges the worlds of high fashion and Brazilian Jiu Jitsu culture.",
+            "interpretation": "Fashion co-sign of BJJ community as legible taste-making demographic; weak single-source signal but directionally consistent with prior luxury-to-lifestyle sport adoption patterns.",
+            "signal": "bjj_lifestyle_fashion_crossover",
+            "source_type": "rss_editorial",
+            "source_url": "https://hypebae.com/feed"
+          }
+        ],
+        "format": "rich_people_beta",
+        "geography": [
+          "United States",
+          "Japan",
+          "global_streetwear"
+        ],
+        "human_action": "Confirm whether the Needles x A&P capsule has launched, sold through, or generated secondary market activity. Look for a second fashion-brand collab with a BJJ-adjacent label in the next 90 days as corroboration.",
+        "machine_action": "Track Hypebae, Highsnobiety, and Dazed for BJJ lifestyle or martial arts culture coverage. Flag any additional fashion-brand collab with A&P, Shoyoroll, or comparable premium BJJ labels.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-15T13:35:31Z",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-15T13:35:31Z",
+              "notes": "Single editorial source. No search volume, sales data, or second-source corroboration.",
+              "source_name": "Hypebae RSS"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Hypebae",
+            "last_error": null,
+            "last_fetched_at": "2026-06-15T13:35:31Z",
+            "source_type": "rss_editorial",
+            "url": "https://hypebae.com/feed"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "bjj_lifestyle_apparel",
+          "martial_arts_fashion_crossover",
+          "high_intensity_niche_demographics"
+        ],
+        "uncertainty": "Single editorial mention with no sales data, search volume, or corroborating source. The collab is a signal of fashion attention, not evidence of a formed consumer market."
+      },
+      "original_issue": {
+        "confidence": "low",
+        "evidence_map": [
+          {
+            "confidence": 0.32,
+            "event_date": "2026-06-15",
+            "evidence_quote": "Japanese cult label Needles is linking up with martial arts powerhouse Albino & Preto for a capsule that bridges the worlds of high fashion and Brazilian Jiu Jitsu culture.",
+            "interpretation": "Fashion co-sign of BJJ community as legible taste-making demographic; weak single-source signal but directionally consistent with prior luxury-to-lifestyle sport adoption patterns.",
+            "signal": "bjj_lifestyle_fashion_crossover",
+            "source_type": "rss_editorial",
+            "source_url": "https://hypebae.com/feed"
+          }
+        ],
+        "falsification": "Kill if the Needles x A&P capsule launches without secondary market formation or editorial follow-through; or if no second fashion brand enters BJJ lifestyle within 18 months.",
+        "format": "rich_people_beta",
+        "geography": [
+          "United States",
+          "Japan",
+          "global_streetwear"
+        ],
+        "headline": "When the Kimono Gets a Fashion Week Co-Sign",
+        "human_action": "Confirm whether the Needles x A&P capsule has launched, sold through, or generated secondary market activity. Look for a second fashion-brand collab with a BJJ-adjacent label in the next 90 days as corroboration.",
+        "issue_id": "foreshore-2026-06-17-bjj-lifestyle-community",
+        "machine_action": "Track Hypebae, Highsnobiety, and Dazed for BJJ lifestyle or martial arts culture coverage. Flag any additional fashion-brand collab with A&P, Shoyoroll, or comparable premium BJJ labels.",
+        "product": "foreshore",
+        "publication_date": "2026-06-17",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-15T13:35:31Z",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-15T13:35:31Z",
+              "notes": "Single editorial source. No search volume, sales data, or second-source corroboration.",
+              "source_name": "Hypebae RSS"
+            }
+          ]
+        },
+        "signals": [
+          "Needles x Albino & Preto capsule collab reported by Hypebae (2026-06-15): Japanese cult streetwear label co-signs BJJ's most collectible premium gi brand, signaling fashion-world recognition of BJJ practitioners as a taste-making demographic."
+        ],
+        "source_objects": [
+          {
+            "label": "Hypebae",
+            "last_error": null,
+            "last_fetched_at": "2026-06-15T13:35:31Z",
+            "source_type": "rss_editorial",
+            "url": "https://hypebae.com/feed"
+          }
+        ],
+        "state": "observing",
+        "thesis": "BJJ practitioners are a disproportionately high-income, brand-loyal demographic that fashion has been slow to recognize as taste-makers; the Needles x Albino & Preto collab signals that recognition has arrived, and the lifestyle layer between the mat and the street remains unbuilt.",
+        "trend_ids": [
+          "bjj_lifestyle_apparel",
+          "martial_arts_fashion_crossover",
+          "high_intensity_niche_demographics"
+        ],
+        "uncertainty": "Single editorial mention with no sales data, search volume, or corroborating source. The collab is a signal of fashion attention, not evidence of a formed consumer market."
+      }
+    }
+  },
+  "title": "When the Kimono Gets a Fashion Week Co-Sign",
+  "summary": "BJJ practitioners are a disproportionately high-income, brand-loyal demographic that fashion has been slow to recognize as taste-makers; the Needles x Albino & Preto collab signals that recognition has arrived, and the lifestyle layer between the mat and the street remains unbuilt.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "BJJ practitioners are a disproportionately high-income, brand-loyal demographic that fashion has been slow to recognize as taste-makers; the Needles x Albino & Preto collab signals that recognition has arrived, and the lifestyle layer between the mat and the street remains unbuilt.",
+      "claim_kind": "predictive",
+      "confidence": 0.2,
+      "confidence_label": "low",
+      "as_of": "2026-06-17",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-17-bjj-lifestyle-community@v1",
+      "falsification": "Kill if the Needles x A&P capsule launches without secondary market formation or editorial follow-through; or if no second fashion brand enters BJJ lifestyle within 18 months."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "When the Kimono Gets a Fashion Week Co-Sign",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "BJJ practitioners are a disproportionately high-income, brand-loyal demographic that fashion has been slow to recognize as taste-makers; the Needles x Albino & Preto collab signals that recognition has arrived, and the lifestyle layer between the mat and the street remains unbuilt.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: Needles x Albino & Preto capsule collab reported by Hypebae (2026-06-15): Japanese cult streetwear label co-signs BJJ's most collectible premium gi brand, signaling fashion-world recognition of BJJ practitioners as a taste-making demographic.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Kill if the Needles x A&P capsule launches without secondary market formation or editorial follow-through; or if no second fashion brand enters BJJ lifestyle within 18 months.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"When the Kimono Gets a Fashion Week Co-Sign.\" Convergence Daily. 2026-06-17. Resolve signal://foreshore/claim/foreshore-2026-06-17-bjj-lifestyle-community@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-17-bjj-lifestyle-community@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-17",
+      "published_at": "2026-06-17T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

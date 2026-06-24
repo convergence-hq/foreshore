@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260610caffeinewellnessdrinks",
+  "slug": "foreshore-2026-06-10-caffeine-wellness-drinks",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-10-caffeine-wellness-drinks.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-10-caffeine-wellness-drinks@sha256-70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-10T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-10T00:00:00Z",
+    "modified_at": "2026-06-10T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-10-caffeine-wellness-drinks@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "vocabulary_shift",
+        "geography": [
+          "UK",
+          "EU",
+          "global_youth_culture"
+        ],
+        "human_action": "Watch for a second independent source with demographic specificity before elevating — Gen Z purchase data, search trend movement on 'wellness energy drink' or 'sober-curious drink', or a new brand launch explicitly targeting hospitality channels. Monitor UK sober bar programming for whether caffeinated products are appearing on drinks menus.",
+        "machine_action": "Track search volume for 'wellness energy drink', 'functional caffeine', 'sober-curious drink'. Monitor new RTD brand launches in matcha, yerba mate, and caffeine pouch categories. Watch hospitality trade press for caffeinated product placements on bar and restaurant menus.",
+        "methodology_footer": "Source: Dazed Digital RSS feed, 2026-06-10. Single editorial mention. Confidence 0.4 / medium_low.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-10",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-10",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "caffeine_wellness_drinks",
+          "sober_curious_caffeine",
+          "social_occasion_caffeine",
+          "wellness_coded_energy"
+        ],
+        "uncertainty": "Unclear whether 'wellness-coded' energy drinks represent genuine buyer-identity formation or editorial shorthand for an existing but fragmented market. The hospitality channel gap is inferred from category logic, not observed demand."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "falsification": "If Monster and Red Bull are gaining share in the same sober-curious demographic, the vocabulary shift is cosmetic and existing players are absorbing the signal without structural disruption. If search volume for 'wellness energy drink' is flat or declining, the editorial framing is ahead of consumer behavior and the category consolidation is not real.",
+        "format": "vocabulary_shift",
+        "geography": [
+          "UK",
+          "EU",
+          "global_youth_culture"
+        ],
+        "headline": "The Sober Drink Gets a Stimulant",
+        "human_action": "Watch for a second independent source with demographic specificity before elevating — Gen Z purchase data, search trend movement on 'wellness energy drink' or 'sober-curious drink', or a new brand launch explicitly targeting hospitality channels. Monitor UK sober bar programming for whether caffeinated products are appearing on drinks menus.",
+        "issue_id": "foreshore-2026-06-10-caffeine-wellness-drinks",
+        "machine_action": "Track search volume for 'wellness energy drink', 'functional caffeine', 'sober-curious drink'. Monitor new RTD brand launches in matcha, yerba mate, and caffeine pouch categories. Watch hospitality trade press for caffeinated product placements on bar and restaurant menus.",
+        "methodology_footer": "Source: Dazed Digital RSS feed, 2026-06-10. Single editorial mention. Confidence 0.4 / medium_low.",
+        "product": "foreshore",
+        "publication_date": "2026-06-10",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-10",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-10",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'dazed_digital_rss', 'url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-10', 'quote': 'From iced matcha lattes to wellness-coded energy drinks to flavoured pouches, caffeine products are everywhere right now – and sober-curious young people are behind the boom', 'strength': 'weak', 'notes': 'Single editorial source from a culturally forward UK/EU youth outlet. No search volume, sales data, or second-source corroboration. Signal value is the vocabulary consolidation across three previously separate product categories, not volume.'}"
+        ],
+        "state": "observing",
+        "thesis": "The phrase 'sober-curious' is migrating from alcohol-abstinence framing into caffeine-adoption framing, consolidating iced matcha, wellness energy drinks, and flavored pouches under a single buyer identity — the whitespace is a social-occasion caffeine brand built for hospitality distribution, a channel no current player owns.",
+        "trend_ids": [
+          "caffeine_wellness_drinks",
+          "sober_curious_caffeine",
+          "social_occasion_caffeine",
+          "wellness_coded_energy"
+        ],
+        "uncertainty": "Unclear whether 'wellness-coded' energy drinks represent genuine buyer-identity formation or editorial shorthand for an existing but fragmented market. The hospitality channel gap is inferred from category logic, not observed demand."
+      }
+    }
+  },
+  "title": "The Sober Drink Gets a Stimulant",
+  "summary": "The phrase 'sober-curious' is migrating from alcohol-abstinence framing into caffeine-adoption framing, consolidating iced matcha, wellness energy drinks, and flavored pouches under a single buyer identity — the whitespace is a social-occasion caffeine brand built for hospitality distribution, a channel no current player owns.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The phrase 'sober-curious' is migrating from alcohol-abstinence framing into caffeine-adoption framing, consolidating iced matcha, wellness energy drinks, and flavored pouches under a single buyer identity — the whitespace is a social-occasion caffeine brand built for hospitality distribution, a channel no current player owns.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-06-10",
+      "evidence_refs": [
+        "sig_1"
+      ],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-10-caffeine-wellness-drinks@v1",
+      "falsification": "If Monster and Red Bull are gaining share in the same sober-curious demographic, the vocabulary shift is cosmetic and existing players are absorbing the signal without structural disruption. If search volume for 'wellness energy drink' is flat or declining, the editorial framing is ahead of consumer behavior and the category consolidation is not real."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "sig_1",
+      "title": "sig_1",
+      "url": "https://www.dazeddigital.com/rss",
+      "publisher": "dazed_digital_rss"
+    }
+  ],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Sober Drink Gets a Stimulant",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The phrase 'sober-curious' is migrating from alcohol-abstinence framing into caffeine-adoption framing, consolidating iced matcha, wellness energy drinks, and flavored pouches under a single buyer identity — the whitespace is a social-occasion caffeine brand built for hospitality distribution, a channel no current player owns.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'dazed_digital_rss', 'url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-10', 'quote': 'From iced matcha lattes to wellness-coded energy drinks to flavoured pouches, caffeine products are everywhere right now – and sober-curious young people are behind the boom', 'strength': 'weak', 'notes': 'Single editorial source from a culturally forward UK/EU youth outlet. No search volume, sales data, or second-source corroboration. Signal value is the vocabulary consolidation across three previously separate product categories, not volume.'} (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If Monster and Red Bull are gaining share in the same sober-curious demographic, the vocabulary shift is cosmetic and existing players are absorbing the signal without structural disruption. If search volume for 'wellness energy drink' is flat or declining, the editorial framing is ahead of consumer behavior and the category consolidation is not real.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Sober Drink Gets a Stimulant.\" Convergence Daily. 2026-06-10. Resolve signal://foreshore/claim/foreshore-2026-06-10-caffeine-wellness-drinks@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-10-caffeine-wellness-drinks@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-10",
+      "published_at": "2026-06-10T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

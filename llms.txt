@@ -1,0 +1,34 @@
+# Foreshore
+
+Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.
+
+## Machine Surface
+- Trust contract: https://foreshore.permanentupperclass.com/o/trust.json
+- Object index: https://foreshore.permanentupperclass.com/o/index.json
+- Claim index: https://foreshore.permanentupperclass.com/o/claims.json
+- Alias index: https://foreshore.permanentupperclass.com/o/aliases.json
+- API catalog: https://foreshore.permanentupperclass.com/.well-known/api-catalog
+- Optional live API overlay: https://foreshore.permanentupperclass.com/api/
+- Optional MCP overlay: https://foreshore.permanentupperclass.com/mcp
+
+## Objects
+- The Phone No One Manufactures Anymore: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json
+- Brazilian Jiu Jitsu Lifestyle: Shadow Watch: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json
+- Hormone Health Testing: Shadow Watch: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json
+- The Call You Had to Stay For: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json
+- The Bruise You Chose: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos@sha256-0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940.json
+- When the Kimono Gets a Fashion Week Co-Sign: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-17-bjj-lifestyle-community@sha256-f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175.json
+- The Accidental Wellness Chamber: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-16-cinema-wellness-ritual@sha256-ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906.json
+- The Bat and Ball That Four Houses Packed This Season: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-15-beach-paddle-sport@sha256-2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22.json
+- The Back Bar Nobody Stocks: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-11-sober-caffeine-culture@sha256-a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2.json
+- The Sober Drink Gets a Stimulant: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-10-caffeine-wellness-drinks@sha256-70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025.json
+- The Wrong Student in the Right Studio: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-09-ceramics-studio@sha256-9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293.json
+- The Tiny Room at the End of the Feed: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-08-miniature-crafting@sha256-eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72.json
+- The Opt-Out Class: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-05-dumb-phone-movement@sha256-51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878.json
+- The Byproduct Running the Beauty Counter: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-04-salmon-pdrn-facials@sha256-3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3.json
+- Everything Is Automated Except the Label: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-03-human-made-preference@sha256-698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd.json
+- What the Forum Boys Found on the Luxury Shelf: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-02-looksmaxxing@sha256-9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f.json
+- Learning to Hold the Door: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-01-death-doulas@sha256-26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1.json
+- The cleanup economy: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-21-issue-1@sha256-ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c.json
+- The GLP-1 Skin Trade Is the Maintenance Layer: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-20-shadow-1@sha256-6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f.json
+

@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260609ceramicsstudio",
+  "slug": "foreshore-2026-06-09-ceramics-studio",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-09-ceramics-studio.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-09-ceramics-studio@sha256-9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-09T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-09T00:00:00Z",
+    "modified_at": "2026-06-09T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-09-ceramics-studio@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "US",
+          "urban"
+        ],
+        "human_action": "Watch for: ceramics studio closures in urban markets, launch of outcome-focused or results-first ceramics curriculum products, re-enrollment rate disclosures from studio chains or co-op networks. A second independent source describing the same expectation mismatch would materially upgrade confidence.",
+        "machine_action": "Monitor RSS feeds and social for ceramics or pottery studio closures, new beginner-format studio launches, editorial pieces describing dropout or dissatisfaction with craft class instruction, and any studio operators discussing curriculum redesign.",
+        "methodology_footer": "Single RSS source surfaced by editorial signal monitor. Confidence held at low pending second independent signal. Not a repeat of the June 8 miniatures issue — that piece concerned beginner supply infrastructure for a TV-driven entry cohort; this concerns retention economics and curriculum design inside a mature studio category.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-09",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "ceramics_studio_retention",
+          "aesthetic_hobby_dropout",
+          "outcome_first_craft_curriculum"
+        ],
+        "uncertainty": "The dropout described may be isolated to poor instruction at a single studio rather than structural across the category. The ceramics studio market lacks centralized enrollment or retention data, making the thesis difficult to verify quickly. Adjacent craft-hobby onboarding signals (miniatures, June 8) concern market entry, not retention — this proposal is differentiated by focusing on the curriculum-expectation gap inside an already-adopted hobby."
+      },
+      "original_issue": {
+        "confidence": "low",
+        "falsification": "Strong re-enrollment data at existing ceramics studios; emergence of scaled outcome-first studio formats already addressing the mismatch; no corroborating dropout signals from a second independent source within 60 days.",
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "US",
+          "urban"
+        ],
+        "headline": "The Wrong Student in the Right Studio",
+        "human_action": "Watch for: ceramics studio closures in urban markets, launch of outcome-focused or results-first ceramics curriculum products, re-enrollment rate disclosures from studio chains or co-op networks. A second independent source describing the same expectation mismatch would materially upgrade confidence.",
+        "issue_id": "foreshore-2026-06-09-ceramics-studio",
+        "machine_action": "Monitor RSS feeds and social for ceramics or pottery studio closures, new beginner-format studio launches, editorial pieces describing dropout or dissatisfaction with craft class instruction, and any studio operators discussing curriculum redesign.",
+        "methodology_footer": "Single RSS source surfaced by editorial signal monitor. Confidence held at low pending second independent signal. Not a repeat of the June 8 miniatures issue — that piece concerned beginner supply infrastructure for a TV-driven entry cohort; this concerns retention economics and curriculum design inside a mature studio category.",
+        "product": "foreshore",
+        "publication_date": "2026-06-09",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-09",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Refinery29 RSS', 'url': 'https://www.refinery29.com/en-us/rss.xml', 'type': 'editorial_mention', 'date': '2026-06-09', 'quote': 'Seven weeks into my second round of pottery classes, I decided that I hated pottery. The realization came after yet another lesson where I sat, frustrated, as my instructor taught me once again how to', 'strength': 'weak', 'notes': 'Single first-person essay from a lifestyle outlet. No search volume, enrollment data, or studio-side corroboration. Writer completed two separate enrollment rounds before quitting — signals repeat-attempt, not first-timer attrition.'}"
+        ],
+        "state": "observing",
+        "thesis": "Ceramics studios built on aesthetic-era demand are running a vocational trades curriculum, creating structural dropout that threatens re-enrollment economics — the opportunity is an outcome-first beginner format for the buyer who wants the object, not the craft mastery.",
+        "trend_ids": [
+          "ceramics_studio_retention",
+          "aesthetic_hobby_dropout",
+          "outcome_first_craft_curriculum"
+        ],
+        "uncertainty": "The dropout described may be isolated to poor instruction at a single studio rather than structural across the category. The ceramics studio market lacks centralized enrollment or retention data, making the thesis difficult to verify quickly. Adjacent craft-hobby onboarding signals (miniatures, June 8) concern market entry, not retention — this proposal is differentiated by focusing on the curriculum-expectation gap inside an already-adopted hobby."
+      }
+    }
+  },
+  "title": "The Wrong Student in the Right Studio",
+  "summary": "Ceramics studios built on aesthetic-era demand are running a vocational trades curriculum, creating structural dropout that threatens re-enrollment economics — the opportunity is an outcome-first beginner format for the buyer who wants the object, not the craft mastery.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Ceramics studios built on aesthetic-era demand are running a vocational trades curriculum, creating structural dropout that threatens re-enrollment economics — the opportunity is an outcome-first beginner format for the buyer who wants the object, not the craft mastery.",
+      "claim_kind": "predictive",
+      "confidence": 0.2,
+      "confidence_label": "low",
+      "as_of": "2026-06-09",
+      "evidence_refs": [
+        "sig_1"
+      ],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-09-ceramics-studio@v1",
+      "falsification": "Strong re-enrollment data at existing ceramics studios; emergence of scaled outcome-first studio formats already addressing the mismatch; no corroborating dropout signals from a second independent source within 60 days."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "sig_1",
+      "title": "sig_1",
+      "url": "https://www.refinery29.com/en-us/rss.xml",
+      "publisher": "Refinery29 RSS"
+    }
+  ],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Wrong Student in the Right Studio",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Ceramics studios built on aesthetic-era demand are running a vocational trades curriculum, creating structural dropout that threatens re-enrollment economics — the opportunity is an outcome-first beginner format for the buyer who wants the object, not the craft mastery.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Refinery29 RSS', 'url': 'https://www.refinery29.com/en-us/rss.xml', 'type': 'editorial_mention', 'date': '2026-06-09', 'quote': 'Seven weeks into my second round of pottery classes, I decided that I hated pottery. The realization came after yet another lesson where I sat, frustrated, as my instructor taught me once again how to', 'strength': 'weak', 'notes': 'Single first-person essay from a lifestyle outlet. No search volume, enrollment data, or studio-side corroboration. Writer completed two separate enrollment rounds before quitting — signals repeat-attempt, not first-timer attrition.'} (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Strong re-enrollment data at existing ceramics studios; emergence of scaled outcome-first studio formats already addressing the mismatch; no corroborating dropout signals from a second independent source within 60 days.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Wrong Student in the Right Studio.\" Convergence Daily. 2026-06-09. Resolve signal://foreshore/claim/foreshore-2026-06-09-ceramics-studio@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-09-ceramics-studio@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-09",
+      "published_at": "2026-06-09T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260623analoglandlinerevival",
+  "slug": "foreshore-2026-06-23-analog-landline-revival",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-23T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-23T00:00:00Z",
+    "modified_at": "2026-06-23T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-23-analog-landline-revival@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "US",
+          "UK"
+        ],
+        "human_action": "Hold at observing. Monitor for second-source corroboration: search volume growth for 'corded phone' or 'landline revival', rising vintage handset prices on resale platforms, or a DTC hardware brand entering the category. Do not promote until the supply-side gap has independent demand-side support.",
+        "machine_action": "Track eBay sold listings for vintage corded phones (price trend and volume). Monitor Google Trends for 'corded phone', 'home landline', 'analog phone'. Watch Kickstarter and DTC hardware channels for bundled handset-plus-adapter product launches. Flag any editorial pickup from a non-UK outlet.",
+        "methodology_footer": "Source: Dazed Digital RSS, 2026-06-17. Infrastructure context drawn from FCC POTS decommissioning framework (2015, 2019) and AT&T/Verizon carrier filings. No primary demand data available at time of writing.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-23",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "analog_landline_revival",
+          "corded_phone_domestic_wellness",
+          "digital_burnout_objects",
+          "pots_infrastructure_decommission",
+          "analog_telephone_adapter_market"
+        ],
+        "uncertainty": "High. Single editorial source with repeat-outlet concentration. No demand data, search volume movement, or retail evidence. Infrastructure decommissioning is documented fact; consumer revival is editorial speculation from one UK youth outlet."
+      },
+      "original_issue": {
+        "confidence": "low",
+        "falsification": "Kill if: search volume for corded or landline phones shows no directional growth over 90 days; vintage handset prices on resale platforms remain flat or decline; no DTC brand or crowdfunding campaign enters the category within six months; no second independent editorial source appears within 30 days.",
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "US",
+          "UK"
+        ],
+        "headline": "The Phone No One Manufactures Anymore",
+        "human_action": "Hold at observing. Monitor for second-source corroboration: search volume growth for 'corded phone' or 'landline revival', rising vintage handset prices on resale platforms, or a DTC hardware brand entering the category. Do not promote until the supply-side gap has independent demand-side support.",
+        "issue_id": "foreshore-2026-06-23-analog-landline-revival",
+        "machine_action": "Track eBay sold listings for vintage corded phones (price trend and volume). Monitor Google Trends for 'corded phone', 'home landline', 'analog phone'. Watch Kickstarter and DTC hardware channels for bundled handset-plus-adapter product launches. Flag any editorial pickup from a non-UK outlet.",
+        "methodology_footer": "Source: Dazed Digital RSS, 2026-06-17. Infrastructure context drawn from FCC POTS decommissioning framework (2015, 2019) and AT&T/Verizon carrier filings. No primary demand data available at time of writing.",
+        "product": "foreshore",
+        "publication_date": "2026-06-23",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-23",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Dazed Digital', 'url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-17', 'quote': 'Driven by digital burnout and some good old nostalgia, some young people are plugging back into corded phones with the hope of reviving the art of uninterrupted conversation', 'strength': 'weak', 'notes': 'Second signal from the same outlet on the same trend within four days of the June 19 issue. No search volume, retail movement, or independent corroboration. Dazed Digital source concentration risk is elevated across recent issues.'}"
+        ],
+        "state": "observing",
+        "thesis": "The corded landline revival is culturally visible but supply-side hollow — quality new corded phones are nearly impossible to source at retail, telecom infrastructure is being actively decommissioned, and the business opportunity sits with whoever rebuilds the supply chain before the aesthetic locks in.",
+        "trend_ids": [
+          "analog_landline_revival",
+          "corded_phone_domestic_wellness",
+          "digital_burnout_objects",
+          "pots_infrastructure_decommission",
+          "analog_telephone_adapter_market"
+        ],
+        "uncertainty": "High. Single editorial source with repeat-outlet concentration. No demand data, search volume movement, or retail evidence. Infrastructure decommissioning is documented fact; consumer revival is editorial speculation from one UK youth outlet."
+      }
+    }
+  },
+  "title": "The Phone No One Manufactures Anymore",
+  "summary": "The corded landline revival is culturally visible but supply-side hollow — quality new corded phones are nearly impossible to source at retail, telecom infrastructure is being actively decommissioned, and the business opportunity sits with whoever rebuilds the supply chain before the aesthetic locks in.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The corded landline revival is culturally visible but supply-side hollow — quality new corded phones are nearly impossible to source at retail, telecom infrastructure is being actively decommissioned, and the business opportunity sits with whoever rebuilds the supply chain before the aesthetic locks in.",
+      "claim_kind": "predictive",
+      "confidence": 0.2,
+      "confidence_label": "low",
+      "as_of": "2026-06-23",
+      "evidence_refs": [
+        "sig_1"
+      ],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-23-analog-landline-revival@v1",
+      "falsification": "Kill if: search volume for corded or landline phones shows no directional growth over 90 days; vintage handset prices on resale platforms remain flat or decline; no DTC brand or crowdfunding campaign enters the category within six months; no second independent editorial source appears within 30 days."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "sig_1",
+      "title": "sig_1",
+      "url": "https://www.dazeddigital.com/rss",
+      "publisher": "Dazed Digital"
+    }
+  ],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Phone No One Manufactures Anymore",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The corded landline revival is culturally visible but supply-side hollow — quality new corded phones are nearly impossible to source at retail, telecom infrastructure is being actively decommissioned, and the business opportunity sits with whoever rebuilds the supply chain before the aesthetic locks in.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Dazed Digital', 'url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-17', 'quote': 'Driven by digital burnout and some good old nostalgia, some young people are plugging back into corded phones with the hope of reviving the art of uninterrupted conversation', 'strength': 'weak', 'notes': 'Second signal from the same outlet on the same trend within four days of the June 19 issue. No search volume, retail movement, or independent corroboration. Dazed Digital source concentration risk is elevated across recent issues.'} (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Kill if: search volume for corded or landline phones shows no directional growth over 90 days; vintage handset prices on resale platforms remain flat or decline; no DTC brand or crowdfunding campaign enters the category within six months; no second independent editorial source appears within 30 days.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Phone No One Manufactures Anymore.\" Convergence Daily. 2026-06-23. Resolve signal://foreshore/claim/foreshore-2026-06-23-analog-landline-revival@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-23-analog-landline-revival@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-23",
+      "published_at": "2026-06-23T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

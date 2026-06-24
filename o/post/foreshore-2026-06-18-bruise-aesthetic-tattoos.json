@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260618bruiseaesthetictattoos",
+  "slug": "foreshore-2026-06-18-bruise-aesthetic-tattoos",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos@sha256-0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-18T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-18T00:00:00Z",
+    "modified_at": "2026-06-18T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-18-bruise-aesthetic-tattoos@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "smoke_before_fire",
+        "geography": [
+          "UK",
+          "US",
+          "Germany"
+        ],
+        "human_action": "Watch for a second editorial signal from a tattoo-native publication — Tattoodo, Inked, or a specialist body modification outlet — within eight weeks. If one surfaces independently, promote and scope the ink supply opportunity. If none, archive.",
+        "machine_action": "Monitor search volume for 'bruise tattoo', 'contusion tattoo', 'hematoma tattoo'. Track Instagram and TikTok posts from tattoo artists tagging bruise-aesthetic or injury-imitation work. Alert on any second editorial source outside Dazed network.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-18",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "bruise_aesthetic_tattoos",
+          "damaged_body_aesthetics",
+          "hyperrealism_tattoo_technique",
+          "somatic_identity_marking"
+        ],
+        "uncertainty": "Single editorial source with no independent corroboration. Cultural context analysis is analytical inference, not sourced evidence. Eight-week confirmation window required before any business positioning."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "falsification": "No second editorial source within 8 weeks; no measurable search movement on bruise/contusion/hematoma tattoo terms; no tattoo-native publication coverage. Any single criterion is suggestive; all three together kills the signal.",
+        "format": "smoke_before_fire",
+        "geography": [
+          "UK",
+          "US",
+          "Germany"
+        ],
+        "headline": "The Bruise You Chose",
+        "human_action": "Watch for a second editorial signal from a tattoo-native publication — Tattoodo, Inked, or a specialist body modification outlet — within eight weeks. If one surfaces independently, promote and scope the ink supply opportunity. If none, archive.",
+        "issue_id": "foreshore-2026-06-18-bruise-aesthetic-tattoos",
+        "machine_action": "Monitor search volume for 'bruise tattoo', 'contusion tattoo', 'hematoma tattoo'. Track Instagram and TikTok posts from tattoo artists tagging bruise-aesthetic or injury-imitation work. Alert on any second editorial source outside Dazed network.",
+        "product": "foreshore",
+        "publication_date": "2026-06-18",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-18",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Dazed Digital', 'source_url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-18', 'quote': 'Bruise-like tattoos are blooming in popularity – here, we explore why people are attracted to designs that imitate injury', 'strength': 'weak', 'notes': 'Single UK youth cultural outlet; no search volume, retail movement, or second-source corroboration'}"
+        ],
+        "state": "observing",
+        "thesis": "A single Dazed Digital editorial marks bruise-imitation tattoos as an emerging aesthetic category at the convergence of damaged-body aesthetics, hyperrealism technique expansion, and somatic identity marking; confirmation within eight weeks would open a narrow but defensible opportunity in specialized tattoo ink supply.",
+        "trend_ids": [
+          "bruise_aesthetic_tattoos",
+          "damaged_body_aesthetics",
+          "hyperrealism_tattoo_technique",
+          "somatic_identity_marking"
+        ],
+        "uncertainty": "Single editorial source with no independent corroboration. Cultural context analysis is analytical inference, not sourced evidence. Eight-week confirmation window required before any business positioning."
+      }
+    }
+  },
+  "title": "The Bruise You Chose",
+  "summary": "A single Dazed Digital editorial marks bruise-imitation tattoos as an emerging aesthetic category at the convergence of damaged-body aesthetics, hyperrealism technique expansion, and somatic identity marking; confirmation within eight weeks would open a narrow but defensible opportunity in specialized tattoo ink supply.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "A single Dazed Digital editorial marks bruise-imitation tattoos as an emerging aesthetic category at the convergence of damaged-body aesthetics, hyperrealism technique expansion, and somatic identity marking; confirmation within eight weeks would open a narrow but defensible opportunity in specialized tattoo ink supply.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-06-18",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-18-bruise-aesthetic-tattoos@v1",
+      "falsification": "No second editorial source within 8 weeks; no measurable search movement on bruise/contusion/hematoma tattoo terms; no tattoo-native publication coverage. Any single criterion is suggestive; all three together kills the signal."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Bruise You Chose",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "A single Dazed Digital editorial marks bruise-imitation tattoos as an emerging aesthetic category at the convergence of damaged-body aesthetics, hyperrealism technique expansion, and somatic identity marking; confirmation within eight weeks would open a narrow but defensible opportunity in specialized tattoo ink supply.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Dazed Digital', 'source_url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-18', 'quote': 'Bruise-like tattoos are blooming in popularity – here, we explore why people are attracted to designs that imitate injury', 'strength': 'weak', 'notes': 'Single UK youth cultural outlet; no search volume, retail movement, or second-source corroboration'} (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "No second editorial source within 8 weeks; no measurable search movement on bruise/contusion/hematoma tattoo terms; no tattoo-native publication coverage. Any single criterion is suggestive; all three together kills the signal.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Bruise You Chose.\" Convergence Daily. 2026-06-18. Resolve signal://foreshore/claim/foreshore-2026-06-18-bruise-aesthetic-tattoos@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-18-bruise-aesthetic-tattoos@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-18",
+      "published_at": "2026-06-18T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

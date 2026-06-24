@@ -1,0 +1,351 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Foreshore",
+  "home_page_url": "https://foreshore.permanentupperclass.com",
+  "feed_url": "https://foreshore.permanentupperclass.com/feed.json",
+  "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
+  "items": [
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-23-analog-landline-revival/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json",
+      "title": "The Phone No One Manufactures Anymore",
+      "summary": "The corded landline revival is culturally visible but supply-side hollow — quality new corded phones are nearly impossible to source at retail, telecom infrastructure is being actively decommissioned, and the business opportunity sits with whoever rebuilds the supply chain before the aesthetic locks in.",
+      "content_text": "The Phone No One Manufactures Anymore\n\nThesis\nThe corded landline revival is culturally visible but supply-side hollow — quality new corded phones are nearly impossible to source at retail, telecom infrastructure is being actively decommissioned, and the business opportunity sits with whoever rebuilds the supply chain before the aesthetic locks in.\n\nSignals\nsig_1: {'source': 'Dazed Digital', 'url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-17', 'quote': 'Driven by digital burnout and some good old nostalgia, some young people are plugging back into corded phones with the hope of reviving the art of uninterrupted conversation', 'strength': 'weak', 'notes': 'Second signal from the same outlet on the same trend within four days of the June 19 issue. No search volume, retail movement, or independent corroboration. Dazed Digital source concentration risk is elevated across recent issues.'} (strength: weak)\n\nWhat would falsify it\nKill if: search volume for corded or landline phones shows no directional growth over 90 days; vintage handset prices on resale platforms remain flat or decline; no DTC brand or crowdfunding campaign enters the category within six months; no second independent editorial source appears within 30 days.",
+      "date_published": "2026-06-23T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-23-bjj-lifestyle-community/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json",
+      "title": "Brazilian Jiu Jitsu Lifestyle: Shadow Watch",
+      "summary": "The queue found one live signal for Brazilian Jiu Jitsu Lifestyle.",
+      "content_text": "Brazilian Jiu Jitsu Lifestyle: Shadow Watch\n\nThesis\nThe queue found one live signal for Brazilian Jiu Jitsu Lifestyle. That is enough for a watch, not enough for a launch claim.\n\nSignals\nsig_1: pending_proposal\n\nsig_2: fitness-social\n\nsig_3: bjj-lifestyle-community\n\nWhat would falsify it\nArchive the candidate if no independent source type appears inside 28 days.",
+      "date_published": "2026-06-23T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-22-hormone-health-testing/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json",
+      "title": "Hormone Health Testing: Shadow Watch",
+      "summary": "The queue found one live signal for Hormone Health Testing.",
+      "content_text": "Hormone Health Testing: Shadow Watch\n\nThesis\nThe queue found one live signal for Hormone Health Testing. That is enough for a watch, not enough for a launch claim.\n\nSignals\nsig_1: pending_proposal\n\nsig_2: health-optimizatio\n\nsig_3: hormone-health-testing\n\nWhat would falsify it\nArchive the candidate if no independent source type appears inside 28 days.",
+      "date_published": "2026-06-22T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-19-analog-phone-revival/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json",
+      "title": "The Call You Had to Stay For",
+      "summary": "A single Dazed Digital editorial marks the domestic corded landline as an emerging wellness object among digital-burnout youth — distinct from dumb phone substitution in that it anchors the user to a room rather than reducing mobile capability.",
+      "content_text": "The Call You Had to Stay For\n\nThesis\nA single Dazed Digital editorial marks the domestic corded landline as an emerging wellness object among digital-burnout youth — distinct from dumb phone substitution in that it anchors the user to a room rather than reducing mobile capability. No premium product exists to meet the demand if the signal scales.\n\nSignals\nsig_1: {'source': 'Dazed Digital', 'source_url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-18', 'quote': 'Driven by digital burnout and some good old nostalgia, some young people are plugging back into corded phones with the hope of reviving the art of uninterrupted conversation', 'strength': 'weak', 'notes': 'Single UK youth cultural outlet, no search volume, retail movement, or second-source corroboration. Dazed Digital has contributed to four of the last ten Foreshore issues — source-concentration risk.'} (strength: weak)\n\nWhat would falsify it\nSignal is dead if search volume shows no movement after 90 days, no second editorial source picks up the object, and vintage phone listings on resale platforms show no price appreciation. Dazed editorial alone is insufficient to promote.",
+      "date_published": "2026-06-19T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos@sha256-0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-18-bruise-aesthetic-tattoos/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos@sha256-0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940.json",
+      "title": "The Bruise You Chose",
+      "summary": "A single Dazed Digital editorial marks bruise-imitation tattoos as an emerging aesthetic category at the convergence of damaged-body aesthetics, hyperrealism technique expansion, and somatic identity marking; confirmation within eight weeks would open a narrow but defensible opportunity in specialized tattoo ink supply.",
+      "content_text": "The Bruise You Chose\n\nThesis\nA single Dazed Digital editorial marks bruise-imitation tattoos as an emerging aesthetic category at the convergence of damaged-body aesthetics, hyperrealism technique expansion, and somatic identity marking; confirmation within eight weeks would open a narrow but defensible opportunity in specialized tattoo ink supply.\n\nSignals\nsig_1: {'source': 'Dazed Digital', 'source_url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-18', 'quote': 'Bruise-like tattoos are blooming in popularity – here, we explore why people are attracted to designs that imitate injury', 'strength': 'weak', 'notes': 'Single UK youth cultural outlet; no search volume, retail movement, or second-source corroboration'} (strength: weak)\n\nWhat would falsify it\nNo second editorial source within 8 weeks; no measurable search movement on bruise/contusion/hematoma tattoo terms; no tattoo-native publication coverage. Any single criterion is suggestive; all three together kills the signal.",
+      "date_published": "2026-06-18T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-17-bjj-lifestyle-community@sha256-f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-17-bjj-lifestyle-community/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-17-bjj-lifestyle-community@sha256-f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175.json",
+      "title": "When the Kimono Gets a Fashion Week Co-Sign",
+      "summary": "BJJ practitioners are a disproportionately high-income, brand-loyal demographic that fashion has been slow to recognize as taste-makers; the Needles x Albino & Preto collab signals that recognition has arrived, and the lifestyle layer between the mat and the street remains unbuilt.",
+      "content_text": "When the Kimono Gets a Fashion Week Co-Sign\n\nThesis\nBJJ practitioners are a disproportionately high-income, brand-loyal demographic that fashion has been slow to recognize as taste-makers; the Needles x Albino & Preto collab signals that recognition has arrived, and the lifestyle layer between the mat and the street remains unbuilt.\n\nSignals\nsig_1: Needles x Albino & Preto capsule collab reported by Hypebae (2026-06-15): Japanese cult streetwear label co-signs BJJ's most collectible premium gi brand, signaling fashion-world recognition of BJJ practitioners as a taste-making demographic.\n\nWhat would falsify it\nKill if the Needles x A&P capsule launches without secondary market formation or editorial follow-through; or if no second fashion brand enters BJJ lifestyle within 18 months.",
+      "date_published": "2026-06-17T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-16-cinema-wellness-ritual@sha256-ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-16-cinema-wellness-ritual/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-16-cinema-wellness-ritual@sha256-ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906.json",
+      "title": "The Accidental Wellness Chamber",
+      "summary": "The phrase 'wellness hack' is migrating onto cinema-going among young audiences, relocating the cinema ticket from the entertainment budget to the wellness budget — a reframing that operators have not yet named or productized.",
+      "content_text": "The Accidental Wellness Chamber\n\nThesis\nThe phrase 'wellness hack' is migrating onto cinema-going among young audiences, relocating the cinema ticket from the entertainment budget to the wellness budget — a reframing that operators have not yet named or productized.\n\nSignals\nsig_1: cinema_wellness_vocabulary_mention\n\nsig_2: youth_ritual_leisure_framing\n\nsig_3: dazed_rss_single_editorial_source\n\nsig_4: budget_category_migration_signal\n\nWhat would falsify it\nTrend does not hold if: cinema attendance among 18-34 cohorts is not outperforming the category average; wellness vocabulary does not appear in a second independent source within 90 days; and cinema operators show no uptake of wellness-adjacent framing in their own marketing copy within 12 months.",
+      "date_published": "2026-06-16T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-15-beach-paddle-sport@sha256-2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-15-beach-paddle-sport/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-15-beach-paddle-sport@sha256-2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22.json",
+      "title": "The Bat and Ball That Four Houses Packed This Season",
+      "summary": "Loro Piana, Hermès, Bottega Veneta, and Chanel have independently converged on cooperative beach bat-and-ball — frescobol/matkot — in their 2026 resort aesthetics.",
+      "content_text": "The Bat and Ball That Four Houses Packed This Season\n\nThesis\nLoro Piana, Hermès, Bottega Veneta, and Chanel have independently converged on cooperative beach bat-and-ball — frescobol/matkot — in their 2026 resort aesthetics. If the luxury-to-mainstream pipeline holds (as it did for padel and pickleball), the equipment layer between $80 and $180 is a gap no brand currently owns.\n\nSignals\nsig_1: Highsnobiety (2026-06-12): Loro Piana, Hermès, Bottega Veneta, and Chanel all featuring beach bat-and-ball in their resort season editorial — four competing houses converging on the same specific sport, not just 'beach' as an aesthetic category.\n\nsig_2: Frescobol Carioca (São Paulo, founded 2012) already sells handcrafted wooden paddle sets at $150–350 through luxury boutiques and hotel gift shops, establishing that a premium-positioned equipment market exists but is thin and geographically limited.\n\nsig_3: Padel and pickleball precedent: both received luxury fashion editorial attention 12–24 months before mainstream recreational adoption — the mechanism (luxury framing making an activity socially legible to aspirational non-participants) has repeated twice in the last decade.\n\nWhat would falsify it\nSignal dies if: summer 2026 beach lookbooks cycle to the next prop (bocce, pétanque) and paddle ball produces no equipment search activity; if search volume for 'frescobol' or 'matkot' stays flat in US and UK through Q3 2026; if no beach club outside Brazil, Israel, or Mediterranean adds frescobol to equipment rental by September 2026; if this turns out to be Hermès and Chanel styling the same prop type in the same season without independent editorial origination.",
+      "date_published": "2026-06-15T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-11-sober-caffeine-culture@sha256-a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-11-sober-caffeine-culture/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-11-sober-caffeine-culture@sha256-a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2.json",
+      "title": "The Back Bar Nobody Stocks",
+      "summary": "The sober-curious caffeine cohort is large enough that hospitality operators now face a procurement gap — no distributor has assembled an on-trade premium non-alcoholic portfolio as a packaged menu offer, creating a B2B supply-chain opportunity twelve to eighteen months ahead of mature infrastructure.",
+      "content_text": "The Back Bar Nobody Stocks\n\nThesis\nThe sober-curious caffeine cohort is large enough that hospitality operators now face a procurement gap — no distributor has assembled an on-trade premium non-alcoholic portfolio as a packaged menu offer, creating a B2B supply-chain opportunity twelve to eighteen months ahead of mature infrastructure.\n\nSignals\nsig_1: {'source': 'dazed_digital', 'source_url': 'https://www.dazeddigital.com/rss', 'signal_type': 'editorial_mention', 'date': '2026-06-11', 'quote': 'From iced matcha lattes to wellness-coded energy drinks to flavoured pouches, caffeine products are everywhere right now – and sober-curious young people are behind the boom', 'strength': 'weak', 'notes': 'Single UK/EU youth cultural outlet; no search volume, sales data, or trade corroboration. Same source URL as the 2026-06-10 vocabulary_shift issue on the same consumer trend. This issue pivots to the hospitality procurement gap rather than the vocabulary migration already covered.'} (strength: weak)\n\nWhat would falsify it\nKill if: hospitality trade coverage shows NA portfolios are already a mainstream distributor offer with established on-trade players; consumer research places sober-curious caffeine behavior primarily in home or delivery contexts rather than occasion settings; major incumbents (Southern Glazer's, Republic National, or equivalent UK distributors) announce dedicated NA on-trade lines.",
+      "date_published": "2026-06-11T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-10-caffeine-wellness-drinks@sha256-70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-10-caffeine-wellness-drinks/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-10-caffeine-wellness-drinks@sha256-70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025.json",
+      "title": "The Sober Drink Gets a Stimulant",
+      "summary": "The phrase 'sober-curious' is migrating from alcohol-abstinence framing into caffeine-adoption framing, consolidating iced matcha, wellness energy drinks, and flavored pouches under a single buyer identity — the whitespace is a social-occasion caffeine brand built for hospitality distribution, a channel no current player owns.",
+      "content_text": "The Sober Drink Gets a Stimulant\n\nThesis\nThe phrase 'sober-curious' is migrating from alcohol-abstinence framing into caffeine-adoption framing, consolidating iced matcha, wellness energy drinks, and flavored pouches under a single buyer identity — the whitespace is a social-occasion caffeine brand built for hospitality distribution, a channel no current player owns.\n\nSignals\nsig_1: {'source': 'dazed_digital_rss', 'url': 'https://www.dazeddigital.com/rss', 'date': '2026-06-10', 'quote': 'From iced matcha lattes to wellness-coded energy drinks to flavoured pouches, caffeine products are everywhere right now – and sober-curious young people are behind the boom', 'strength': 'weak', 'notes': 'Single editorial source from a culturally forward UK/EU youth outlet. No search volume, sales data, or second-source corroboration. Signal value is the vocabulary consolidation across three previously separate product categories, not volume.'} (strength: weak)\n\nWhat would falsify it\nIf Monster and Red Bull are gaining share in the same sober-curious demographic, the vocabulary shift is cosmetic and existing players are absorbing the signal without structural disruption. If search volume for 'wellness energy drink' is flat or declining, the editorial framing is ahead of consumer behavior and the category consolidation is not real.",
+      "date_published": "2026-06-10T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-09-ceramics-studio@sha256-9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-09-ceramics-studio/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-09-ceramics-studio@sha256-9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293.json",
+      "title": "The Wrong Student in the Right Studio",
+      "summary": "Ceramics studios built on aesthetic-era demand are running a vocational trades curriculum, creating structural dropout that threatens re-enrollment economics — the opportunity is an outcome-first beginner format for the buyer who wants the object, not the craft mastery.",
+      "content_text": "The Wrong Student in the Right Studio\n\nThesis\nCeramics studios built on aesthetic-era demand are running a vocational trades curriculum, creating structural dropout that threatens re-enrollment economics — the opportunity is an outcome-first beginner format for the buyer who wants the object, not the craft mastery.\n\nSignals\nsig_1: {'source': 'Refinery29 RSS', 'url': 'https://www.refinery29.com/en-us/rss.xml', 'type': 'editorial_mention', 'date': '2026-06-09', 'quote': 'Seven weeks into my second round of pottery classes, I decided that I hated pottery. The realization came after yet another lesson where I sat, frustrated, as my instructor taught me once again how to', 'strength': 'weak', 'notes': 'Single first-person essay from a lifestyle outlet. No search volume, enrollment data, or studio-side corroboration. Writer completed two separate enrollment rounds before quitting — signals repeat-attempt, not first-timer attrition.'} (strength: weak)\n\nWhat would falsify it\nStrong re-enrollment data at existing ceramics studios; emergence of scaled outcome-first studio formats already addressing the mismatch; no corroborating dropout signals from a second independent source within 60 days.",
+      "date_published": "2026-06-09T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-08-miniature-crafting@sha256-eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-08-miniature-crafting/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-08-miniature-crafting@sha256-eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72.json",
+      "title": "The Tiny Room at the End of the Feed",
+      "summary": "A Canadian reality TV format is driving new entrants into miniature crafting from outside the existing hobby base; the beginner onboarding and supply infrastructure for this non-hobbyist buyer does not yet exist.",
+      "content_text": "The Tiny Room at the End of the Feed\n\nThesis\nA Canadian reality TV format is driving new entrants into miniature crafting from outside the existing hobby base; the beginner onboarding and supply infrastructure for this non-hobbyist buyer does not yet exist.\n\nSignals\nsig_1: {'source': 'aftermath.site', 'source_url': 'https://aftermath.site/feed', 'type': 'editorial_mention', 'date': '2026-06-04', 'quote': 'A Canadian reality TV show got me making my own miniatures', 'strength': 'weak', 'notes': 'Single first-person account from a gaming-culture outlet. No search volume, retail movement, or second-source corroboration. Signals TV-to-hobby pipeline, not demand at scale.'} (strength: weak)\n\nWhat would falsify it\nNo second independent signal — search volume, editorial mention outside gaming media, or retail movement — surfaces by 2026-08-08.",
+      "date_published": "2026-06-08T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-05-dumb-phone-movement@sha256-51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-05-dumb-phone-movement/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-05-dumb-phone-movement@sha256-51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878.json",
+      "title": "The Opt-Out Class",
+      "summary": "Tech media professionals are normalizing smartphone abandonment — not experimenting with it — and the onboarding infrastructure for the second wave of adopters has not been built.",
+      "content_text": "The Opt-Out Class\n\nThesis\nTech media professionals are normalizing smartphone abandonment — not experimenting with it — and the onboarding infrastructure for the second wave of adopters has not been built.\n\nSignals\nsig_1: {'source': 'Embedded (embedded.substack.com)', 'type': 'editorial_mention', 'date': '2026-06-03', 'quote': 'The writer thinks giving up smartphones is completely doable. The writer and podcaster found the secret for spending less time on your phone.', 'strength': 'weak', 'notes': 'First-person retrospective register — not aspirational but resolved. Strength is the framing shift from experiment to stable practice; weakness is single source with no transaction, search volume, or demographic corroboration. Same publication used in the 2026-06-03 issue on AI-production vocabulary (different topic).'} (strength: weak)\n\nWhat would falsify it\nKill if behavior stays confined to media-professional circles with no translation to adjacent cohorts over 18 months; no hardware maker raises above seed; Light Phone and Punkt unit volumes stay flat; no carrier or service company enters the category with an intentional-reduction product.",
+      "date_published": "2026-06-05T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-04-salmon-pdrn-facials@sha256-3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-04-salmon-pdrn-facials/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-04-salmon-pdrn-facials@sha256-3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3.json",
+      "title": "The Byproduct Running the Beauty Counter",
+      "summary": "The 'salmon facial' trend is celebrity-amplified noise on top of a decade-old South Korean clinical ingredient; the boring business is the Western distribution and training layer between concentrated Korean PDRN biotech manufacturers and the fragmented US/EU med-spa market.",
+      "content_text": "The Byproduct Running the Beauty Counter\n\nThesis\nThe 'salmon facial' trend is celebrity-amplified noise on top of a decade-old South Korean clinical ingredient; the boring business is the Western distribution and training layer between concentrated Korean PDRN biotech manufacturers and the fragmented US/EU med-spa market.\n\nSignals\nsig_1: {'source': 'hypebae.com', 'type': 'editorial_mention', 'date': '2026-06-04', 'quote': \"Whether we're injecting salmon sperm into our faces or eating sardines for glowing skin, it's hard to deny the fact that skincare is in its fishy era.\", 'strength': 'weak', 'notes': 'Single fashion media source, no transaction or search data attached. Kardashian adjacency noted.'} (strength: weak)\n\nWhat would falsify it\nKill if PDRN treatment bookings fail to surface in med-spa scheduling data within 9 months; if no Western aesthetician certification programs add PDRN protocols by end of 2026; if celebrity cycle moves on with no retail product launches following; or if the 'fishy era' frame stays contained to one editorial cycle with no search volume follow-through.",
+      "date_published": "2026-06-04T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-03-human-made-preference@sha256-698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-03-human-made-preference/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-03-human-made-preference@sha256-698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd.json",
+      "title": "Everything Is Automated Except the Label",
+      "summary": "AI penetration of consumer production has made human involvement legible as a premium claim — 'made by humans' is beginning to surface as marketing vocabulary in wellness, but without any verification infrastructure to make the label stick or defensible.",
+      "content_text": "Everything Is Automated Except the Label\n\nThesis\nAI penetration of consumer production has made human involvement legible as a premium claim — 'made by humans' is beginning to surface as marketing vocabulary in wellness, but without any verification infrastructure to make the label stick or defensible.\n\nSignals\nsig_1: {'source': 'Embedded (Substack)', 'url': 'https://embedded.substack.com/feed', 'quote': 'The rise of made-by-humans marketing', 'date': '2026-06-03', 'type': 'editorial_mention'}\n\nWhat would falsify it\nThesis weakens if no second independent source — trade publication, consumer survey, or brand campaign — surfaces the 'made by humans' frame within 60–90 days. Also falsified if brands piloting the claim report no pricing premium or conversion lift versus category norms, or if the frame becomes associated with greenwashing incidents before any verification standard forms. Discard if AI-produced wellness products face no consumer backlash through end of 2026, indicating trust opacity is not a purchase factor in this category.",
+      "date_published": "2026-06-03T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-02-looksmaxxing@sha256-9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-02-looksmaxxing/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-02-looksmaxxing@sha256-9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f.json",
+      "title": "What the Forum Boys Found on the Luxury Shelf",
+      "summary": "The word 'looksmaxxing' has migrated from incel-adjacent forums into premium fashion media, handing male grooming and fragrance brands a new buyer-identity frame — optimization rather than vanity — that removes the historical friction in selling appearance products to young men.",
+      "content_text": "What the Forum Boys Found on the Luxury Shelf\n\nThesis\nThe word 'looksmaxxing' has migrated from incel-adjacent forums into premium fashion media, handing male grooming and fragrance brands a new buyer-identity frame — optimization rather than vanity — that removes the historical friction in selling appearance products to young men.\n\nSignals\nsig_1: {'source': 'Highsnobiety RSS', 'url': 'https://www.highsnobiety.com/feed/', 'quote': \"Creed's scents — from Aventus to Green Irish Tweed — are popular, expensive, and 'basically aspirational masculinity bottled and sold,' per one behavioral strategist.\", 'date': '2026-05-29', 'type': 'editorial_mention'}\n\nWhat would falsify it\nThesis weakens if premium fragrance or skincare brands test optimization-frame positioning with young male buyers and see no lift versus heritage or occasion copy. Also falsified if looksmaxxing search volume peaks and contracts without vocabulary adoption by any mainstream brand in the next 12 months, or if a second independent source does not surface within two editorial cycles.",
+      "date_published": "2026-06-02T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-01-death-doulas@sha256-26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-01-death-doulas/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-01-death-doulas@sha256-26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1.json",
+      "title": "Learning to Hold the Door",
+      "summary": "Celebrity adoption of death doula training is the rich-people-beta signal for a profession about to be formalized — the near-term business is the credentialing and vetting infrastructure, not the doulas themselves.",
+      "content_text": "Learning to Hold the Door\n\nThesis\nCelebrity adoption of death doula training is the rich-people-beta signal for a profession about to be formalized — the near-term business is the credentialing and vetting infrastructure, not the doulas themselves.\n\nSignals\nsig_1: {'source': 'Dazed Digital RSS', 'url': 'https://www.dazeddigital.com/rss', 'quote': 'the number of people training to be death doulas has spiked, with celebrities like Nicole Kidman and Chloe Zhao joining their ranks — but why are so many of us being drawn to work with death?', 'date': '2026-05-29', 'type': 'editorial_mention'}\n\nWhat would falsify it\nThesis weakens if celebrity training turns out to be isolated personal development rather than a pattern; if death doula training enrollment shows no material growth in independent sources; or if the practitioner market is too thin to support a credentialing platform at viable unit economics.",
+      "date_published": "2026-06-01T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-21-issue-1@sha256-ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-05-21-issue-1/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-21-issue-1@sha256-ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c.json",
+      "title": "The cleanup economy",
+      "summary": "The mature GLP-1 story is the drug; the next business is the maintenance layer that cleans up after rapid weight loss, beginning with skin and aesthetics, where the buyer already has a named problem and the seller still speaks the old vocabulary.",
+      "content_text": "The cleanup economy\n\nThesis\nThe mature GLP-1 story is the drug; the next business is the maintenance layer that cleans up after rapid weight loss, beginning with skin and aesthetics, where the buyer already has a named problem and the seller still speaks the old vocabulary.\n\nSignals\nsig_1: rss_mentions\n\nsig_2: duplicate_proposal_labels\n\nsig_3: medical_aesthetics_language\n\nsig_4: vocabulary_gap\n\nWhat would falsify it\nNo second source type appears within 28 days, or clinic/operator language fails to appear outside the Women's Health RSS feed.",
+      "date_published": "2026-05-21T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-20-shadow-1@sha256-6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-05-20-shadow-1/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-20-shadow-1@sha256-6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f.json",
+      "title": "The GLP-1 Skin Trade Is the Maintenance Layer",
+      "summary": "The live Foreshore queue saw duplicate GLP-1 skin labels from a May 19 RSS cycle; the commercial read is a maintenance layer around rapid weight loss, not a confirmed demand wave yet.",
+      "content_text": "The GLP-1 Skin Trade Is the Maintenance Layer\n\nThesis\nThe live Foreshore queue saw duplicate GLP-1 skin labels from a May 19 RSS cycle; the commercial read is a maintenance layer around rapid weight loss, not a confirmed demand wave yet.\n\nSignals\nsig_1: rss_mentions\n\nsig_2: duplicate_proposal_labels\n\nsig_3: medical_aesthetics_language\n\nWhat would falsify it\nNo second source type appears within 28 days, or clinic/operator language fails to appear outside the Women's Health RSS feed.",
+      "date_published": "2026-05-20T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    }
+  ]
+}

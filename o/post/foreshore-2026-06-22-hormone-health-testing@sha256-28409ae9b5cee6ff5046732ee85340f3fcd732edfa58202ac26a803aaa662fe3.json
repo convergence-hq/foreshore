@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260622hormonehealthtesting",
+  "slug": "foreshore-2026-06-22-hormone-health-testing",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-22T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-22T00:00:00Z",
+    "modified_at": "2026-06-22T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-22-hormone-health-testing@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.4,
+            "event_date": "2026-06-22",
+            "evidence_quote": "Understanding how hormones impact us can be empowering, especially for people with endocrine disorders – but there's a risk that ascribing every passing feeling to hormones is reviving tired, sexist n",
+            "interpretation": "The source is useful enough to watch, but still needs independent confirmation.",
+            "signal": "Hormone Health Testing",
+            "source_type": "health_optimizatio",
+            "source_url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "format": "boring_business_hidden_inside_trend",
+        "human_action": "Read the source, test the buyer-change claim, and decide whether it belongs in the morning drop.",
+        "machine_action": "Keep the source object in the watch queue and require another source type before promotion.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-22",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-22",
+              "notes": "Read during candidate rendering.",
+              "source_name": "health_optimizatio"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Hormone Health Testing",
+            "last_error": null,
+            "last_fetched_at": "2026-06-22",
+            "source_type": "health_optimizatio",
+            "url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "hormone-health-testing"
+        ],
+        "uncertainty": "The source diversity is thin because this candidate starts from one pending proposal."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "evidence_map": [
+          {
+            "confidence": 0.4,
+            "event_date": "2026-06-22",
+            "evidence_quote": "Understanding how hormones impact us can be empowering, especially for people with endocrine disorders – but there's a risk that ascribing every passing feeling to hormones is reviving tired, sexist n",
+            "interpretation": "The source is useful enough to watch, but still needs independent confirmation.",
+            "signal": "Hormone Health Testing",
+            "source_type": "health_optimizatio",
+            "source_url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "falsification": "Archive the candidate if no independent source type appears inside 28 days.",
+        "format": "boring_business_hidden_inside_trend",
+        "headline": "Hormone Health Testing: Shadow Watch",
+        "human_action": "Read the source, test the buyer-change claim, and decide whether it belongs in the morning drop.",
+        "issue_id": "foreshore-2026-06-22-hormone-health-testing",
+        "machine_action": "Keep the source object in the watch queue and require another source type before promotion.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "publication_date": "2026-06-22",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-22",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-22",
+              "notes": "Read during candidate rendering.",
+              "source_name": "health_optimizatio"
+            }
+          ]
+        },
+        "signals": [
+          "pending_proposal",
+          "health-optimizatio",
+          "hormone-health-testing"
+        ],
+        "source_objects": [
+          {
+            "label": "Hormone Health Testing",
+            "last_error": null,
+            "last_fetched_at": "2026-06-22",
+            "source_type": "health_optimizatio",
+            "url": "https://www.dazeddigital.com/rss"
+          }
+        ],
+        "state": "observing",
+        "thesis": "The queue found one live signal for Hormone Health Testing. That is enough for a watch, not enough for a launch claim.",
+        "trend_ids": [
+          "hormone-health-testing"
+        ],
+        "uncertainty": "The source diversity is thin because this candidate starts from one pending proposal."
+      }
+    }
+  },
+  "title": "Hormone Health Testing: Shadow Watch",
+  "summary": "The queue found one live signal for Hormone Health Testing.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The queue found one live signal for Hormone Health Testing. That is enough for a watch, not enough for a launch claim.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-06-22",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-22-hormone-health-testing@v1",
+      "falsification": "Archive the candidate if no independent source type appears inside 28 days."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Hormone Health Testing: Shadow Watch",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The queue found one live signal for Hormone Health Testing. That is enough for a watch, not enough for a launch claim.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: pending_proposal\n\nsig_2: health-optimizatio\n\nsig_3: hormone-health-testing",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Archive the candidate if no independent source type appears inside 28 days.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"Hormone Health Testing: Shadow Watch.\" Convergence Daily. 2026-06-22. Resolve signal://foreshore/claim/foreshore-2026-06-22-hormone-health-testing@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-22-hormone-health-testing@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-22",
+      "published_at": "2026-06-22T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

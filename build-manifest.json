@@ -1,0 +1,821 @@
+{
+  "schema_version": "1.0.0",
+  "schema_id": "https://schemas.convergence-hq.org/build-manifest/v1.json",
+  "publication": {
+    "id": "foreshore",
+    "name": "Foreshore",
+    "base_url": "https://foreshore.permanentupperclass.com"
+  },
+  "generated_by": "@convergence/build@0.1.0",
+  "canonicalization": "RFC8785-JCS",
+  "hash_algorithm": "sha256",
+  "manifest": {
+    "path": "/build-manifest.json",
+    "signature_path": "/build-manifest.json.sig"
+  },
+  "objects": [
+    {
+      "id": "obj_foreshore20260623analoglandlinerevival",
+      "kind": "post",
+      "slug": "foreshore-2026-06-23-analog-landline-revival",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json",
+      "digest": "49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3",
+      "signature_path": "/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260623bjjlifestylecommunity",
+      "kind": "post",
+      "slug": "foreshore-2026-06-23-bjj-lifestyle-community",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json",
+      "digest": "c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735",
+      "signature_path": "/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260622hormonehealthtesting",
+      "kind": "post",
+      "slug": "foreshore-2026-06-22-hormone-health-testing",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json",
+      "digest": "28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3",
+      "signature_path": "/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260619analogphonerevival",
+      "kind": "post",
+      "slug": "foreshore-2026-06-19-analog-phone-revival",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json",
+      "digest": "adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e",
+      "signature_path": "/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260618bruiseaesthetictattoos",
+      "kind": "post",
+      "slug": "foreshore-2026-06-18-bruise-aesthetic-tattoos",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos@sha256-0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940.json",
+      "digest": "0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940",
+      "signature_path": "/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos@sha256-0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260617bjjlifestylecommunity",
+      "kind": "post",
+      "slug": "foreshore-2026-06-17-bjj-lifestyle-community",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-17-bjj-lifestyle-community.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-17-bjj-lifestyle-community@sha256-f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175.json",
+      "digest": "f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175",
+      "signature_path": "/o/post/foreshore-2026-06-17-bjj-lifestyle-community@sha256-f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260616cinemawellnessritual",
+      "kind": "post",
+      "slug": "foreshore-2026-06-16-cinema-wellness-ritual",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-16-cinema-wellness-ritual.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-16-cinema-wellness-ritual@sha256-ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906.json",
+      "digest": "ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906",
+      "signature_path": "/o/post/foreshore-2026-06-16-cinema-wellness-ritual@sha256-ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260615beachpaddlesport",
+      "kind": "post",
+      "slug": "foreshore-2026-06-15-beach-paddle-sport",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-15-beach-paddle-sport.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-15-beach-paddle-sport@sha256-2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22.json",
+      "digest": "2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22",
+      "signature_path": "/o/post/foreshore-2026-06-15-beach-paddle-sport@sha256-2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260611sobercaffeineculture",
+      "kind": "post",
+      "slug": "foreshore-2026-06-11-sober-caffeine-culture",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-11-sober-caffeine-culture.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-11-sober-caffeine-culture@sha256-a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2.json",
+      "digest": "a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2",
+      "signature_path": "/o/post/foreshore-2026-06-11-sober-caffeine-culture@sha256-a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260610caffeinewellnessdrinks",
+      "kind": "post",
+      "slug": "foreshore-2026-06-10-caffeine-wellness-drinks",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-10-caffeine-wellness-drinks.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-10-caffeine-wellness-drinks@sha256-70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025.json",
+      "digest": "70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025",
+      "signature_path": "/o/post/foreshore-2026-06-10-caffeine-wellness-drinks@sha256-70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260609ceramicsstudio",
+      "kind": "post",
+      "slug": "foreshore-2026-06-09-ceramics-studio",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-09-ceramics-studio.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-09-ceramics-studio@sha256-9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293.json",
+      "digest": "9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293",
+      "signature_path": "/o/post/foreshore-2026-06-09-ceramics-studio@sha256-9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260608miniaturecrafting",
+      "kind": "post",
+      "slug": "foreshore-2026-06-08-miniature-crafting",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-08-miniature-crafting.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-08-miniature-crafting@sha256-eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72.json",
+      "digest": "eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72",
+      "signature_path": "/o/post/foreshore-2026-06-08-miniature-crafting@sha256-eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260605dumbphonemovement",
+      "kind": "post",
+      "slug": "foreshore-2026-06-05-dumb-phone-movement",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-05-dumb-phone-movement.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-05-dumb-phone-movement@sha256-51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878.json",
+      "digest": "51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878",
+      "signature_path": "/o/post/foreshore-2026-06-05-dumb-phone-movement@sha256-51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260604salmonpdrnfacials",
+      "kind": "post",
+      "slug": "foreshore-2026-06-04-salmon-pdrn-facials",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-04-salmon-pdrn-facials.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-04-salmon-pdrn-facials@sha256-3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3.json",
+      "digest": "3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3",
+      "signature_path": "/o/post/foreshore-2026-06-04-salmon-pdrn-facials@sha256-3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260603humanmadepreference",
+      "kind": "post",
+      "slug": "foreshore-2026-06-03-human-made-preference",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-03-human-made-preference.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-03-human-made-preference@sha256-698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd.json",
+      "digest": "698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd",
+      "signature_path": "/o/post/foreshore-2026-06-03-human-made-preference@sha256-698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260602looksmaxxing",
+      "kind": "post",
+      "slug": "foreshore-2026-06-02-looksmaxxing",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-02-looksmaxxing.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-02-looksmaxxing@sha256-9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f.json",
+      "digest": "9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f",
+      "signature_path": "/o/post/foreshore-2026-06-02-looksmaxxing@sha256-9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260601deathdoulas",
+      "kind": "post",
+      "slug": "foreshore-2026-06-01-death-doulas",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-01-death-doulas.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-01-death-doulas@sha256-26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1.json",
+      "digest": "26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1",
+      "signature_path": "/o/post/foreshore-2026-06-01-death-doulas@sha256-26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260521issue1",
+      "kind": "post",
+      "slug": "foreshore-2026-05-21-issue-1",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-21-issue-1.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-21-issue-1@sha256-ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c.json",
+      "digest": "ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c",
+      "signature_path": "/o/post/foreshore-2026-05-21-issue-1@sha256-ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c.json.sig"
+    },
+    {
+      "id": "obj_foreshore20260520shadow1",
+      "kind": "post",
+      "slug": "foreshore-2026-05-20-shadow-1",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-20-shadow-1.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-20-shadow-1@sha256-6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f.json",
+      "digest": "6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f",
+      "signature_path": "/o/post/foreshore-2026-05-20-shadow-1@sha256-6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f.json.sig"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "/.well-known/api-catalog",
+      "media_type": "application/linkset+json",
+      "sha256": "e2db5fbf6f1dd719899ef4736c6ebf1e6ba09d25916e4b96eda6e34bb1e80472",
+      "byte_length": 12484
+    },
+    {
+      "path": "/feed.json",
+      "media_type": "application/json",
+      "sha256": "812e8f0cdf773180aea9d05a662fcf228ce74ca31c737feb3e2887b57b73c903",
+      "byte_length": 39420
+    },
+    {
+      "path": "/history/foreshore-2026-05-20-shadow-1/index.html",
+      "media_type": "text/html",
+      "sha256": "f210c0c76d8c91e3783c9800228a7bfb78ce8afb18538d07f1982e92f8bb9598",
+      "byte_length": 5831
+    },
+    {
+      "path": "/history/foreshore-2026-05-21-issue-1/index.html",
+      "media_type": "text/html",
+      "sha256": "1cd52545886b9118210d544a419e06140998bc5e403eccd13f4922dd6f64b051",
+      "byte_length": 5751
+    },
+    {
+      "path": "/history/foreshore-2026-06-01-death-doulas/index.html",
+      "media_type": "text/html",
+      "sha256": "f2dfe65b5a688a222c899d1262563b35f67ce3bbcb7991c19d6a69774073e605",
+      "byte_length": 5779
+    },
+    {
+      "path": "/history/foreshore-2026-06-02-looksmaxxing/index.html",
+      "media_type": "text/html",
+      "sha256": "79b07cddf5c75e2eabf3a21719e8885f44962e52ffe20a8ad3bc424032ff2a09",
+      "byte_length": 5839
+    },
+    {
+      "path": "/history/foreshore-2026-06-03-human-made-preference/index.html",
+      "media_type": "text/html",
+      "sha256": "b07deaef27781b6013492749df648170db52f00f81da1abb1dfc2bb88ba11141",
+      "byte_length": 5842
+    },
+    {
+      "path": "/history/foreshore-2026-06-04-salmon-pdrn-facials/index.html",
+      "media_type": "text/html",
+      "sha256": "dce93f3910e51dd2600bf7c08e783dd799b30dd888772e210813892dcbfd5da8",
+      "byte_length": 5838
+    },
+    {
+      "path": "/history/foreshore-2026-06-05-dumb-phone-movement/index.html",
+      "media_type": "text/html",
+      "sha256": "a25b4c3f4da6ff818fc8e3be4b518214f4e59fefee76a36eababea9a4023caf9",
+      "byte_length": 5769
+    },
+    {
+      "path": "/history/foreshore-2026-06-08-miniature-crafting/index.html",
+      "media_type": "text/html",
+      "sha256": "515cf248f004c02573843d2219d5cddc1d557f132ee55872cdadef46af099ad3",
+      "byte_length": 5824
+    },
+    {
+      "path": "/history/foreshore-2026-06-09-ceramics-studio/index.html",
+      "media_type": "text/html",
+      "sha256": "1a4a73bfdd095234b17cdceb9dd15db8a01e1d1eac775ee49d249e149c64c03f",
+      "byte_length": 5821
+    },
+    {
+      "path": "/history/foreshore-2026-06-10-caffeine-wellness-drinks/index.html",
+      "media_type": "text/html",
+      "sha256": "c9f9ef0e26ff6e9cf9c5561f8ec379eaa19025c593e5bb92732a93c8fdc78f13",
+      "byte_length": 5824
+    },
+    {
+      "path": "/history/foreshore-2026-06-11-sober-caffeine-culture/index.html",
+      "media_type": "text/html",
+      "sha256": "4ab37bfac9646519b190ba8e1c70e6de9a6e345d39336e940fea012b8a16c1db",
+      "byte_length": 5802
+    },
+    {
+      "path": "/history/foreshore-2026-06-15-beach-paddle-sport/index.html",
+      "media_type": "text/html",
+      "sha256": "cc10eb530e33fe7c946574088aaa7d9fcd597d8a7e6800fd2aa0dd32beb545d6",
+      "byte_length": 5872
+    },
+    {
+      "path": "/history/foreshore-2026-06-16-cinema-wellness-ritual/index.html",
+      "media_type": "text/html",
+      "sha256": "747904fc73070006051b6ddcda88c533e03d0c84f26a54ef5c19d7c65f88bfcf",
+      "byte_length": 5817
+    },
+    {
+      "path": "/history/foreshore-2026-06-17-bjj-lifestyle-community/index.html",
+      "media_type": "text/html",
+      "sha256": "897ad7cbedae26001c45c414b63112935ac0688fe6515a3626f359441f430904",
+      "byte_length": 5855
+    },
+    {
+      "path": "/history/foreshore-2026-06-18-bruise-aesthetic-tattoos/index.html",
+      "media_type": "text/html",
+      "sha256": "bbff2b40407734d77f0a903ab470dcbcd74a1e76ba2900eae2f4d9cce805b08b",
+      "byte_length": 5788
+    },
+    {
+      "path": "/history/foreshore-2026-06-19-analog-phone-revival/index.html",
+      "media_type": "text/html",
+      "sha256": "996d9a6dc761f472b637ab82c2bb75a93a95a35a00f6bedb2158ee7d86712afe",
+      "byte_length": 5804
+    },
+    {
+      "path": "/history/foreshore-2026-06-22-hormone-health-testing/index.html",
+      "media_type": "text/html",
+      "sha256": "310121552cc9921c486aca995dc15a4bb1b4e4be8c356c461a7ba5baa4911570",
+      "byte_length": 5832
+    },
+    {
+      "path": "/history/foreshore-2026-06-23-analog-landline-revival/index.html",
+      "media_type": "text/html",
+      "sha256": "cd9af0caa594376c3f5f314184c2c6fce18870b85bfdb230a3173769ecde56c1",
+      "byte_length": 5837
+    },
+    {
+      "path": "/history/foreshore-2026-06-23-bjj-lifestyle-community/index.html",
+      "media_type": "text/html",
+      "sha256": "e7802185ed50019f77a40aaeeba3e541cb9ed4ef3bba7591881a182f56e8956b",
+      "byte_length": 5855
+    },
+    {
+      "path": "/index.html",
+      "media_type": "text/html",
+      "sha256": "f9d38d39c4d7637b849e6c9bd1d1e9245d99da1250476323cf9b58fa379ada77",
+      "byte_length": 13816
+    },
+    {
+      "path": "/llms.txt",
+      "media_type": "text/plain",
+      "sha256": "5fc7742fba43264a24eabdaa89ed49a19b8758e4e49fa354c2f1c96ff0625088",
+      "byte_length": 4571
+    },
+    {
+      "path": "/o/aliases.json",
+      "media_type": "application/json",
+      "sha256": "7002b177bb82178f29766b4118a194f5ff6325f6871883f299f686d2184e77c1",
+      "byte_length": 13835
+    },
+    {
+      "path": "/o/claims.json",
+      "media_type": "application/json",
+      "sha256": "ec012b5b3ec1297d3f1a90b31e1dc0008142b6706a9fd9ef8414439e317343d5",
+      "byte_length": 30286
+    },
+    {
+      "path": "/o/index.json",
+      "media_type": "application/json",
+      "sha256": "0cc104ce962338f106f9f3fa7d442c1d50e680c2e38a37f9914214b0aa7f2925",
+      "byte_length": 23719
+    },
+    {
+      "path": "/o/post/foreshore-2026-05-20-shadow-1.json",
+      "media_type": "application/json",
+      "sha256": "8e9ee56bfe880022ceedc39c41025566450cb44857be51acdbafec44d60534b6",
+      "byte_length": 13292
+    },
+    {
+      "path": "/o/post/foreshore-2026-05-20-shadow-1@sha256-6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f.json",
+      "media_type": "application/json",
+      "sha256": "8e9ee56bfe880022ceedc39c41025566450cb44857be51acdbafec44d60534b6",
+      "byte_length": 13292
+    },
+    {
+      "path": "/o/post/foreshore-2026-05-20-shadow-1@sha256-6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "109b6acaa2d393c63a5f92ab600b1e5364fbdbc38ac7fd5d096b826450fabc76",
+      "byte_length": 940
+    },
+    {
+      "path": "/o/post/foreshore-2026-05-21-issue-1.json",
+      "media_type": "application/json",
+      "sha256": "dc9bf74c139cb801a1b5ec1b5d4518753a7848d3e4544304bef2c6b423293820",
+      "byte_length": 14182
+    },
+    {
+      "path": "/o/post/foreshore-2026-05-21-issue-1@sha256-ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c.json",
+      "media_type": "application/json",
+      "sha256": "dc9bf74c139cb801a1b5ec1b5d4518753a7848d3e4544304bef2c6b423293820",
+      "byte_length": 14182
+    },
+    {
+      "path": "/o/post/foreshore-2026-05-21-issue-1@sha256-ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "c5e362f70417014d84159faaf863b96d20a6ab3d0d5a80957e0eafd3cb719f59",
+      "byte_length": 937
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-01-death-doulas.json",
+      "media_type": "application/json",
+      "sha256": "1306acd46bd6bfdbed1e33bca655fda12e142b8ad3772999592fa06b2be8d4d0",
+      "byte_length": 10387
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-01-death-doulas@sha256-26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1.json",
+      "media_type": "application/json",
+      "sha256": "1306acd46bd6bfdbed1e33bca655fda12e142b8ad3772999592fa06b2be8d4d0",
+      "byte_length": 10387
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-01-death-doulas@sha256-26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "32a06c193305507c8a08cd2eb59bbe565f717d8f1c1c75d523f48656f6a0b978",
+      "byte_length": 952
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-02-looksmaxxing.json",
+      "media_type": "application/json",
+      "sha256": "6c1eb2123d8db786d98fe035f58809cd2663128c0c36180af9cd243ebb240d85",
+      "byte_length": 12430
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-02-looksmaxxing@sha256-9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f.json",
+      "media_type": "application/json",
+      "sha256": "6c1eb2123d8db786d98fe035f58809cd2663128c0c36180af9cd243ebb240d85",
+      "byte_length": 12430
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-02-looksmaxxing@sha256-9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "5fbcd06b23eb1d0fd758c938e8aaa685f91286cc4d01231779b5e74d9ab6ae2b",
+      "byte_length": 952
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-03-human-made-preference.json",
+      "media_type": "application/json",
+      "sha256": "8c17f6fc9520c3a86033fe1974ff51cc0086c66a87b0f7c508035d5ee437f4ae",
+      "byte_length": 13093
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-03-human-made-preference@sha256-698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd.json",
+      "media_type": "application/json",
+      "sha256": "8c17f6fc9520c3a86033fe1974ff51cc0086c66a87b0f7c508035d5ee437f4ae",
+      "byte_length": 13093
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-03-human-made-preference@sha256-698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "ce1aedffc751807a9d872cd2b1cca54b30e0250d7cb3eb645a2ef08d18532983",
+      "byte_length": 979
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-04-salmon-pdrn-facials.json",
+      "media_type": "application/json",
+      "sha256": "5e2dcf7b81e591fd45d84d8a8560e44fb523958b849be3e244c016a356cb6747",
+      "byte_length": 11129
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-04-salmon-pdrn-facials@sha256-3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3.json",
+      "media_type": "application/json",
+      "sha256": "5e2dcf7b81e591fd45d84d8a8560e44fb523958b849be3e244c016a356cb6747",
+      "byte_length": 11129
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-04-salmon-pdrn-facials@sha256-3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "0ee5de656f23d466788ba4ad5de3ef0cb7ba8f46782e51db7390de7f0d7e2f95",
+      "byte_length": 973
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-05-dumb-phone-movement.json",
+      "media_type": "application/json",
+      "sha256": "bbadfe1d63cda47d854a11ceed73b7671953d70492206b7efc65c4b324cf3245",
+      "byte_length": 9216
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-05-dumb-phone-movement@sha256-51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878.json",
+      "media_type": "application/json",
+      "sha256": "bbadfe1d63cda47d854a11ceed73b7671953d70492206b7efc65c4b324cf3245",
+      "byte_length": 9216
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-05-dumb-phone-movement@sha256-51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "8d8ec3f544dded060989f5a31711e05030bd052c9ec31adebb9337aee6a35c2d",
+      "byte_length": 973
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-08-miniature-crafting.json",
+      "media_type": "application/json",
+      "sha256": "c2ba250c5c23ad61106d989b5f2ee31e9f71b884a4b51e4f0a01e5ecd2abcae6",
+      "byte_length": 11357
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-08-miniature-crafting@sha256-eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72.json",
+      "media_type": "application/json",
+      "sha256": "c2ba250c5c23ad61106d989b5f2ee31e9f71b884a4b51e4f0a01e5ecd2abcae6",
+      "byte_length": 11357
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-08-miniature-crafting@sha256-eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "730ea2f5e5678563a33e2fe2b101df439c5fbfcecc602c65c5f316e2ab875c4c",
+      "byte_length": 970
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-09-ceramics-studio.json",
+      "media_type": "application/json",
+      "sha256": "68498f85110c5c2d1af9c19526e06e13f397d01ad72fa49dbd471fd5b5dd3781",
+      "byte_length": 11615
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-09-ceramics-studio@sha256-9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293.json",
+      "media_type": "application/json",
+      "sha256": "68498f85110c5c2d1af9c19526e06e13f397d01ad72fa49dbd471fd5b5dd3781",
+      "byte_length": 11615
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-09-ceramics-studio@sha256-9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "4be4b54435d961a5ecc52e3f32c359947a3cb709d3e79a2363802e49310d2a44",
+      "byte_length": 961
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-10-caffeine-wellness-drinks.json",
+      "media_type": "application/json",
+      "sha256": "901ae9360887ec7e6d7c036a98e414d2f4a3f0f72796eac7db99b2c6912abedc",
+      "byte_length": 11536
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-10-caffeine-wellness-drinks@sha256-70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025.json",
+      "media_type": "application/json",
+      "sha256": "901ae9360887ec7e6d7c036a98e414d2f4a3f0f72796eac7db99b2c6912abedc",
+      "byte_length": 11536
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-10-caffeine-wellness-drinks@sha256-70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "41a5c1bfbc6698139e6907dac7496ef5c3e914b2d75ff476f453f49417a09bc0",
+      "byte_length": 988
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-11-sober-caffeine-culture.json",
+      "media_type": "application/json",
+      "sha256": "eefa1321edeee9c8425b1895a54bb03988bd9b7ec698ea3d3c35787e67d62f8b",
+      "byte_length": 12207
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-11-sober-caffeine-culture@sha256-a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2.json",
+      "media_type": "application/json",
+      "sha256": "eefa1321edeee9c8425b1895a54bb03988bd9b7ec698ea3d3c35787e67d62f8b",
+      "byte_length": 12207
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-11-sober-caffeine-culture@sha256-a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "84afc069133e99d4611e46269a6f1125b63eadbd75bcdacd5a5e1500db1435f1",
+      "byte_length": 982
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-15-beach-paddle-sport.json",
+      "media_type": "application/json",
+      "sha256": "0dbd14745f59bd672534f688a8df5bbe729084de58075df80dd71de297b31f24",
+      "byte_length": 14585
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-15-beach-paddle-sport@sha256-2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22.json",
+      "media_type": "application/json",
+      "sha256": "0dbd14745f59bd672534f688a8df5bbe729084de58075df80dd71de297b31f24",
+      "byte_length": 14585
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-15-beach-paddle-sport@sha256-2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "2665deff4de250ac64fb7d0f978ae11346f6e15f428288bdd83cf4d6709e8306",
+      "byte_length": 970
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-16-cinema-wellness-ritual.json",
+      "media_type": "application/json",
+      "sha256": "28917fa3e5119870940ff1f2932aaa1e697aa913677c79c352638d76827ad2ca",
+      "byte_length": 12650
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-16-cinema-wellness-ritual@sha256-ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906.json",
+      "media_type": "application/json",
+      "sha256": "28917fa3e5119870940ff1f2932aaa1e697aa913677c79c352638d76827ad2ca",
+      "byte_length": 12650
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-16-cinema-wellness-ritual@sha256-ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "0cd69aba6a84795fcec62b6e552def31774ebf94d4e477a2fa9719c34abd7f00",
+      "byte_length": 982
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-17-bjj-lifestyle-community.json",
+      "media_type": "application/json",
+      "sha256": "2d0d649eade5e5124028defe00c4a4b2633af96dd0a5d266b85edb22ead38623",
+      "byte_length": 11163
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-17-bjj-lifestyle-community@sha256-f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175.json",
+      "media_type": "application/json",
+      "sha256": "2d0d649eade5e5124028defe00c4a4b2633af96dd0a5d266b85edb22ead38623",
+      "byte_length": 11163
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-17-bjj-lifestyle-community@sha256-f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "dc98b531d29e041c2e37d3aa20f8e10c97b5016b4f949beb9218a8b6d89b0af6",
+      "byte_length": 985
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos.json",
+      "media_type": "application/json",
+      "sha256": "0d384ae74f8b4901c5d717688a955e428e1833e1bd6b4d3234ae337a2c74e6df",
+      "byte_length": 9835
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos@sha256-0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940.json",
+      "media_type": "application/json",
+      "sha256": "0d384ae74f8b4901c5d717688a955e428e1833e1bd6b4d3234ae337a2c74e6df",
+      "byte_length": 9835
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos@sha256-0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "6beaad4b47ce37e54df4d31f6fafe2de9f41c3ce8801aab7a1e0e5c59db590aa",
+      "byte_length": 988
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-19-analog-phone-revival.json",
+      "media_type": "application/json",
+      "sha256": "8a5ffeb3e34440b1256ab579cb98e9320c402b0793ea3b16ab7646ce2d61c8f7",
+      "byte_length": 13330
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json",
+      "media_type": "application/json",
+      "sha256": "8a5ffeb3e34440b1256ab579cb98e9320c402b0793ea3b16ab7646ce2d61c8f7",
+      "byte_length": 13330
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "130a4e430d0ad9975bb22ecc261407216e1f590cb47dd40438fc5acc30a5f5e2",
+      "byte_length": 976
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-22-hormone-health-testing.json",
+      "media_type": "application/json",
+      "sha256": "dd31f5b42538720b0a5804378d51f6dd4485fc5bd092dc8c514f66cdc13b8c00",
+      "byte_length": 8898
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json",
+      "media_type": "application/json",
+      "sha256": "dd31f5b42538720b0a5804378d51f6dd4485fc5bd092dc8c514f66cdc13b8c00",
+      "byte_length": 8898
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "61c9e5c9d365dda886e27ac20c1b21bece2b4c9b895c662a0b781d9216e1da3f",
+      "byte_length": 982
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-23-analog-landline-revival.json",
+      "media_type": "application/json",
+      "sha256": "59d796bd6423c6bd5d92b36e41d9a35497403f18691ff08700d2474087028dee",
+      "byte_length": 11505
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json",
+      "media_type": "application/json",
+      "sha256": "59d796bd6423c6bd5d92b36e41d9a35497403f18691ff08700d2474087028dee",
+      "byte_length": 11505
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "3593d473f2ecfdad929600742e51691bf70f5d5e4f484420d4cc4a01e982e006",
+      "byte_length": 985
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-23-bjj-lifestyle-community.json",
+      "media_type": "application/json",
+      "sha256": "b589e31539b43a0b1d6d54f976cafe3a97d88f7bd6fe8a913bcf78300633c17b",
+      "byte_length": 8880
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json",
+      "media_type": "application/json",
+      "sha256": "b589e31539b43a0b1d6d54f976cafe3a97d88f7bd6fe8a913bcf78300633c17b",
+      "byte_length": 8880
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "441d3238572a0a0c1c69bc130fa39c24a524d45c9e57026e36ef73584b0b8e2c",
+      "byte_length": 985
+    },
+    {
+      "path": "/o/trust.json",
+      "media_type": "application/json",
+      "sha256": "7a318239389c724f675e4d94117cd7bf61c56094f78f24cc17560bcea5699aae",
+      "byte_length": 5249
+    },
+    {
+      "path": "/p/foreshore-2026-05-20-shadow-1/index.html",
+      "media_type": "text/html",
+      "sha256": "5155dc1e1822c9e7a7f446a48beb6b3fa793a6959c57f766e0a884a5087481fd",
+      "byte_length": 28066
+    },
+    {
+      "path": "/p/foreshore-2026-05-21-issue-1/index.html",
+      "media_type": "text/html",
+      "sha256": "e7644e7afbaf348e395e306cf58922df924139ab64d9944471702a43c9fa47c0",
+      "byte_length": 29415
+    },
+    {
+      "path": "/p/foreshore-2026-06-01-death-doulas/index.html",
+      "media_type": "text/html",
+      "sha256": "f96f8d0c76c4a17b810b1556d75a694caa5a45321b056eee48f531c0211ed606",
+      "byte_length": 24950
+    },
+    {
+      "path": "/p/foreshore-2026-06-02-looksmaxxing/index.html",
+      "media_type": "text/html",
+      "sha256": "554749c5d41146d1d730df35ee4e02fdbde837d03a34aed6c89fecbde21f11e3",
+      "byte_length": 28041
+    },
+    {
+      "path": "/p/foreshore-2026-06-03-human-made-preference/index.html",
+      "media_type": "text/html",
+      "sha256": "e86af1e29ac3e71bd18fb519710e55d3516009df3428d51e41726c5f286f1b43",
+      "byte_length": 28676
+    },
+    {
+      "path": "/p/foreshore-2026-06-04-salmon-pdrn-facials/index.html",
+      "media_type": "text/html",
+      "sha256": "bbe69c6b395672b7bb5f042ff29e85f8e223b744b328e6787bb12ec229fb26a1",
+      "byte_length": 26511
+    },
+    {
+      "path": "/p/foreshore-2026-06-05-dumb-phone-movement/index.html",
+      "media_type": "text/html",
+      "sha256": "b02338fbc2466edf288d38201c2308e78392706550afe718aaf989eed39cfa67",
+      "byte_length": 23508
+    },
+    {
+      "path": "/p/foreshore-2026-06-08-miniature-crafting/index.html",
+      "media_type": "text/html",
+      "sha256": "745db51602513296c3f103503b840a7110d6ac70f06f45e35c0c7bde2da1389e",
+      "byte_length": 26191
+    },
+    {
+      "path": "/p/foreshore-2026-06-09-ceramics-studio/index.html",
+      "media_type": "text/html",
+      "sha256": "46537fa10067f8fa5d50abd985fe3a3dce7a842649069c816a5c612fd0f6daed",
+      "byte_length": 27103
+    },
+    {
+      "path": "/p/foreshore-2026-06-10-caffeine-wellness-drinks/index.html",
+      "media_type": "text/html",
+      "sha256": "34ccb138c07c65eeb17b5e3d2a841da388b8098cfdcaa1351f403dea7a1e40bd",
+      "byte_length": 28018
+    },
+    {
+      "path": "/p/foreshore-2026-06-11-sober-caffeine-culture/index.html",
+      "media_type": "text/html",
+      "sha256": "de43ce7830f1cb62bddccddcda943fe56b25c86f710bbf3e5907fffb224be4a2",
+      "byte_length": 28042
+    },
+    {
+      "path": "/p/foreshore-2026-06-15-beach-paddle-sport/index.html",
+      "media_type": "text/html",
+      "sha256": "1e1548e18b6481c8dea5f20748720a50d545bc4386bec2a5d9d956b06ac7baed",
+      "byte_length": 30664
+    },
+    {
+      "path": "/p/foreshore-2026-06-16-cinema-wellness-ritual/index.html",
+      "media_type": "text/html",
+      "sha256": "98ce78b10cc77d0ee85c915335374877d557f0bfcd83293b3c1acfa7dbf10b47",
+      "byte_length": 27437
+    },
+    {
+      "path": "/p/foreshore-2026-06-17-bjj-lifestyle-community/index.html",
+      "media_type": "text/html",
+      "sha256": "95d8703ba0811e8c374345295f32cbcd240f87f84b183742ac21a90c2d3e2ba6",
+      "byte_length": 26301
+    },
+    {
+      "path": "/p/foreshore-2026-06-18-bruise-aesthetic-tattoos/index.html",
+      "media_type": "text/html",
+      "sha256": "603b13ec22801f958f3af91553971593375221ad5b7decf849169aa12edb3029",
+      "byte_length": 25248
+    },
+    {
+      "path": "/p/foreshore-2026-06-19-analog-phone-revival/index.html",
+      "media_type": "text/html",
+      "sha256": "2c3340afbf709bb91b0582ae9bbfbf4274cfd9b2c221ec0d9d97d16c53fd82a9",
+      "byte_length": 29165
+    },
+    {
+      "path": "/p/foreshore-2026-06-22-hormone-health-testing/index.html",
+      "media_type": "text/html",
+      "sha256": "7fe88cd0668ed54b0c16d6e6bd61a18d2966cdb3eab608ec5e49fea3300dd568",
+      "byte_length": 21914
+    },
+    {
+      "path": "/p/foreshore-2026-06-23-analog-landline-revival/index.html",
+      "media_type": "text/html",
+      "sha256": "5d0b7a1bae685e2599f80940b64732e5eab13fb9a279904cb8150743e826df30",
+      "byte_length": 27528
+    },
+    {
+      "path": "/p/foreshore-2026-06-23-bjj-lifestyle-community/index.html",
+      "media_type": "text/html",
+      "sha256": "389f14b0f45e0d3675c758df43d2e74f14d0bbe4ff83c13109af2f90aeff64bd",
+      "byte_length": 22006
+    },
+    {
+      "path": "/rss.xml",
+      "media_type": "application/rss+xml",
+      "sha256": "9a5531af2db1c0c4deb2cecfb821c39bced95c8f4498b7bb3b7bbac009521574",
+      "byte_length": 13365
+    },
+    {
+      "path": "/sitemap.xml",
+      "media_type": "application/xml",
+      "sha256": "4ac312254f9e6edfb4ea00d1db0d51ef3ef67cc9a75a406fbd64dd00543aba5c",
+      "byte_length": 9194
+    }
+  ]
+}

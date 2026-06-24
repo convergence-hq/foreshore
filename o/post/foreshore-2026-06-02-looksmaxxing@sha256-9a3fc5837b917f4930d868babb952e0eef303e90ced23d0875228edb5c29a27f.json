@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260602looksmaxxing",
+  "slug": "foreshore-2026-06-02-looksmaxxing",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-02-looksmaxxing.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-02-looksmaxxing@sha256-9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-02T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-02T00:00:00Z",
+    "modified_at": "2026-06-02T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-02-looksmaxxing@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "vocabulary_shift",
+        "geography": [
+          "US",
+          "UK",
+          "global_english"
+        ],
+        "human_action": "Watch for fragrance or grooming brands adopting 'optimize' or 'stack' vocabulary in ad copy aimed at under-30 male buyers. Flag if a second independent source in a non-fashion vertical — men's health, supplements, fitness — reaches for the looksmaxxing frame. Monitor whether any prestige fragrance or skincare brand positions explicitly as a performance input rather than a heritage or occasion product.",
+        "machine_action": "Monitor Highsnobiety, GQ, Men's Health, and fitness RSS feeds and Reddit r/looksmaxing and r/malefashionadvice for vocabulary migration into brand copy. Flag if 'looksmaxxing', 'optimize your appearance', or 'appearance stack' appears in press releases, product descriptions, or paid media from grooming or fragrance brands.",
+        "methodology_footer": "Signal sourced from Highsnobiety RSS feed, 2026-05-29. No search-volume trend, no second source, no purchase data collected. Format selected as vocabulary_shift because the commercial signal is the name itself — the migration of the word from subculture to fashion trade framing — not the underlying behavior, which has been building for two years already.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Single-source pass; no corroboration sought in this cycle.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-02",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-29",
+              "notes": "Highsnobiety RSS, single editorial mention. Behavioral strategist attribution is anonymous. No sales data or search-volume corroboration collected at time of drafting.",
+              "source_name": "Highsnobiety RSS"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "looksmaxxing_vocabulary",
+          "male_grooming_optimization",
+          "aspirational_masculinity_fragrance"
+        ],
+        "uncertainty": "High. The evidence is a single impressionistic quote from an anonymous behavioral strategist, captured in one RSS pass from a premium fashion publication. The vocabulary migration thesis is plausible given documented looksmaxxing discourse growth on TikTok and YouTube since 2023, but the link to premium fragrance purchase behavior is entirely unconfirmed. No search-volume data, no enrollment or sales corroboration. Treat as a positioning hypothesis to monitor, not a demand observation to act on."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "falsification": "Thesis weakens if premium fragrance or skincare brands test optimization-frame positioning with young male buyers and see no lift versus heritage or occasion copy. Also falsified if looksmaxxing search volume peaks and contracts without vocabulary adoption by any mainstream brand in the next 12 months, or if a second independent source does not surface within two editorial cycles.",
+        "format": "vocabulary_shift",
+        "geography": [
+          "US",
+          "UK",
+          "global_english"
+        ],
+        "headline": "What the Forum Boys Found on the Luxury Shelf",
+        "human_action": "Watch for fragrance or grooming brands adopting 'optimize' or 'stack' vocabulary in ad copy aimed at under-30 male buyers. Flag if a second independent source in a non-fashion vertical — men's health, supplements, fitness — reaches for the looksmaxxing frame. Monitor whether any prestige fragrance or skincare brand positions explicitly as a performance input rather than a heritage or occasion product.",
+        "issue_id": "foreshore-2026-06-02-looksmaxxing",
+        "machine_action": "Monitor Highsnobiety, GQ, Men's Health, and fitness RSS feeds and Reddit r/looksmaxing and r/malefashionadvice for vocabulary migration into brand copy. Flag if 'looksmaxxing', 'optimize your appearance', or 'appearance stack' appears in press releases, product descriptions, or paid media from grooming or fragrance brands.",
+        "methodology_footer": "Signal sourced from Highsnobiety RSS feed, 2026-05-29. No search-volume trend, no second source, no purchase data collected. Format selected as vocabulary_shift because the commercial signal is the name itself — the migration of the word from subculture to fashion trade framing — not the underlying behavior, which has been building for two years already.",
+        "product": "foreshore",
+        "publication_date": "2026-06-02",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Single-source pass; no corroboration sought in this cycle.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-02",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-29",
+              "notes": "Highsnobiety RSS, single editorial mention. Behavioral strategist attribution is anonymous. No sales data or search-volume corroboration collected at time of drafting.",
+              "source_name": "Highsnobiety RSS"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Highsnobiety RSS', 'url': 'https://www.highsnobiety.com/feed/', 'quote': \"Creed's scents — from Aventus to Green Irish Tweed — are popular, expensive, and 'basically aspirational masculinity bottled and sold,' per one behavioral strategist.\", 'date': '2026-05-29', 'type': 'editorial_mention'}"
+        ],
+        "state": "observing",
+        "thesis": "The word 'looksmaxxing' has migrated from incel-adjacent forums into premium fashion media, handing male grooming and fragrance brands a new buyer-identity frame — optimization rather than vanity — that removes the historical friction in selling appearance products to young men.",
+        "trend_ids": [
+          "looksmaxxing_vocabulary",
+          "male_grooming_optimization",
+          "aspirational_masculinity_fragrance"
+        ],
+        "uncertainty": "High. The evidence is a single impressionistic quote from an anonymous behavioral strategist, captured in one RSS pass from a premium fashion publication. The vocabulary migration thesis is plausible given documented looksmaxxing discourse growth on TikTok and YouTube since 2023, but the link to premium fragrance purchase behavior is entirely unconfirmed. No search-volume data, no enrollment or sales corroboration. Treat as a positioning hypothesis to monitor, not a demand observation to act on."
+      }
+    }
+  },
+  "title": "What the Forum Boys Found on the Luxury Shelf",
+  "summary": "The word 'looksmaxxing' has migrated from incel-adjacent forums into premium fashion media, handing male grooming and fragrance brands a new buyer-identity frame — optimization rather than vanity — that removes the historical friction in selling appearance products to young men.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The word 'looksmaxxing' has migrated from incel-adjacent forums into premium fashion media, handing male grooming and fragrance brands a new buyer-identity frame — optimization rather than vanity — that removes the historical friction in selling appearance products to young men.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-06-02",
+      "evidence_refs": [
+        "sig_1"
+      ],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-02-looksmaxxing@v1",
+      "falsification": "Thesis weakens if premium fragrance or skincare brands test optimization-frame positioning with young male buyers and see no lift versus heritage or occasion copy. Also falsified if looksmaxxing search volume peaks and contracts without vocabulary adoption by any mainstream brand in the next 12 months, or if a second independent source does not surface within two editorial cycles."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "sig_1",
+      "title": "sig_1",
+      "url": "https://www.highsnobiety.com/feed/",
+      "publisher": "Highsnobiety RSS"
+    }
+  ],
+  "render": [
+    {
+      "type": "lede",
+      "body": "What the Forum Boys Found on the Luxury Shelf",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The word 'looksmaxxing' has migrated from incel-adjacent forums into premium fashion media, handing male grooming and fragrance brands a new buyer-identity frame — optimization rather than vanity — that removes the historical friction in selling appearance products to young men.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Highsnobiety RSS', 'url': 'https://www.highsnobiety.com/feed/', 'quote': \"Creed's scents — from Aventus to Green Irish Tweed — are popular, expensive, and 'basically aspirational masculinity bottled and sold,' per one behavioral strategist.\", 'date': '2026-05-29', 'type': 'editorial_mention'}",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Thesis weakens if premium fragrance or skincare brands test optimization-frame positioning with young male buyers and see no lift versus heritage or occasion copy. Also falsified if looksmaxxing search volume peaks and contracts without vocabulary adoption by any mainstream brand in the next 12 months, or if a second independent source does not surface within two editorial cycles.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": [
+        "sig_1"
+      ]
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"What the Forum Boys Found on the Luxury Shelf.\" Convergence Daily. 2026-06-02. Resolve signal://foreshore/claim/foreshore-2026-06-02-looksmaxxing@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-02-looksmaxxing@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-02",
+      "published_at": "2026-06-02T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

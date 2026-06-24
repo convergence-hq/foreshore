@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260623bjjlifestylecommunity",
+  "slug": "foreshore-2026-06-23-bjj-lifestyle-community",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-23T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-23T00:00:00Z",
+    "modified_at": "2026-06-23T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-23-bjj-lifestyle-community@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.32,
+            "event_date": "2026-06-23",
+            "evidence_quote": "Japanese cult label Needles is linking up with martial arts powerhouse Albino & Preto for a capsule that bridges the worlds of high fashion and Brazilian Jiu Jitsu culture.",
+            "interpretation": "The source is useful enough to watch, but still needs independent confirmation.",
+            "signal": "Brazilian Jiu Jitsu Lifestyle",
+            "source_type": "fitness_social",
+            "source_url": "https://hypebae.com/feed"
+          }
+        ],
+        "format": "boring_business_hidden_inside_trend",
+        "human_action": "Read the source, test the buyer-change claim, and decide whether it belongs in the morning drop.",
+        "machine_action": "Keep the source object in the watch queue and require another source type before promotion.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-23",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-23",
+              "notes": "Read during candidate rendering.",
+              "source_name": "fitness_social"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Brazilian Jiu Jitsu Lifestyle",
+            "last_error": null,
+            "last_fetched_at": "2026-06-23",
+            "source_type": "fitness_social",
+            "url": "https://hypebae.com/feed"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "bjj-lifestyle-community"
+        ],
+        "uncertainty": "The source diversity is thin because this candidate starts from one pending proposal."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.32,
+            "event_date": "2026-06-23",
+            "evidence_quote": "Japanese cult label Needles is linking up with martial arts powerhouse Albino & Preto for a capsule that bridges the worlds of high fashion and Brazilian Jiu Jitsu culture.",
+            "interpretation": "The source is useful enough to watch, but still needs independent confirmation.",
+            "signal": "Brazilian Jiu Jitsu Lifestyle",
+            "source_type": "fitness_social",
+            "source_url": "https://hypebae.com/feed"
+          }
+        ],
+        "falsification": "Archive the candidate if no independent source type appears inside 28 days.",
+        "format": "boring_business_hidden_inside_trend",
+        "headline": "Brazilian Jiu Jitsu Lifestyle: Shadow Watch",
+        "human_action": "Read the source, test the buyer-change claim, and decide whether it belongs in the morning drop.",
+        "issue_id": "foreshore-2026-06-23-bjj-lifestyle-community",
+        "machine_action": "Keep the source object in the watch queue and require another source type before promotion.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "publication_date": "2026-06-23",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-23",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-23",
+              "notes": "Read during candidate rendering.",
+              "source_name": "fitness_social"
+            }
+          ]
+        },
+        "signals": [
+          "pending_proposal",
+          "fitness-social",
+          "bjj-lifestyle-community"
+        ],
+        "source_objects": [
+          {
+            "label": "Brazilian Jiu Jitsu Lifestyle",
+            "last_error": null,
+            "last_fetched_at": "2026-06-23",
+            "source_type": "fitness_social",
+            "url": "https://hypebae.com/feed"
+          }
+        ],
+        "state": "observing",
+        "thesis": "The queue found one live signal for Brazilian Jiu Jitsu Lifestyle. That is enough for a watch, not enough for a launch claim.",
+        "trend_ids": [
+          "bjj-lifestyle-community"
+        ],
+        "uncertainty": "The source diversity is thin because this candidate starts from one pending proposal."
+      }
+    }
+  },
+  "title": "Brazilian Jiu Jitsu Lifestyle: Shadow Watch",
+  "summary": "The queue found one live signal for Brazilian Jiu Jitsu Lifestyle.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The queue found one live signal for Brazilian Jiu Jitsu Lifestyle. That is enough for a watch, not enough for a launch claim.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-06-23",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-23-bjj-lifestyle-community@v1",
+      "falsification": "Archive the candidate if no independent source type appears inside 28 days."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Brazilian Jiu Jitsu Lifestyle: Shadow Watch",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The queue found one live signal for Brazilian Jiu Jitsu Lifestyle. That is enough for a watch, not enough for a launch claim.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: pending_proposal\n\nsig_2: fitness-social\n\nsig_3: bjj-lifestyle-community",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Archive the candidate if no independent source type appears inside 28 days.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"Brazilian Jiu Jitsu Lifestyle: Shadow Watch.\" Convergence Daily. 2026-06-23. Resolve signal://foreshore/claim/foreshore-2026-06-23-bjj-lifestyle-community@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-23-bjj-lifestyle-community@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-23",
+      "published_at": "2026-06-23T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

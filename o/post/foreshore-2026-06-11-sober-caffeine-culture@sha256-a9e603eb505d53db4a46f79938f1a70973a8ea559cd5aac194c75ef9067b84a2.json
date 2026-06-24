@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260611sobercaffeineculture",
+  "slug": "foreshore-2026-06-11-sober-caffeine-culture",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-11-sober-caffeine-culture.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-11-sober-caffeine-culture@sha256-a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-11T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-11T00:00:00Z",
+    "modified_at": "2026-06-11T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-11-sober-caffeine-culture@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "UK",
+          "EU",
+          "US-inferred"
+        ],
+        "human_action": "Search hospitality trade publications (Imbibe, Drinks International, Nation's Restaurant News) for non-alcoholic on-trade portfolio announcements or buyer friction around NA sourcing. Check for distributor funding rounds in the NA beverage space. Test the wedge hypothesis with one or two event planners — ask whether non-alcoholic guest-experience sourcing is an actual procurement pain point.",
+        "machine_action": "Monitor hospitality trade RSS feeds for 'non-alcoholic distributor', 'NA on-trade', 'mocktail sourcing', 'sober event menu'. Track LinkedIn job postings at major wine and spirits distributors for dedicated NA portfolio or business development roles. Flag any Series A or seed funding in NA beverage distribution or on-trade procurement tooling.",
+        "methodology_footer": "Source: single Dazed Digital editorial RSS item, 2026-06-11. No search volume, sales data, or trade-side corroboration attached. Angle is structurally distinct from the vocabulary_shift issue published 2026-06-10 using the same source; that issue addressed buyer identity language; this issue addresses the supply infrastructure gap implied by that consolidation.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-11",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "sober_curious_caffeine",
+          "caffeine_wellness_drinks",
+          "na_hospitality_distribution",
+          "on_trade_na_portfolio"
+        ],
+        "uncertainty": "The inference from consumer vocabulary consolidation to a hospitality B2B procurement gap is one logical step beyond what the source evidence shows. The consumer trend may be real; the distributor gap is an inference, not an observed signal from the trade side."
+      },
+      "original_issue": {
+        "confidence": "low",
+        "falsification": "Kill if: hospitality trade coverage shows NA portfolios are already a mainstream distributor offer with established on-trade players; consumer research places sober-curious caffeine behavior primarily in home or delivery contexts rather than occasion settings; major incumbents (Southern Glazer's, Republic National, or equivalent UK distributors) announce dedicated NA on-trade lines.",
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "UK",
+          "EU",
+          "US-inferred"
+        ],
+        "headline": "The Back Bar Nobody Stocks",
+        "human_action": "Search hospitality trade publications (Imbibe, Drinks International, Nation's Restaurant News) for non-alcoholic on-trade portfolio announcements or buyer friction around NA sourcing. Check for distributor funding rounds in the NA beverage space. Test the wedge hypothesis with one or two event planners — ask whether non-alcoholic guest-experience sourcing is an actual procurement pain point.",
+        "issue_id": "foreshore-2026-06-11-sober-caffeine-culture",
+        "machine_action": "Monitor hospitality trade RSS feeds for 'non-alcoholic distributor', 'NA on-trade', 'mocktail sourcing', 'sober event menu'. Track LinkedIn job postings at major wine and spirits distributors for dedicated NA portfolio or business development roles. Flag any Series A or seed funding in NA beverage distribution or on-trade procurement tooling.",
+        "methodology_footer": "Source: single Dazed Digital editorial RSS item, 2026-06-11. No search volume, sales data, or trade-side corroboration attached. Angle is structurally distinct from the vocabulary_shift issue published 2026-06-10 using the same source; that issue addressed buyer identity language; this issue addresses the supply infrastructure gap implied by that consolidation.",
+        "product": "foreshore",
+        "publication_date": "2026-06-11",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-11",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'dazed_digital', 'source_url': 'https://www.dazeddigital.com/rss', 'signal_type': 'editorial_mention', 'date': '2026-06-11', 'quote': 'From iced matcha lattes to wellness-coded energy drinks to flavoured pouches, caffeine products are everywhere right now – and sober-curious young people are behind the boom', 'strength': 'weak', 'notes': 'Single UK/EU youth cultural outlet; no search volume, sales data, or trade corroboration. Same source URL as the 2026-06-10 vocabulary_shift issue on the same consumer trend. This issue pivots to the hospitality procurement gap rather than the vocabulary migration already covered.'}"
+        ],
+        "state": "observing",
+        "thesis": "The sober-curious caffeine cohort is large enough that hospitality operators now face a procurement gap — no distributor has assembled an on-trade premium non-alcoholic portfolio as a packaged menu offer, creating a B2B supply-chain opportunity twelve to eighteen months ahead of mature infrastructure.",
+        "trend_ids": [
+          "sober_curious_caffeine",
+          "caffeine_wellness_drinks",
+          "na_hospitality_distribution",
+          "on_trade_na_portfolio"
+        ],
+        "uncertainty": "The inference from consumer vocabulary consolidation to a hospitality B2B procurement gap is one logical step beyond what the source evidence shows. The consumer trend may be real; the distributor gap is an inference, not an observed signal from the trade side."
+      }
+    }
+  },
+  "title": "The Back Bar Nobody Stocks",
+  "summary": "The sober-curious caffeine cohort is large enough that hospitality operators now face a procurement gap — no distributor has assembled an on-trade premium non-alcoholic portfolio as a packaged menu offer, creating a B2B supply-chain opportunity twelve to eighteen months ahead of mature infrastructure.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The sober-curious caffeine cohort is large enough that hospitality operators now face a procurement gap — no distributor has assembled an on-trade premium non-alcoholic portfolio as a packaged menu offer, creating a B2B supply-chain opportunity twelve to eighteen months ahead of mature infrastructure.",
+      "claim_kind": "predictive",
+      "confidence": 0.2,
+      "confidence_label": "low",
+      "as_of": "2026-06-11",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-11-sober-caffeine-culture@v1",
+      "falsification": "Kill if: hospitality trade coverage shows NA portfolios are already a mainstream distributor offer with established on-trade players; consumer research places sober-curious caffeine behavior primarily in home or delivery contexts rather than occasion settings; major incumbents (Southern Glazer's, Republic National, or equivalent UK distributors) announce dedicated NA on-trade lines."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Back Bar Nobody Stocks",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The sober-curious caffeine cohort is large enough that hospitality operators now face a procurement gap — no distributor has assembled an on-trade premium non-alcoholic portfolio as a packaged menu offer, creating a B2B supply-chain opportunity twelve to eighteen months ahead of mature infrastructure.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'dazed_digital', 'source_url': 'https://www.dazeddigital.com/rss', 'signal_type': 'editorial_mention', 'date': '2026-06-11', 'quote': 'From iced matcha lattes to wellness-coded energy drinks to flavoured pouches, caffeine products are everywhere right now – and sober-curious young people are behind the boom', 'strength': 'weak', 'notes': 'Single UK/EU youth cultural outlet; no search volume, sales data, or trade corroboration. Same source URL as the 2026-06-10 vocabulary_shift issue on the same consumer trend. This issue pivots to the hospitality procurement gap rather than the vocabulary migration already covered.'} (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Kill if: hospitality trade coverage shows NA portfolios are already a mainstream distributor offer with established on-trade players; consumer research places sober-curious caffeine behavior primarily in home or delivery contexts rather than occasion settings; major incumbents (Southern Glazer's, Republic National, or equivalent UK distributors) announce dedicated NA on-trade lines.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Back Bar Nobody Stocks.\" Convergence Daily. 2026-06-11. Resolve signal://foreshore/claim/foreshore-2026-06-11-sober-caffeine-culture@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-11-sober-caffeine-culture@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-11",
+      "published_at": "2026-06-11T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

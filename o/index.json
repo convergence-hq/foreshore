@@ -1,0 +1,409 @@
+{
+  "schema_version": "1.0.0",
+  "publication": {
+    "id": "foreshore",
+    "name": "Foreshore",
+    "base_url": "https://foreshore.permanentupperclass.com"
+  },
+  "objects": [
+    {
+      "id": "obj_foreshore20260623analoglandlinerevival",
+      "kind": "post",
+      "slug": "foreshore-2026-06-23-analog-landline-revival",
+      "title": "The Phone No One Manufactures Anymore",
+      "summary": "The corded landline revival is culturally visible but supply-side hollow — quality new corded phones are nearly impossible to source at retail, telecom infrastructure is being actively decommissioned, and the business opportunity sits with whoever rebuilds the supply chain before the aesthetic locks in.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-23T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-23T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-23-analog-landline-revival/"
+    },
+    {
+      "id": "obj_foreshore20260623bjjlifestylecommunity",
+      "kind": "post",
+      "slug": "foreshore-2026-06-23-bjj-lifestyle-community",
+      "title": "Brazilian Jiu Jitsu Lifestyle: Shadow Watch",
+      "summary": "The queue found one live signal for Brazilian Jiu Jitsu Lifestyle.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-23T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-23T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-23-bjj-lifestyle-community/"
+    },
+    {
+      "id": "obj_foreshore20260622hormonehealthtesting",
+      "kind": "post",
+      "slug": "foreshore-2026-06-22-hormone-health-testing",
+      "title": "Hormone Health Testing: Shadow Watch",
+      "summary": "The queue found one live signal for Hormone Health Testing.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-22T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-22T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-22-hormone-health-testing/"
+    },
+    {
+      "id": "obj_foreshore20260619analogphonerevival",
+      "kind": "post",
+      "slug": "foreshore-2026-06-19-analog-phone-revival",
+      "title": "The Call You Had to Stay For",
+      "summary": "A single Dazed Digital editorial marks the domestic corded landline as an emerging wellness object among digital-burnout youth — distinct from dumb phone substitution in that it anchors the user to a room rather than reducing mobile capability.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-19T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-19T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-19-analog-phone-revival/"
+    },
+    {
+      "id": "obj_foreshore20260618bruiseaesthetictattoos",
+      "kind": "post",
+      "slug": "foreshore-2026-06-18-bruise-aesthetic-tattoos",
+      "title": "The Bruise You Chose",
+      "summary": "A single Dazed Digital editorial marks bruise-imitation tattoos as an emerging aesthetic category at the convergence of damaged-body aesthetics, hyperrealism technique expansion, and somatic identity marking; confirmation within eight weeks would open a narrow but defensible opportunity in specialized tattoo ink supply.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-18-bruise-aesthetic-tattoos@sha256-0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "0a5e2ea3b20a603f0e63d4de6220962dc7c22bd244b4e21e3eca44b32318d940",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-18T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-18T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-18-bruise-aesthetic-tattoos/"
+    },
+    {
+      "id": "obj_foreshore20260617bjjlifestylecommunity",
+      "kind": "post",
+      "slug": "foreshore-2026-06-17-bjj-lifestyle-community",
+      "title": "When the Kimono Gets a Fashion Week Co-Sign",
+      "summary": "BJJ practitioners are a disproportionately high-income, brand-loyal demographic that fashion has been slow to recognize as taste-makers; the Needles x Albino & Preto collab signals that recognition has arrived, and the lifestyle layer between the mat and the street remains unbuilt.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-17-bjj-lifestyle-community.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-17-bjj-lifestyle-community@sha256-f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "f167bc32600eb5ac2b85ada56c187f01f8365abeb6c3bfb4dba2beba626d7175",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-17T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-17T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-17-bjj-lifestyle-community/"
+    },
+    {
+      "id": "obj_foreshore20260616cinemawellnessritual",
+      "kind": "post",
+      "slug": "foreshore-2026-06-16-cinema-wellness-ritual",
+      "title": "The Accidental Wellness Chamber",
+      "summary": "The phrase 'wellness hack' is migrating onto cinema-going among young audiences, relocating the cinema ticket from the entertainment budget to the wellness budget — a reframing that operators have not yet named or productized.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-16-cinema-wellness-ritual.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-16-cinema-wellness-ritual@sha256-ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "ac8b7e49426a70a4f0d67d32b14a38da4bcba6afcd70eb487dc8f7de306e6906",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-16T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-16T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-16-cinema-wellness-ritual/"
+    },
+    {
+      "id": "obj_foreshore20260615beachpaddlesport",
+      "kind": "post",
+      "slug": "foreshore-2026-06-15-beach-paddle-sport",
+      "title": "The Bat and Ball That Four Houses Packed This Season",
+      "summary": "Loro Piana, Hermès, Bottega Veneta, and Chanel have independently converged on cooperative beach bat-and-ball — frescobol/matkot — in their 2026 resort aesthetics.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-15-beach-paddle-sport.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-15-beach-paddle-sport@sha256-2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-15T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-15T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-15-beach-paddle-sport/"
+    },
+    {
+      "id": "obj_foreshore20260611sobercaffeineculture",
+      "kind": "post",
+      "slug": "foreshore-2026-06-11-sober-caffeine-culture",
+      "title": "The Back Bar Nobody Stocks",
+      "summary": "The sober-curious caffeine cohort is large enough that hospitality operators now face a procurement gap — no distributor has assembled an on-trade premium non-alcoholic portfolio as a packaged menu offer, creating a B2B supply-chain opportunity twelve to eighteen months ahead of mature infrastructure.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-11-sober-caffeine-culture.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-11-sober-caffeine-culture@sha256-a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "a9e603eb505d53db4a46f79938f1a70973a8ea559cd5aac194c75ef9067b84a2",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-11T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-11T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-11-sober-caffeine-culture/"
+    },
+    {
+      "id": "obj_foreshore20260610caffeinewellnessdrinks",
+      "kind": "post",
+      "slug": "foreshore-2026-06-10-caffeine-wellness-drinks",
+      "title": "The Sober Drink Gets a Stimulant",
+      "summary": "The phrase 'sober-curious' is migrating from alcohol-abstinence framing into caffeine-adoption framing, consolidating iced matcha, wellness energy drinks, and flavored pouches under a single buyer identity — the whitespace is a social-occasion caffeine brand built for hospitality distribution, a channel no current player owns.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-10-caffeine-wellness-drinks.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-10-caffeine-wellness-drinks@sha256-70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "70845975be745d3011b8c7863138ef91d597e9e8bca4506efec8beb8ea35a025",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-10T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-10T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-10-caffeine-wellness-drinks/"
+    },
+    {
+      "id": "obj_foreshore20260609ceramicsstudio",
+      "kind": "post",
+      "slug": "foreshore-2026-06-09-ceramics-studio",
+      "title": "The Wrong Student in the Right Studio",
+      "summary": "Ceramics studios built on aesthetic-era demand are running a vocational trades curriculum, creating structural dropout that threatens re-enrollment economics — the opportunity is an outcome-first beginner format for the buyer who wants the object, not the craft mastery.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-09-ceramics-studio.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-09-ceramics-studio@sha256-9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "9260bd406cdbf6514402d783cc892ee51b863bbea81c0d0f211087e79abed293",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-09T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-09T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-09-ceramics-studio/"
+    },
+    {
+      "id": "obj_foreshore20260608miniaturecrafting",
+      "kind": "post",
+      "slug": "foreshore-2026-06-08-miniature-crafting",
+      "title": "The Tiny Room at the End of the Feed",
+      "summary": "A Canadian reality TV format is driving new entrants into miniature crafting from outside the existing hobby base; the beginner onboarding and supply infrastructure for this non-hobbyist buyer does not yet exist.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-08-miniature-crafting.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-08-miniature-crafting@sha256-eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "eeddd8452e937e7eeb86188d2d8b69c793fbc8ce5ba8325aea1413d5f4e1da72",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-08T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-08T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-08-miniature-crafting/"
+    },
+    {
+      "id": "obj_foreshore20260605dumbphonemovement",
+      "kind": "post",
+      "slug": "foreshore-2026-06-05-dumb-phone-movement",
+      "title": "The Opt-Out Class",
+      "summary": "Tech media professionals are normalizing smartphone abandonment — not experimenting with it — and the onboarding infrastructure for the second wave of adopters has not been built.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-05-dumb-phone-movement.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-05-dumb-phone-movement@sha256-51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-05T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-05T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-05-dumb-phone-movement/"
+    },
+    {
+      "id": "obj_foreshore20260604salmonpdrnfacials",
+      "kind": "post",
+      "slug": "foreshore-2026-06-04-salmon-pdrn-facials",
+      "title": "The Byproduct Running the Beauty Counter",
+      "summary": "The 'salmon facial' trend is celebrity-amplified noise on top of a decade-old South Korean clinical ingredient; the boring business is the Western distribution and training layer between concentrated Korean PDRN biotech manufacturers and the fragmented US/EU med-spa market.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-04-salmon-pdrn-facials.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-04-salmon-pdrn-facials@sha256-3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-04T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-04T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-04-salmon-pdrn-facials/"
+    },
+    {
+      "id": "obj_foreshore20260603humanmadepreference",
+      "kind": "post",
+      "slug": "foreshore-2026-06-03-human-made-preference",
+      "title": "Everything Is Automated Except the Label",
+      "summary": "AI penetration of consumer production has made human involvement legible as a premium claim — 'made by humans' is beginning to surface as marketing vocabulary in wellness, but without any verification infrastructure to make the label stick or defensible.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-03-human-made-preference.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-03-human-made-preference@sha256-698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "698135e6a092d6413e6a6f68e2726e7f3aa5b13bb4b3cfa5c9f57acb1cc374cd",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-03T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-03T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-03-human-made-preference/"
+    },
+    {
+      "id": "obj_foreshore20260602looksmaxxing",
+      "kind": "post",
+      "slug": "foreshore-2026-06-02-looksmaxxing",
+      "title": "What the Forum Boys Found on the Luxury Shelf",
+      "summary": "The word 'looksmaxxing' has migrated from incel-adjacent forums into premium fashion media, handing male grooming and fragrance brands a new buyer-identity frame — optimization rather than vanity — that removes the historical friction in selling appearance products to young men.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-02-looksmaxxing.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-02-looksmaxxing@sha256-9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "9a3fc5837b917f4930d868babb952e0eef303e90ced23d0875228edb5c29a27f",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-02T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-02T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-02-looksmaxxing/"
+    },
+    {
+      "id": "obj_foreshore20260601deathdoulas",
+      "kind": "post",
+      "slug": "foreshore-2026-06-01-death-doulas",
+      "title": "Learning to Hold the Door",
+      "summary": "Celebrity adoption of death doula training is the rich-people-beta signal for a profession about to be formalized — the near-term business is the credentialing and vetting infrastructure, not the doulas themselves.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-01-death-doulas.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-01-death-doulas@sha256-26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "26266c779a60c966c787e94cfe390a9337122dd581c7b4b0cf3efb4e208e08c1",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-01T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-01T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-01-death-doulas/"
+    },
+    {
+      "id": "obj_foreshore20260521issue1",
+      "kind": "post",
+      "slug": "foreshore-2026-05-21-issue-1",
+      "title": "The cleanup economy",
+      "summary": "The mature GLP-1 story is the drug; the next business is the maintenance layer that cleans up after rapid weight loss, beginning with skin and aesthetics, where the buyer already has a named problem and the seller still speaks the old vocabulary.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-21-issue-1.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-21-issue-1@sha256-ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "ed0d6d4e45ddcf2f3b1ee366d9e93c5f7eb631d8dc99d94b75c60bab99ad536c",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-05-21T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-05-21T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-05-21-issue-1/"
+    },
+    {
+      "id": "obj_foreshore20260520shadow1",
+      "kind": "post",
+      "slug": "foreshore-2026-05-20-shadow-1",
+      "title": "The GLP-1 Skin Trade Is the Maintenance Layer",
+      "summary": "The live Foreshore queue saw duplicate GLP-1 skin labels from a May 19 RSS cycle; the commercial read is a maintenance layer around rapid weight loss, not a confirmed demand wave yet.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-20-shadow-1.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-05-20-shadow-1@sha256-6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "6b6e0738eb8f29bb1f7c12797c8e6b045f57879ee00eb1a967b1fca70d19360f",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-05-20T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-05-20T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-05-20-shadow-1/"
+    }
+  ]
+}

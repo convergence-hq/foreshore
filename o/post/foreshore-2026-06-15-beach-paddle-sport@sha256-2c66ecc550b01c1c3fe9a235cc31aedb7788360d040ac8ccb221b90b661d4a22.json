@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260615beachpaddlesport",
+  "slug": "foreshore-2026-06-15-beach-paddle-sport",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-15-beach-paddle-sport.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-15-beach-paddle-sport@sha256-2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-15T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "2c66ecc550b01c1c3fe9a235cc31aedb7788360d040ac8ccb221b90b661d4a22",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-15T00:00:00Z",
+    "modified_at": "2026-06-15T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-15-beach-paddle-sport@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.55,
+            "event_date": "2026-06-12",
+            "evidence_quote": "Loro Piana, Hermès, Bottega Veneta, Chanel... all these luxury brands have set their sights on one humble beach sport: The game of bat and ball.",
+            "interpretation": "Four competing luxury houses naming the same sport in the same season. Single fashion editorial source with no search or retail corroboration.",
+            "signal": "luxury-house-convergence-beach-paddle",
+            "source_type": "rss_editorial",
+            "source_url": "https://www.highsnobiety.com/feed/"
+          }
+        ],
+        "format": "smoke_before_fire",
+        "geography": [
+          "Brazil",
+          "Israel",
+          "Mediterranean",
+          "US",
+          "UK"
+        ],
+        "human_action": "Check whether frescobol or matkot paddles are appearing in beach club equipment inventories at Mykonos, St. Tropez, Tulum, or Malibu properties. Look for the sport appearing in fitness or travel content from non-luxury accounts. Watch for 'frescobol' or 'matkot' surfacing unprompted in English-language lifestyle media. If two additional independent editorial sources appear within six weeks, upgrade to promote.",
+        "machine_action": "Monitor search volume trends for 'frescobol', 'matkot', and 'beach paddle ball' in US, UK, and DE markets. Track SKU expansion at Decathlon, REI, and Dick's Sporting Goods for paddle ball sets above $60. Alert on any Highsnobiety-tier or fitness-media coverage of frescobol outside of luxury editorial context. Flag if the sport appears in any beach club or resort partnership announcement.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Single source only. No corroboration from sporting goods retail, search data, or second editorial outlet.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-12T13:33:55Z",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-12T13:33:55Z",
+              "notes": "One item surfacing luxury bat-and-ball convergence. No additional sources detected on this topic.",
+              "source_name": "Highsnobiety RSS"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Highsnobiety RSS",
+            "last_error": null,
+            "last_fetched_at": "2026-06-12T13:33:55Z",
+            "source_type": "rss_editorial",
+            "url": "https://www.highsnobiety.com/feed/"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "beach_paddle_sport",
+          "frescobol",
+          "matkot",
+          "luxury_sport_adoption",
+          "resort_fitness_equipment"
+        ],
+        "uncertainty": "Single source with no search volume, retail SKU, or second editorial corroboration. The core risk is that luxury houses style beach props cyclically without triggering downstream sport adoption — Chanel and Hermès have done this before. Confidence at 0.55 reflects genuine ambiguity between a cultural pipeline moment and a seasonal styling coincidence."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.55,
+            "event_date": "2026-06-12",
+            "evidence_quote": "Loro Piana, Hermès, Bottega Veneta, Chanel... all these luxury brands have set their sights on one humble beach sport: The game of bat and ball.",
+            "interpretation": "Four competing luxury houses naming the same sport in the same season. Single fashion editorial source with no search or retail corroboration.",
+            "signal": "luxury-house-convergence-beach-paddle",
+            "source_type": "rss_editorial",
+            "source_url": "https://www.highsnobiety.com/feed/"
+          }
+        ],
+        "falsification": "Signal dies if: summer 2026 beach lookbooks cycle to the next prop (bocce, pétanque) and paddle ball produces no equipment search activity; if search volume for 'frescobol' or 'matkot' stays flat in US and UK through Q3 2026; if no beach club outside Brazil, Israel, or Mediterranean adds frescobol to equipment rental by September 2026; if this turns out to be Hermès and Chanel styling the same prop type in the same season without independent editorial origination.",
+        "format": "smoke_before_fire",
+        "geography": [
+          "Brazil",
+          "Israel",
+          "Mediterranean",
+          "US",
+          "UK"
+        ],
+        "headline": "The Bat and Ball That Four Houses Packed This Season",
+        "human_action": "Check whether frescobol or matkot paddles are appearing in beach club equipment inventories at Mykonos, St. Tropez, Tulum, or Malibu properties. Look for the sport appearing in fitness or travel content from non-luxury accounts. Watch for 'frescobol' or 'matkot' surfacing unprompted in English-language lifestyle media. If two additional independent editorial sources appear within six weeks, upgrade to promote.",
+        "issue_id": "foreshore-2026-06-15-beach-paddle-sport",
+        "machine_action": "Monitor search volume trends for 'frescobol', 'matkot', and 'beach paddle ball' in US, UK, and DE markets. Track SKU expansion at Decathlon, REI, and Dick's Sporting Goods for paddle ball sets above $60. Alert on any Highsnobiety-tier or fitness-media coverage of frescobol outside of luxury editorial context. Flag if the sport appears in any beach club or resort partnership announcement.",
+        "product": "foreshore",
+        "publication_date": "2026-06-15",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Single source only. No corroboration from sporting goods retail, search data, or second editorial outlet.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-12T13:33:55Z",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-12T13:33:55Z",
+              "notes": "One item surfacing luxury bat-and-ball convergence. No additional sources detected on this topic.",
+              "source_name": "Highsnobiety RSS"
+            }
+          ]
+        },
+        "signals": [
+          "Highsnobiety (2026-06-12): Loro Piana, Hermès, Bottega Veneta, and Chanel all featuring beach bat-and-ball in their resort season editorial — four competing houses converging on the same specific sport, not just 'beach' as an aesthetic category.",
+          "Frescobol Carioca (São Paulo, founded 2012) already sells handcrafted wooden paddle sets at $150–350 through luxury boutiques and hotel gift shops, establishing that a premium-positioned equipment market exists but is thin and geographically limited.",
+          "Padel and pickleball precedent: both received luxury fashion editorial attention 12–24 months before mainstream recreational adoption — the mechanism (luxury framing making an activity socially legible to aspirational non-participants) has repeated twice in the last decade."
+        ],
+        "source_objects": [
+          {
+            "label": "Highsnobiety RSS",
+            "last_error": null,
+            "last_fetched_at": "2026-06-12T13:33:55Z",
+            "source_type": "rss_editorial",
+            "url": "https://www.highsnobiety.com/feed/"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Loro Piana, Hermès, Bottega Veneta, and Chanel have independently converged on cooperative beach bat-and-ball — frescobol/matkot — in their 2026 resort aesthetics. If the luxury-to-mainstream pipeline holds (as it did for padel and pickleball), the equipment layer between $80 and $180 is a gap no brand currently owns.",
+        "trend_ids": [
+          "beach_paddle_sport",
+          "frescobol",
+          "matkot",
+          "luxury_sport_adoption",
+          "resort_fitness_equipment"
+        ],
+        "uncertainty": "Single source with no search volume, retail SKU, or second editorial corroboration. The core risk is that luxury houses style beach props cyclically without triggering downstream sport adoption — Chanel and Hermès have done this before. Confidence at 0.55 reflects genuine ambiguity between a cultural pipeline moment and a seasonal styling coincidence."
+      }
+    }
+  },
+  "title": "The Bat and Ball That Four Houses Packed This Season",
+  "summary": "Loro Piana, Hermès, Bottega Veneta, and Chanel have independently converged on cooperative beach bat-and-ball — frescobol/matkot — in their 2026 resort aesthetics.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Loro Piana, Hermès, Bottega Veneta, and Chanel have independently converged on cooperative beach bat-and-ball — frescobol/matkot — in their 2026 resort aesthetics. If the luxury-to-mainstream pipeline holds (as it did for padel and pickleball), the equipment layer between $80 and $180 is a gap no brand currently owns.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-06-15",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-15-beach-paddle-sport@v1",
+      "falsification": "Signal dies if: summer 2026 beach lookbooks cycle to the next prop (bocce, pétanque) and paddle ball produces no equipment search activity; if search volume for 'frescobol' or 'matkot' stays flat in US and UK through Q3 2026; if no beach club outside Brazil, Israel, or Mediterranean adds frescobol to equipment rental by September 2026; if this turns out to be Hermès and Chanel styling the same prop type in the same season without independent editorial origination."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Bat and Ball That Four Houses Packed This Season",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Loro Piana, Hermès, Bottega Veneta, and Chanel have independently converged on cooperative beach bat-and-ball — frescobol/matkot — in their 2026 resort aesthetics. If the luxury-to-mainstream pipeline holds (as it did for padel and pickleball), the equipment layer between $80 and $180 is a gap no brand currently owns.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: Highsnobiety (2026-06-12): Loro Piana, Hermès, Bottega Veneta, and Chanel all featuring beach bat-and-ball in their resort season editorial — four competing houses converging on the same specific sport, not just 'beach' as an aesthetic category.\n\nsig_2: Frescobol Carioca (São Paulo, founded 2012) already sells handcrafted wooden paddle sets at $150–350 through luxury boutiques and hotel gift shops, establishing that a premium-positioned equipment market exists but is thin and geographically limited.\n\nsig_3: Padel and pickleball precedent: both received luxury fashion editorial attention 12–24 months before mainstream recreational adoption — the mechanism (luxury framing making an activity socially legible to aspirational non-participants) has repeated twice in the last decade.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Signal dies if: summer 2026 beach lookbooks cycle to the next prop (bocce, pétanque) and paddle ball produces no equipment search activity; if search volume for 'frescobol' or 'matkot' stays flat in US and UK through Q3 2026; if no beach club outside Brazil, Israel, or Mediterranean adds frescobol to equipment rental by September 2026; if this turns out to be Hermès and Chanel styling the same prop type in the same season without independent editorial origination.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Bat and Ball That Four Houses Packed This Season.\" Convergence Daily. 2026-06-15. Resolve signal://foreshore/claim/foreshore-2026-06-15-beach-paddle-sport@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-15-beach-paddle-sport@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-15",
+      "published_at": "2026-06-15T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

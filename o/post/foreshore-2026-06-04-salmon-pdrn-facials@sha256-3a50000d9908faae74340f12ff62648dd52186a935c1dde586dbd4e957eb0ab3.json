@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260604salmonpdrnfacials",
+  "slug": "foreshore-2026-06-04-salmon-pdrn-facials",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-04-salmon-pdrn-facials.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-04-salmon-pdrn-facials@sha256-3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-04T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "3a50000d9908faae74340f12ff62648dd52186a935c1dde586dbd4e957eb0ab3",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-04T00:00:00Z",
+    "modified_at": "2026-06-04T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-04-salmon-pdrn-facials@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "South Korea",
+          "Norway",
+          "United States",
+          "United Kingdom",
+          "Italy"
+        ],
+        "human_action": "Monitor for: aesthetician training program additions for PDRN protocols, Western med-spa distributor announcements, retail launch of PDRN topicals by major skincare brands. Flag if ingredient appears in US/EU professional aesthetics trade publications or conference programming.",
+        "machine_action": "Watch for PDRN mentions in aesthetician trade publications, beauty industry B2B RSS, and Amazon product launches in skincare actives. Track search trend data for 'PDRN' and 'salmon facial' across Google Trends and TikTok. Alert on any Western distributor announcements from Korean biotech manufacturers.",
+        "methodology_footer": "Primary source: Hypebae RSS feed editorial mention, June 2026. Background context drawn from PDRN's decade-long use in South Korean medical aesthetics and European biotech patent landscape for PDRN extraction.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-04",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "salmon_pdrn_facials",
+          "marine_biotech_beauty",
+          "k_beauty_clinical_migration",
+          "aquaculture_byproduct_valorization"
+        ],
+        "uncertainty": "Single editorial source from fashion media with no transaction data or search volume confirmation. South Korean clinical history provides indirect validation of ingredient efficacy, but Western commercial uptake is unconfirmed. Celebrity-driven cycles can peak and fade without creating lasting commercial infrastructure."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "falsification": "Kill if PDRN treatment bookings fail to surface in med-spa scheduling data within 9 months; if no Western aesthetician certification programs add PDRN protocols by end of 2026; if celebrity cycle moves on with no retail product launches following; or if the 'fishy era' frame stays contained to one editorial cycle with no search volume follow-through.",
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "South Korea",
+          "Norway",
+          "United States",
+          "United Kingdom",
+          "Italy"
+        ],
+        "headline": "The Byproduct Running the Beauty Counter",
+        "human_action": "Monitor for: aesthetician training program additions for PDRN protocols, Western med-spa distributor announcements, retail launch of PDRN topicals by major skincare brands. Flag if ingredient appears in US/EU professional aesthetics trade publications or conference programming.",
+        "issue_id": "foreshore-2026-06-04-salmon-pdrn-facials",
+        "machine_action": "Watch for PDRN mentions in aesthetician trade publications, beauty industry B2B RSS, and Amazon product launches in skincare actives. Track search trend data for 'PDRN' and 'salmon facial' across Google Trends and TikTok. Alert on any Western distributor announcements from Korean biotech manufacturers.",
+        "methodology_footer": "Primary source: Hypebae RSS feed editorial mention, June 2026. Background context drawn from PDRN's decade-long use in South Korean medical aesthetics and European biotech patent landscape for PDRN extraction.",
+        "product": "foreshore",
+        "publication_date": "2026-06-04",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-04",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'hypebae.com', 'type': 'editorial_mention', 'date': '2026-06-04', 'quote': \"Whether we're injecting salmon sperm into our faces or eating sardines for glowing skin, it's hard to deny the fact that skincare is in its fishy era.\", 'strength': 'weak', 'notes': 'Single fashion media source, no transaction or search data attached. Kardashian adjacency noted.'}"
+        ],
+        "state": "observing",
+        "thesis": "The 'salmon facial' trend is celebrity-amplified noise on top of a decade-old South Korean clinical ingredient; the boring business is the Western distribution and training layer between concentrated Korean PDRN biotech manufacturers and the fragmented US/EU med-spa market.",
+        "trend_ids": [
+          "salmon_pdrn_facials",
+          "marine_biotech_beauty",
+          "k_beauty_clinical_migration",
+          "aquaculture_byproduct_valorization"
+        ],
+        "uncertainty": "Single editorial source from fashion media with no transaction data or search volume confirmation. South Korean clinical history provides indirect validation of ingredient efficacy, but Western commercial uptake is unconfirmed. Celebrity-driven cycles can peak and fade without creating lasting commercial infrastructure."
+      }
+    }
+  },
+  "title": "The Byproduct Running the Beauty Counter",
+  "summary": "The 'salmon facial' trend is celebrity-amplified noise on top of a decade-old South Korean clinical ingredient; the boring business is the Western distribution and training layer between concentrated Korean PDRN biotech manufacturers and the fragmented US/EU med-spa market.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The 'salmon facial' trend is celebrity-amplified noise on top of a decade-old South Korean clinical ingredient; the boring business is the Western distribution and training layer between concentrated Korean PDRN biotech manufacturers and the fragmented US/EU med-spa market.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-06-04",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-04-salmon-pdrn-facials@v1",
+      "falsification": "Kill if PDRN treatment bookings fail to surface in med-spa scheduling data within 9 months; if no Western aesthetician certification programs add PDRN protocols by end of 2026; if celebrity cycle moves on with no retail product launches following; or if the 'fishy era' frame stays contained to one editorial cycle with no search volume follow-through."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Byproduct Running the Beauty Counter",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The 'salmon facial' trend is celebrity-amplified noise on top of a decade-old South Korean clinical ingredient; the boring business is the Western distribution and training layer between concentrated Korean PDRN biotech manufacturers and the fragmented US/EU med-spa market.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'hypebae.com', 'type': 'editorial_mention', 'date': '2026-06-04', 'quote': \"Whether we're injecting salmon sperm into our faces or eating sardines for glowing skin, it's hard to deny the fact that skincare is in its fishy era.\", 'strength': 'weak', 'notes': 'Single fashion media source, no transaction or search data attached. Kardashian adjacency noted.'} (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Kill if PDRN treatment bookings fail to surface in med-spa scheduling data within 9 months; if no Western aesthetician certification programs add PDRN protocols by end of 2026; if celebrity cycle moves on with no retail product launches following; or if the 'fishy era' frame stays contained to one editorial cycle with no search volume follow-through.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Byproduct Running the Beauty Counter.\" Convergence Daily. 2026-06-04. Resolve signal://foreshore/claim/foreshore-2026-06-04-salmon-pdrn-facials@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-04-salmon-pdrn-facials@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-04",
+      "published_at": "2026-06-04T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

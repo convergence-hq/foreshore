@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260605dumbphonemovement",
+  "slug": "foreshore-2026-06-05-dumb-phone-movement",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-05-dumb-phone-movement.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-05-dumb-phone-movement@sha256-51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-05T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "51c3bb3f5474efe90847a277dfee754457b5538ab276c297f3d6729cb3ff8878",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-05T00:00:00Z",
+    "modified_at": "2026-06-05T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-05-dumb-phone-movement@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "format": "rich_people_beta",
+        "human_action": "Watch for language register shift in tech media: confessional ('I tried giving up my phone') maturing into resolved ('I switched'). Monitor Light Phone, Punkt, and Mudita for fundraising or retail distribution announcements. Track whether any telecom packages a feature-phone-optimized plan without data.",
+        "machine_action": "Track volume trend on 'dumb phone', 'Light Phone', 'feature phone', 'digital minimalism hardware' across RSS, Reddit, and social. Flag first bundled hardware-plus-plan-plus-coaching product launch in the category.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-05",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "dumb_phone_movement",
+          "digital_minimalism_hardware",
+          "intentional_tech_reduction"
+        ]
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "falsification": "Kill if behavior stays confined to media-professional circles with no translation to adjacent cohorts over 18 months; no hardware maker raises above seed; Light Phone and Punkt unit volumes stay flat; no carrier or service company enters the category with an intentional-reduction product.",
+        "format": "rich_people_beta",
+        "headline": "The Opt-Out Class",
+        "human_action": "Watch for language register shift in tech media: confessional ('I tried giving up my phone') maturing into resolved ('I switched'). Monitor Light Phone, Punkt, and Mudita for fundraising or retail distribution announcements. Track whether any telecom packages a feature-phone-optimized plan without data.",
+        "issue_id": "foreshore-2026-06-05-dumb-phone-movement",
+        "machine_action": "Track volume trend on 'dumb phone', 'Light Phone', 'feature phone', 'digital minimalism hardware' across RSS, Reddit, and social. Flag first bundled hardware-plus-plan-plus-coaching product launch in the category.",
+        "product": "foreshore",
+        "publication_date": "2026-06-05",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-05",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Embedded (embedded.substack.com)', 'type': 'editorial_mention', 'date': '2026-06-03', 'quote': 'The writer thinks giving up smartphones is completely doable. The writer and podcaster found the secret for spending less time on your phone.', 'strength': 'weak', 'notes': 'First-person retrospective register — not aspirational but resolved. Strength is the framing shift from experiment to stable practice; weakness is single source with no transaction, search volume, or demographic corroboration. Same publication used in the 2026-06-03 issue on AI-production vocabulary (different topic).'}"
+        ],
+        "state": "observing",
+        "thesis": "Tech media professionals are normalizing smartphone abandonment — not experimenting with it — and the onboarding infrastructure for the second wave of adopters has not been built.",
+        "trend_ids": [
+          "dumb_phone_movement",
+          "digital_minimalism_hardware",
+          "intentional_tech_reduction"
+        ]
+      }
+    }
+  },
+  "title": "The Opt-Out Class",
+  "summary": "Tech media professionals are normalizing smartphone abandonment — not experimenting with it — and the onboarding infrastructure for the second wave of adopters has not been built.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Tech media professionals are normalizing smartphone abandonment — not experimenting with it — and the onboarding infrastructure for the second wave of adopters has not been built.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-06-05",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-05-dumb-phone-movement@v1",
+      "falsification": "Kill if behavior stays confined to media-professional circles with no translation to adjacent cohorts over 18 months; no hardware maker raises above seed; Light Phone and Punkt unit volumes stay flat; no carrier or service company enters the category with an intentional-reduction product."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Opt-Out Class",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Tech media professionals are normalizing smartphone abandonment — not experimenting with it — and the onboarding infrastructure for the second wave of adopters has not been built.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Embedded (embedded.substack.com)', 'type': 'editorial_mention', 'date': '2026-06-03', 'quote': 'The writer thinks giving up smartphones is completely doable. The writer and podcaster found the secret for spending less time on your phone.', 'strength': 'weak', 'notes': 'First-person retrospective register — not aspirational but resolved. Strength is the framing shift from experiment to stable practice; weakness is single source with no transaction, search volume, or demographic corroboration. Same publication used in the 2026-06-03 issue on AI-production vocabulary (different topic).'} (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Kill if behavior stays confined to media-professional circles with no translation to adjacent cohorts over 18 months; no hardware maker raises above seed; Light Phone and Punkt unit volumes stay flat; no carrier or service company enters the category with an intentional-reduction product.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Opt-Out Class.\" Convergence Daily. 2026-06-05. Resolve signal://foreshore/claim/foreshore-2026-06-05-dumb-phone-movement@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-05-dumb-phone-movement@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-05",
+      "published_at": "2026-06-05T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}
