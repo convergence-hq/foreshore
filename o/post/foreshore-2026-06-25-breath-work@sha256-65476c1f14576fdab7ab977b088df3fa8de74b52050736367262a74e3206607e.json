@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260625breathwork",
+  "slug": "foreshore-2026-06-25-breath-work",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work@sha256-65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-25T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-25T00:00:00Z",
+    "modified_at": "2026-06-25T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-25-breath-work@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 1,
+            "event_date": "2026-06-25",
+            "evidence_quote": "Tracked trend 'Breath-work practitioners' is firing (stage: very_early, composite 1.00). Corroborated across 48 venues mapped across Metro Vancouver (Places); rising Google Trends search velocity; community subscriber growth (Reddit); editorial/culture-feed mentions.",
+            "interpretation": "The source is useful enough to watch, but still needs independent confirmation.",
+            "signal": "Breath-work practitioners",
+            "source_type": "wellness",
+            "source_url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          }
+        ],
+        "format": "boring_business_hidden_inside_trend",
+        "human_action": "Read the source, test the buyer-change claim, and decide whether it belongs in the morning drop.",
+        "machine_action": "Keep the source object in the watch queue and require another source type before promotion.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-25",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-25",
+              "notes": "Read during candidate rendering.",
+              "source_name": "wellness"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Breath-work practitioners",
+            "last_error": null,
+            "last_fetched_at": "2026-06-25",
+            "source_type": "wellness",
+            "url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "breath-work"
+        ],
+        "uncertainty": "The source diversity is thin because this candidate starts from one pending proposal."
+      },
+      "original_issue": {
+        "confidence": "high",
+        "evidence_map": [
+          {
+            "confidence": 1,
+            "event_date": "2026-06-25",
+            "evidence_quote": "Tracked trend 'Breath-work practitioners' is firing (stage: very_early, composite 1.00). Corroborated across 48 venues mapped across Metro Vancouver (Places); rising Google Trends search velocity; community subscriber growth (Reddit); editorial/culture-feed mentions.",
+            "interpretation": "The source is useful enough to watch, but still needs independent confirmation.",
+            "signal": "Breath-work practitioners",
+            "source_type": "wellness",
+            "source_url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          }
+        ],
+        "falsification": "Archive the candidate if no independent source type appears inside 28 days.",
+        "format": "boring_business_hidden_inside_trend",
+        "headline": "Breath-work practitioners: Shadow Watch",
+        "human_action": "Read the source, test the buyer-change claim, and decide whether it belongs in the morning drop.",
+        "issue_id": "foreshore-2026-06-25-breath-work",
+        "machine_action": "Keep the source object in the watch queue and require another source type before promotion.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "publication_date": "2026-06-25",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-25",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-25",
+              "notes": "Read during candidate rendering.",
+              "source_name": "wellness"
+            }
+          ]
+        },
+        "signals": [
+          "pending_proposal",
+          "wellness",
+          "breath-work"
+        ],
+        "source_objects": [
+          {
+            "label": "Breath-work practitioners",
+            "last_error": null,
+            "last_fetched_at": "2026-06-25",
+            "source_type": "wellness",
+            "url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          }
+        ],
+        "state": "observing",
+        "thesis": "The queue found one live signal for Breath-work practitioners. That is enough for a watch, not enough for a launch claim.",
+        "trend_ids": [
+          "breath-work"
+        ],
+        "uncertainty": "The source diversity is thin because this candidate starts from one pending proposal."
+      }
+    }
+  },
+  "title": "Breath-work practitioners: Shadow Watch",
+  "summary": "The queue found one live signal for Breath-work practitioners.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The queue found one live signal for Breath-work practitioners. That is enough for a watch, not enough for a launch claim.",
+      "claim_kind": "predictive",
+      "confidence": 0.85,
+      "confidence_label": "high",
+      "as_of": "2026-06-25",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-25-breath-work@v1",
+      "falsification": "Archive the candidate if no independent source type appears inside 28 days."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Breath-work practitioners: Shadow Watch",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The queue found one live signal for Breath-work practitioners. That is enough for a watch, not enough for a launch claim.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: pending_proposal\n\nsig_2: wellness\n\nsig_3: breath-work",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Archive the candidate if no independent source type appears inside 28 days.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"Breath-work practitioners: Shadow Watch.\" Convergence Daily. 2026-06-25. Resolve signal://foreshore/claim/foreshore-2026-06-25-breath-work@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-25-breath-work@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-25",
+      "published_at": "2026-06-25T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

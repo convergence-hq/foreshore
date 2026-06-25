@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "The queue found one live signal for Breath-work practitioners. That is enough for a watch, not enough for a launch claim.",
+      "claim_kind": "predictive",
+      "confidence": 0.85,
+      "confidence_label": "high",
+      "as_of": "2026-06-25",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-25-breath-work@v1",
+      "falsification": "Archive the candidate if no independent source type appears inside 28 days.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260625breathwork",
+      "object_slug": "foreshore-2026-06-25-breath-work",
+      "object_title": "Breath-work practitioners: Shadow Watch",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work@sha256-65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-25-breath-work/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "The corded landline revival is culturally visible but supply-side hollow — quality new corded phones are nearly impossible to source at retail, telecom infrastructure is being actively decommissioned, and the business opportunity sits with whoever rebuilds the supply chain before the aesthetic locks in.",
       "claim_kind": "predictive",
       "confidence": 0.2,

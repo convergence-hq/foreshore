@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260625breathwork",
+      "kind": "post",
+      "slug": "foreshore-2026-06-25-breath-work",
+      "title": "Breath-work practitioners: Shadow Watch",
+      "summary": "The queue found one live signal for Breath-work practitioners.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work@sha256-65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-25T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-25T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-25-breath-work/"
+    },
+    {
       "id": "obj_foreshore20260623analoglandlinerevival",
       "kind": "post",
       "slug": "foreshore-2026-06-23-analog-landline-revival",

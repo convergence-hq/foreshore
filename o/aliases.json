@@ -24,7 +24,8 @@
     "signal://foreshore/claim/foreshore-2026-06-19-analog-phone-revival@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-19-analog-phone-revival@sha256-adf111ec62c0d96a60012fac6056addd41914dcd79749307fe35738ef549978e.json",
     "signal://foreshore/claim/foreshore-2026-06-22-hormone-health-testing@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-22-hormone-health-testing@sha256-28409ae9b5cee6ff5046732ee85340f3fcd732edfa58202ac26a803aaa662fe3.json",
     "signal://foreshore/claim/foreshore-2026-06-23-analog-landline-revival@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json",
-    "signal://foreshore/claim/foreshore-2026-06-23-bjj-lifestyle-community@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json"
+    "signal://foreshore/claim/foreshore-2026-06-23-bjj-lifestyle-community@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json",
+    "signal://foreshore/claim/foreshore-2026-06-25-breath-work@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work@sha256-65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e.json"
   },
   "entries": [
     {
@@ -177,6 +178,14 @@
       "object_id": "obj_foreshore20260623bjjlifestylecommunity",
       "object_kind": "post",
       "object_slug": "foreshore-2026-06-23-bjj-lifestyle-community",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://foreshore/claim/foreshore-2026-06-25-breath-work@v1",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work@sha256-65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e.json",
+      "object_id": "obj_foreshore20260625breathwork",
+      "object_kind": "post",
+      "object_slug": "foreshore-2026-06-25-breath-work",
       "claim_key": "thesis"
     }
   ]
