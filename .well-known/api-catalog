@@ -33,6 +33,16 @@
       ],
       "item": [
         {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna.json",
+          "type": "application/json",
+          "title": "The City That Already Built the Bathhouse latest object"
+        },
+        {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json",
+          "type": "application/json",
+          "title": "The City That Already Built the Bathhouse immutable object"
+        },
+        {
           "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work.json",
           "type": "application/json",
           "title": "Breath-work practitioners: Shadow Watch latest object"

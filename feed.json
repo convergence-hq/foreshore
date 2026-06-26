@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-26-social-sauna/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json",
+      "title": "The City That Already Built the Bathhouse",
+      "summary": "Metro Vancouver has mapped 170 sauna venues with peak search velocity — a geographic cluster suggesting the social bathing club model is forming as urban infrastructure before national hospitality capital or media has named it.",
+      "content_text": "The City That Already Built the Bathhouse\n\nThesis\nMetro Vancouver has mapped 170 sauna venues with peak search velocity — a geographic cluster suggesting the social bathing club model is forming as urban infrastructure before national hospitality capital or media has named it.\n\nSignals\nsig_1: {'source': 'Google Places API — Metro Vancouver', 'type': 'places_density', 'date': '2026-06-26', 'observation': '170 venue records matching sauna or bathing-facility category across the metro area', 'strength': 'moderate', 'notes': 'Places data conflates gym add-on sauna rooms, hotel spa facilities, Korean jjimjilbang, Russian banya, and purpose-built social sauna clubs. Category purity is unknown without manual audit. Venue density is real; club model prevalence is inferred.'} (strength: moderate)\n\nsig_2: {'source': 'Google Trends', 'type': 'search_velocity', 'date': '2026-06-26', 'observation': '47 tracked data points; velocity and vocabulary scored at maximum (1.0 each); composite 0.824', 'strength': 'moderate', 'notes': 'Rising search curve corroborates demand pull but does not distinguish social club intent from home sauna purchase or fitness facility search.'} (strength: moderate)\n\nWhat would falsify it\nIf manual venue disaggregation finds fewer than 10 dedicated social sauna clubs operating in Metro Vancouver, the density signal collapses to static fixture rather than trend formation. If national Google Trends show no velocity, the Vancouver signal is local saturation, not early diffusion. Kill condition: venue audit complete, standalone clubs below 10, no editorial coverage by 2026-09-30.",
+      "date_published": "2026-06-26T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work@sha256-65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-25-breath-work/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work@sha256-65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e.json",

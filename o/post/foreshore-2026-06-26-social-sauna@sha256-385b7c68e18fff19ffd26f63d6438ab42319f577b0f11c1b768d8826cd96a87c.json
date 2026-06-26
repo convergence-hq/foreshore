@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260626socialsauna",
+  "slug": "foreshore-2026-06-26-social-sauna",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-26T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-26T00:00:00Z",
+    "modified_at": "2026-06-26T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-26-social-sauna@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.824,
+            "event_date": "2026-06-26",
+            "evidence_quote": "170 venues mapped across Metro Vancouver; composite 0.824 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Social sauna clubs — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          },
+          {
+            "confidence": 0.824,
+            "event_date": "2026-06-26",
+            "evidence_quote": "47 search-velocity records; composite 0.824 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Social sauna clubs — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          }
+        ],
+        "format": "local_signal",
+        "geography": [
+          "Metro Vancouver",
+          "British Columbia",
+          "Canada"
+        ],
+        "human_action": "Manually disaggregate the 170 Vancouver venues: identify what share are standalone social sauna clubs with membership models vs. gym add-ons vs. hotel facilities vs. ethnic bathhouse formats. Interview operators at 2–3 standalone clubs about membership growth, new member profile, and waitlist status. If the standalone count is above 15 and growing, promote.",
+        "machine_action": "Monitor Google Trends for 'social sauna', 'sauna club', 'bathhouse membership', and 'public sauna' nationally and in Vancouver. Watch for editorial mentions in wellness, hospitality, design, and real-estate press. Flag any Reddit thread in r/vancouver, r/wellness, or r/sauna exceeding 100 upvotes.",
+        "methodology_footer": "Places API scan: Metro Vancouver bounding box, sauna and bathing facility categories, 2026-06-26. Google Trends: 47 data points, velocity 1.0, vocabulary 1.0. No Reddit records. Composite 0.824 based on 2-source spread.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-26",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-06-26",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "social_sauna",
+          "social_bathing_clubs",
+          "urban_thermal_ritual",
+          "nordic_spa_urban"
+        ],
+        "uncertainty": "The 170-venue figure is the signal's load-bearing number and also its weakest claim. Google Places categories for sauna facilities are broad. The honest read: high venue density confirmed, club-model proliferation inferred. Do not treat as confirmed until manual audit."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "evidence_map": [
+          {
+            "confidence": 0.824,
+            "event_date": "2026-06-26",
+            "evidence_quote": "170 venues mapped across Metro Vancouver; composite 0.824 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Social sauna clubs — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          },
+          {
+            "confidence": 0.824,
+            "event_date": "2026-06-26",
+            "evidence_quote": "47 search-velocity records; composite 0.824 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Social sauna clubs — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          }
+        ],
+        "falsification": "If manual venue disaggregation finds fewer than 10 dedicated social sauna clubs operating in Metro Vancouver, the density signal collapses to static fixture rather than trend formation. If national Google Trends show no velocity, the Vancouver signal is local saturation, not early diffusion. Kill condition: venue audit complete, standalone clubs below 10, no editorial coverage by 2026-09-30.",
+        "format": "local_signal",
+        "geography": [
+          "Metro Vancouver",
+          "British Columbia",
+          "Canada"
+        ],
+        "headline": "The City That Already Built the Bathhouse",
+        "human_action": "Manually disaggregate the 170 Vancouver venues: identify what share are standalone social sauna clubs with membership models vs. gym add-ons vs. hotel facilities vs. ethnic bathhouse formats. Interview operators at 2–3 standalone clubs about membership growth, new member profile, and waitlist status. If the standalone count is above 15 and growing, promote.",
+        "issue_id": "foreshore-2026-06-26-social-sauna",
+        "machine_action": "Monitor Google Trends for 'social sauna', 'sauna club', 'bathhouse membership', and 'public sauna' nationally and in Vancouver. Watch for editorial mentions in wellness, hospitality, design, and real-estate press. Flag any Reddit thread in r/vancouver, r/wellness, or r/sauna exceeding 100 upvotes.",
+        "methodology_footer": "Places API scan: Metro Vancouver bounding box, sauna and bathing facility categories, 2026-06-26. Google Trends: 47 data points, velocity 1.0, vocabulary 1.0. No Reddit records. Composite 0.824 based on 2-source spread.",
+        "product": "foreshore",
+        "publication_date": "2026-06-26",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-26",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Google Places API — Metro Vancouver', 'type': 'places_density', 'date': '2026-06-26', 'observation': '170 venue records matching sauna or bathing-facility category across the metro area', 'strength': 'moderate', 'notes': 'Places data conflates gym add-on sauna rooms, hotel spa facilities, Korean jjimjilbang, Russian banya, and purpose-built social sauna clubs. Category purity is unknown without manual audit. Venue density is real; club model prevalence is inferred.'}",
+          "{'source': 'Google Trends', 'type': 'search_velocity', 'date': '2026-06-26', 'observation': '47 tracked data points; velocity and vocabulary scored at maximum (1.0 each); composite 0.824', 'strength': 'moderate', 'notes': 'Rising search curve corroborates demand pull but does not distinguish social club intent from home sauna purchase or fitness facility search.'}"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-06-26",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Metro Vancouver has mapped 170 sauna venues with peak search velocity — a geographic cluster suggesting the social bathing club model is forming as urban infrastructure before national hospitality capital or media has named it.",
+        "trend_ids": [
+          "social_sauna",
+          "social_bathing_clubs",
+          "urban_thermal_ritual",
+          "nordic_spa_urban"
+        ],
+        "uncertainty": "The 170-venue figure is the signal's load-bearing number and also its weakest claim. Google Places categories for sauna facilities are broad. The honest read: high venue density confirmed, club-model proliferation inferred. Do not treat as confirmed until manual audit."
+      }
+    }
+  },
+  "title": "The City That Already Built the Bathhouse",
+  "summary": "Metro Vancouver has mapped 170 sauna venues with peak search velocity — a geographic cluster suggesting the social bathing club model is forming as urban infrastructure before national hospitality capital or media has named it.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Metro Vancouver has mapped 170 sauna venues with peak search velocity — a geographic cluster suggesting the social bathing club model is forming as urban infrastructure before national hospitality capital or media has named it.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-06-26",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-26-social-sauna@v1",
+      "falsification": "If manual venue disaggregation finds fewer than 10 dedicated social sauna clubs operating in Metro Vancouver, the density signal collapses to static fixture rather than trend formation. If national Google Trends show no velocity, the Vancouver signal is local saturation, not early diffusion. Kill condition: venue audit complete, standalone clubs below 10, no editorial coverage by 2026-09-30."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The City That Already Built the Bathhouse",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Metro Vancouver has mapped 170 sauna venues with peak search velocity — a geographic cluster suggesting the social bathing club model is forming as urban infrastructure before national hospitality capital or media has named it.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Google Places API — Metro Vancouver', 'type': 'places_density', 'date': '2026-06-26', 'observation': '170 venue records matching sauna or bathing-facility category across the metro area', 'strength': 'moderate', 'notes': 'Places data conflates gym add-on sauna rooms, hotel spa facilities, Korean jjimjilbang, Russian banya, and purpose-built social sauna clubs. Category purity is unknown without manual audit. Venue density is real; club model prevalence is inferred.'} (strength: moderate)\n\nsig_2: {'source': 'Google Trends', 'type': 'search_velocity', 'date': '2026-06-26', 'observation': '47 tracked data points; velocity and vocabulary scored at maximum (1.0 each); composite 0.824', 'strength': 'moderate', 'notes': 'Rising search curve corroborates demand pull but does not distinguish social club intent from home sauna purchase or fitness facility search.'} (strength: moderate)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If manual venue disaggregation finds fewer than 10 dedicated social sauna clubs operating in Metro Vancouver, the density signal collapses to static fixture rather than trend formation. If national Google Trends show no velocity, the Vancouver signal is local saturation, not early diffusion. Kill condition: venue audit complete, standalone clubs below 10, no editorial coverage by 2026-09-30.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The City That Already Built the Bathhouse.\" Convergence Daily. 2026-06-26. Resolve signal://foreshore/claim/foreshore-2026-06-26-social-sauna@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-26-social-sauna@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-26",
+      "published_at": "2026-06-26T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

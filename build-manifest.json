@@ -15,6 +15,15 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260626socialsauna",
+      "kind": "post",
+      "slug": "foreshore-2026-06-26-social-sauna",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json",
+      "digest": "385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c",
+      "signature_path": "/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json.sig"
+    },
+    {
       "id": "obj_foreshore20260625breathwork",
       "kind": "post",
       "slug": "foreshore-2026-06-25-breath-work",
@@ -199,14 +208,14 @@
     {
       "path": "/.well-known/api-catalog",
       "media_type": "application/linkset+json",
-      "sha256": "76d507656ec3924dd2ba81ad0079c1fda60db3bcaaa18d0ab469d41421379bbd",
-      "byte_length": 13043
+      "sha256": "94670704a309e9024a327a0a6abddebc7ba60d1d069af02652c69b5221081dcd",
+      "byte_length": 13608
     },
     {
       "path": "/feed.json",
       "media_type": "application/json",
-      "sha256": "d95be8db12081d952d66e813bf7ab3105c6a66a9f2ba309380deeb843ad2abd7",
-      "byte_length": 40651
+      "sha256": "857f44c627a5e3326415dd44214fbbc9db5a19ddc826f43f63e8ad1353cac49d",
+      "byte_length": 43330
     },
     {
       "path": "/history/foreshore-2026-05-20-shadow-1/index.html",
@@ -329,34 +338,40 @@
       "byte_length": 5819
     },
     {
+      "path": "/history/foreshore-2026-06-26-social-sauna/index.html",
+      "media_type": "text/html",
+      "sha256": "9d8b0c2c74cbfd75191475c1199d87a46ff059ee709dc779b98eaa096fb262dd",
+      "byte_length": 5827
+    },
+    {
       "path": "/index.html",
       "media_type": "text/html",
-      "sha256": "85dfbad6aa571a0ca18937a89c233855281d9884de98828794c57ffdafdfbe38",
-      "byte_length": 14071
+      "sha256": "9af4ef213408fcef6e5b602bda00ea8043deaa05a4f32c76fd4bbc77379c693f",
+      "byte_length": 14496
     },
     {
       "path": "/llms.txt",
       "media_type": "text/plain",
-      "sha256": "785afccb09579dccd3616bf5142e78d9d1ce9c89ad6df7cd52df1fea8a39b4cd",
-      "byte_length": 4773
+      "sha256": "965315e70ec9260c570c6b7a1f028fa034f534b6ac2cbb9fd6388585cde704bc",
+      "byte_length": 4978
     },
     {
       "path": "/o/aliases.json",
       "media_type": "application/json",
-      "sha256": "371dcf7974139a5da231066bf34be29922ea85f073b382bd9017e89d296d5b13",
-      "byte_length": 14508
+      "sha256": "0f6266a310e5318ac5ecaaa24aa0cca13a64573c941f8623a79a18cedd68c246",
+      "byte_length": 15187
     },
     {
       "path": "/o/claims.json",
       "media_type": "application/json",
-      "sha256": "879139ba74fd0f83f4ec29d4196e09f02b234960ff01fc181fb1bf3d0dc76ed0",
-      "byte_length": 31507
+      "sha256": "f2a87629d571daf7f7473589bca30187235921a7b84d2701c665aecb0c6a39db",
+      "byte_length": 33164
     },
     {
       "path": "/o/index.json",
       "media_type": "application/json",
-      "sha256": "7117947b15338ba888004760f9616aadfeec950995dda6a0048ca4b430767368",
-      "byte_length": 24754
+      "sha256": "bf0db9192de98a0daf705ccf19eec80574adc3812bb2e8d0b1c383778eb0c8d8",
+      "byte_length": 25963
     },
     {
       "path": "/o/post/foreshore-2026-05-20-shadow-1.json",
@@ -719,6 +734,24 @@
       "byte_length": 949
     },
     {
+      "path": "/o/post/foreshore-2026-06-26-social-sauna.json",
+      "media_type": "application/json",
+      "sha256": "592454288e82dbfa6001efc42d9ffa90924a7101835ecbc4ac2f0efdcf3572bc",
+      "byte_length": 14718
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json",
+      "media_type": "application/json",
+      "sha256": "592454288e82dbfa6001efc42d9ffa90924a7101835ecbc4ac2f0efdcf3572bc",
+      "byte_length": 14718
+    },
+    {
+      "path": "/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "e8178a515e9cc51276953219475e7da670137cbec762b39698d3543b2475866b",
+      "byte_length": 952
+    },
+    {
       "path": "/o/trust.json",
       "media_type": "application/json",
       "sha256": "7a318239389c724f675e4d94117cd7bf61c56094f78f24cc17560bcea5699aae",
@@ -845,16 +878,22 @@
       "byte_length": 21782
     },
     {
+      "path": "/p/foreshore-2026-06-26-social-sauna/index.html",
+      "media_type": "text/html",
+      "sha256": "6184546be46343e0569ed1da4a2c9552bccfa37a30ca4d8afb9680b8446b9476",
+      "byte_length": 31056
+    },
+    {
       "path": "/rss.xml",
       "media_type": "application/rss+xml",
-      "sha256": "3257049a03820f59d3e26e3a91974ee69fd64135712385a35968c9235edd5e0b",
-      "byte_length": 13867
+      "sha256": "e9bded749501099fa1670b7b086cf61a188addba544dc6258410968f72a13873",
+      "byte_length": 14540
     },
     {
       "path": "/sitemap.xml",
       "media_type": "application/xml",
-      "sha256": "fd0c142bd13c3117c82bedcc414fbe081e60a878f89a7322deba94b867191db6",
-      "byte_length": 9614
+      "sha256": "31582031b50c1584b74d6b48e59a9d94e2c37a5c4c090a46a4796d94c0a2d0bf",
+      "byte_length": 10037
     }
   ]
 }

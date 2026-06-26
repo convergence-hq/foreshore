@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Metro Vancouver has mapped 170 sauna venues with peak search velocity — a geographic cluster suggesting the social bathing club model is forming as urban infrastructure before national hospitality capital or media has named it.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-06-26",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-26-social-sauna@v1",
+      "falsification": "If manual venue disaggregation finds fewer than 10 dedicated social sauna clubs operating in Metro Vancouver, the density signal collapses to static fixture rather than trend formation. If national Google Trends show no velocity, the Vancouver signal is local saturation, not early diffusion. Kill condition: venue audit complete, standalone clubs below 10, no editorial coverage by 2026-09-30.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260626socialsauna",
+      "object_slug": "foreshore-2026-06-26-social-sauna",
+      "object_title": "The City That Already Built the Bathhouse",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-26-social-sauna/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "The queue found one live signal for Breath-work practitioners. That is enough for a watch, not enough for a launch claim.",
       "claim_kind": "predictive",
       "confidence": 0.85,
