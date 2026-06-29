@@ -12,6 +12,7 @@ Trend-intelligence for the wellness sector — what the tide is bringing in, pub
 - Optional MCP overlay: https://foreshore.permanentupperclass.com/mcp
 
 ## Objects
+- The Ice Bath That Learned to Scale: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge@sha256-01f2045447be6c1ad57fafd1b42478ec23bd06c310f01ef36fab1c16625d9e4e.json
 - The City That Already Built the Bathhouse: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json
 - Breath-work practitioners: Shadow Watch: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work@sha256-65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e.json
 - The Phone No One Manufactures Anymore: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-analog-landline-revival@sha256-49fe6b9ce4887b1f8945cea4bc381ab85d9ef2f721bda056ea5dedafd31cadb3.json

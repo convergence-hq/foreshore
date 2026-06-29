@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260629coldplunge",
+  "slug": "foreshore-2026-06-29-cold-plunge",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge@sha256-01f2045447be6c1ad57fafd1b42478ec23bd06c310f01ef36fab1c16625d9e4e.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-29T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "01f2045447be6c1ad57fafd1b42478ec23bd06c310f01ef36fab1c16625d9e4e",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-29T00:00:00Z",
+    "modified_at": "2026-06-29T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-29-cold-plunge@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-06-29",
+            "evidence_quote": "120 venues mapped across Metro Vancouver; composite 0.7 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Cold plunge / hot-cold therapy — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#cold_plunge"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-06-29",
+            "evidence_quote": "16 search-velocity records; composite 0.7 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Cold plunge / hot-cold therapy — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#cold_plunge"
+          }
+        ],
+        "format": "rich_people_beta",
+        "geography": [
+          "Metro Vancouver, BC, Canada"
+        ],
+        "human_action": "Audit the 120-venue sample manually to separate purpose-built contrast therapy studios from gym and hotel amenities. If standalone studios represent 15–20 or more of the count, this is a buildable category. Track cold plunge equipment pricing compression — home units are now available sub-$500 via stock tank and chiller combos — as the leading indicator of mass-market arrival timing.",
+        "machine_action": "Initiate Reddit monitoring across r/coldplunge, r/biohacking, and r/sauna for community size and post velocity. Track search term competition between cold plunge, ice bath, and contrast therapy — continued consolidation toward cold plunge confirms vocabulary maturation. Watch for cold plunge studio funding announcements in Canadian and Pacific Northwest metros.",
+        "methodology_footer": "Places API geo-density count via swell tracker; Google Trends velocity and vocabulary scoring automated at 1.0/1.0; composite 0.70; stage approaching; Reddit records 0.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-29",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-06-29",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#cold_plunge"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "cold_plunge",
+          "contrast_therapy",
+          "hot_cold_therapy",
+          "health_optimization_protocol",
+          "biohacker_mainstream_transition"
+        ],
+        "uncertainty": "Medium-high confidence in trend existence and commercial buildout direction. Low confidence in business model specifics, addressable market size, and whether venue density reflects standalone studio growth or gym amenity adoption."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-06-29",
+            "evidence_quote": "120 venues mapped across Metro Vancouver; composite 0.7 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Cold plunge / hot-cold therapy — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#cold_plunge"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-06-29",
+            "evidence_quote": "16 search-velocity records; composite 0.7 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Cold plunge / hot-cold therapy — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#cold_plunge"
+          }
+        ],
+        "falsification": "Manual venue audit reveals the count is dominated by gym and hotel amenities with no standalone business model. Google Trends velocity plateaus or reverses in the next two monthly readings. Home equipment price compression captures the market before commercial studios can establish repeat-visit behavior.",
+        "format": "rich_people_beta",
+        "geography": [
+          "Metro Vancouver, BC, Canada"
+        ],
+        "headline": "The Ice Bath That Learned to Scale",
+        "human_action": "Audit the 120-venue sample manually to separate purpose-built contrast therapy studios from gym and hotel amenities. If standalone studios represent 15–20 or more of the count, this is a buildable category. Track cold plunge equipment pricing compression — home units are now available sub-$500 via stock tank and chiller combos — as the leading indicator of mass-market arrival timing.",
+        "issue_id": "foreshore-2026-06-29-cold-plunge",
+        "machine_action": "Initiate Reddit monitoring across r/coldplunge, r/biohacking, and r/sauna for community size and post velocity. Track search term competition between cold plunge, ice bath, and contrast therapy — continued consolidation toward cold plunge confirms vocabulary maturation. Watch for cold plunge studio funding announcements in Canadian and Pacific Northwest metros.",
+        "methodology_footer": "Places API geo-density count via swell tracker; Google Trends velocity and vocabulary scoring automated at 1.0/1.0; composite 0.70; stage approaching; Reddit records 0.",
+        "product": "foreshore",
+        "publication_date": "2026-06-29",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-29",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Google Places API — Metro Vancouver', 'type': 'geo_density', 'observation': '120 venue records matching cold plunge or hot-cold therapy categories across the metro area', 'strength': 'moderate', 'weakness': 'Category purity unknown without manual audit — count conflates hotel spa plunge pools, gym ice baths as minor amenities, and purpose-built contrast therapy studios'}",
+          "{'source': 'Google Trends', 'type': 'search_velocity', 'observation': '16 tracked data points; velocity and vocabulary both at maximum 1.0; composite 0.70; term consolidation visible as cold plunge wins over ice bath', 'strength': 'moderate', 'weakness': 'Does not distinguish commercial studio search intent from home equipment purchase intent'}"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-06-29",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#cold_plunge"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Cold plunge has crossed from high-income biohacker home installation to commercial venue standard — 120 venues across Metro Vancouver and peak search velocity mark the transition point, with the service-layer opportunity sitting in the stripped-down protocol studio that sells outcomes rather than ambiance.",
+        "trend_ids": [
+          "cold_plunge",
+          "contrast_therapy",
+          "hot_cold_therapy",
+          "health_optimization_protocol",
+          "biohacker_mainstream_transition"
+        ],
+        "uncertainty": "Medium-high confidence in trend existence and commercial buildout direction. Low confidence in business model specifics, addressable market size, and whether venue density reflects standalone studio growth or gym amenity adoption."
+      }
+    }
+  },
+  "title": "The Ice Bath That Learned to Scale",
+  "summary": "Cold plunge has crossed from high-income biohacker home installation to commercial venue standard — 120 venues across Metro Vancouver and peak search velocity mark the transition point, with the service-layer opportunity sitting in the stripped-down protocol studio that sells outcomes rather than ambiance.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Cold plunge has crossed from high-income biohacker home installation to commercial venue standard — 120 venues across Metro Vancouver and peak search velocity mark the transition point, with the service-layer opportunity sitting in the stripped-down protocol studio that sells outcomes rather than ambiance.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-29",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-29-cold-plunge@v1",
+      "falsification": "Manual venue audit reveals the count is dominated by gym and hotel amenities with no standalone business model. Google Trends velocity plateaus or reverses in the next two monthly readings. Home equipment price compression captures the market before commercial studios can establish repeat-visit behavior."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Ice Bath That Learned to Scale",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Cold plunge has crossed from high-income biohacker home installation to commercial venue standard — 120 venues across Metro Vancouver and peak search velocity mark the transition point, with the service-layer opportunity sitting in the stripped-down protocol studio that sells outcomes rather than ambiance.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Google Places API — Metro Vancouver', 'type': 'geo_density', 'observation': '120 venue records matching cold plunge or hot-cold therapy categories across the metro area', 'strength': 'moderate', 'weakness': 'Category purity unknown without manual audit — count conflates hotel spa plunge pools, gym ice baths as minor amenities, and purpose-built contrast therapy studios'} (strength: moderate)\n\nsig_2: {'source': 'Google Trends', 'type': 'search_velocity', 'observation': '16 tracked data points; velocity and vocabulary both at maximum 1.0; composite 0.70; term consolidation visible as cold plunge wins over ice bath', 'strength': 'moderate', 'weakness': 'Does not distinguish commercial studio search intent from home equipment purchase intent'} (strength: moderate)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Manual venue audit reveals the count is dominated by gym and hotel amenities with no standalone business model. Google Trends velocity plateaus or reverses in the next two monthly readings. Home equipment price compression captures the market before commercial studios can establish repeat-visit behavior.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Ice Bath That Learned to Scale.\" Convergence Daily. 2026-06-29. Resolve signal://foreshore/claim/foreshore-2026-06-29-cold-plunge@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-29-cold-plunge@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-29",
+      "published_at": "2026-06-29T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

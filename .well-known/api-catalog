@@ -33,6 +33,16 @@
       ],
       "item": [
         {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge.json",
+          "type": "application/json",
+          "title": "The Ice Bath That Learned to Scale latest object"
+        },
+        {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge@sha256-01f2045447be6c1ad57fafd1b42478ec23bd06c310f01ef36fab1c16625d9e4e.json",
+          "type": "application/json",
+          "title": "The Ice Bath That Learned to Scale immutable object"
+        },
+        {
           "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna.json",
           "type": "application/json",
           "title": "The City That Already Built the Bathhouse latest object"
