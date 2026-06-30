@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox@sha256-4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-30-hyrox/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox@sha256-4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5.json",
+      "title": "The Race That Rebuilt the Gym Floor",
+      "summary": "Hyrox's visible story is a structured fitness-racing format crossing into North American mainstream; the real business is the training economy it generates — equipment retrofits, programming licenses, race-prep coaching, and specialist nutrition serving a customer cohort that organises spending around a race calendar.",
+      "content_text": "The Race That Rebuilt the Gym Floor\n\nThesis\nHyrox's visible story is a structured fitness-racing format crossing into North American mainstream; the real business is the training economy it generates — equipment retrofits, programming licenses, race-prep coaching, and specialist nutrition serving a customer cohort that organises spending around a race calendar.\n\nSignals\nsig_1: {'source': 'Google Places API — Metro Vancouver venue density', 'observation': '100 venue records matching functional-fitness and adjacent category criteria across the metro area, observed 2026-06-30', 'strength': 'moderate', 'weakness': 'Category purity unknown without manual audit; count conflates dedicated Hyrox prep facilities with general CrossFit affiliates and functional fitness boxes that share equipment overlap but may not run structured Hyrox programming'} (strength: moderate)\n\nsig_2: {'source': 'Google Trends — search velocity', 'observation': \"59 tracked data points; velocity and vocabulary both scored at maximum 1.0; composite 0.70; 'Hyrox' consolidating as the dominant term over generic alternatives such as 'functional fitness race'\", 'strength': 'moderate', 'weakness': 'Does not distinguish training-access intent from race-registration curiosity or general awareness searching; no Reddit corroboration captured'} (strength: moderate)\n\nWhat would falsify it\nSignal weakens materially if manual audit of the 100 venues finds fewer than 20 running named Hyrox prep programs. Signal kills if Google Trends velocity plateaus or reverses over the next 8 weeks without a local race announcement, or if the Hyrox North America race calendar shows no planned Vancouver market entry within 12 months.",
+      "date_published": "2026-06-30T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge@sha256-01f2045447be6c1ad57fafd1b42478ec23bd06c310f01ef36fab1c16625d9e4e.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-29-cold-plunge/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge@sha256-01f2045447be6c1ad57fafd1b42478ec23bd06c310f01ef36fab1c16625d9e4e.json",

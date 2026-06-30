@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260630hyrox",
+  "slug": "foreshore-2026-06-30-hyrox",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox@sha256-4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-30T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-06-30T00:00:00Z",
+    "modified_at": "2026-06-30T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-06-30-hyrox@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-06-30",
+            "evidence_quote": "100 venues mapped across Metro Vancouver; composite 0.7 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Hyrox (calibration - mainstream) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-06-30",
+            "evidence_quote": "59 search-velocity records; composite 0.7 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Hyrox (calibration - mainstream) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          }
+        ],
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "Metro Vancouver",
+          "British Columbia",
+          "Canada"
+        ],
+        "human_action": "Call 8–12 of the Metro Vancouver venue records to confirm whether Hyrox prep is a named program offering or merely equipment overlap. Verify whether any operator in the market has built a Hyrox-specific membership tier distinct from general functional fitness access.",
+        "machine_action": "Monitor r/Hyrox, r/crossfit, and r/fitness for training-economy discussion (equipment access complaints, coaching demand, programming requests). Track Concept2 SkiErg and sled product availability at Canadian fitness retailers. Watch Hyrox North America race calendar for Vancouver-area event additions, which would validate the venue-density bet.",
+        "methodology_footer": "Signal sourced from internal Swell tracker (swell-checker v2). Places density via Google Places API, Metro Vancouver bounding box, functional fitness venue type categories. Search velocity via Google Trends, 59 tracked data points, term: 'Hyrox'. No RSS, Reddit, or social editorial sources contributed to this candidate.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-30",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-06-30",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "hyrox_mainstream",
+          "functional_fitness_racing",
+          "hyrox_training_economy",
+          "fitness_race_infrastructure"
+        ],
+        "uncertainty": "The 100 venue count is the ceiling of the infrastructure signal, not a confirmed floor. The absence of any Reddit signal is meaningful — either the community exists in channels not yet tracked, or organic Hyrox conversation in this market is genuinely pre-critical-mass. Both interpretations are live. Do not treat the composite score as confirmed training-market density."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-06-30",
+            "evidence_quote": "100 venues mapped across Metro Vancouver; composite 0.7 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Hyrox (calibration - mainstream) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-06-30",
+            "evidence_quote": "59 search-velocity records; composite 0.7 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Hyrox (calibration - mainstream) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          }
+        ],
+        "falsification": "Signal weakens materially if manual audit of the 100 venues finds fewer than 20 running named Hyrox prep programs. Signal kills if Google Trends velocity plateaus or reverses over the next 8 weeks without a local race announcement, or if the Hyrox North America race calendar shows no planned Vancouver market entry within 12 months.",
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "Metro Vancouver",
+          "British Columbia",
+          "Canada"
+        ],
+        "headline": "The Race That Rebuilt the Gym Floor",
+        "human_action": "Call 8–12 of the Metro Vancouver venue records to confirm whether Hyrox prep is a named program offering or merely equipment overlap. Verify whether any operator in the market has built a Hyrox-specific membership tier distinct from general functional fitness access.",
+        "issue_id": "foreshore-2026-06-30-hyrox",
+        "machine_action": "Monitor r/Hyrox, r/crossfit, and r/fitness for training-economy discussion (equipment access complaints, coaching demand, programming requests). Track Concept2 SkiErg and sled product availability at Canadian fitness retailers. Watch Hyrox North America race calendar for Vancouver-area event additions, which would validate the venue-density bet.",
+        "methodology_footer": "Signal sourced from internal Swell tracker (swell-checker v2). Places density via Google Places API, Metro Vancouver bounding box, functional fitness venue type categories. Search velocity via Google Trends, 59 tracked data points, term: 'Hyrox'. No RSS, Reddit, or social editorial sources contributed to this candidate.",
+        "product": "foreshore",
+        "publication_date": "2026-06-30",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-30",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Google Places API — Metro Vancouver venue density', 'observation': '100 venue records matching functional-fitness and adjacent category criteria across the metro area, observed 2026-06-30', 'strength': 'moderate', 'weakness': 'Category purity unknown without manual audit; count conflates dedicated Hyrox prep facilities with general CrossFit affiliates and functional fitness boxes that share equipment overlap but may not run structured Hyrox programming'}",
+          "{'source': 'Google Trends — search velocity', 'observation': \"59 tracked data points; velocity and vocabulary both scored at maximum 1.0; composite 0.70; 'Hyrox' consolidating as the dominant term over generic alternatives such as 'functional fitness race'\", 'strength': 'moderate', 'weakness': 'Does not distinguish training-access intent from race-registration curiosity or general awareness searching; no Reddit corroboration captured'}"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-06-30",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Hyrox's visible story is a structured fitness-racing format crossing into North American mainstream; the real business is the training economy it generates — equipment retrofits, programming licenses, race-prep coaching, and specialist nutrition serving a customer cohort that organises spending around a race calendar.",
+        "trend_ids": [
+          "hyrox_mainstream",
+          "functional_fitness_racing",
+          "hyrox_training_economy",
+          "fitness_race_infrastructure"
+        ],
+        "uncertainty": "The 100 venue count is the ceiling of the infrastructure signal, not a confirmed floor. The absence of any Reddit signal is meaningful — either the community exists in channels not yet tracked, or organic Hyrox conversation in this market is genuinely pre-critical-mass. Both interpretations are live. Do not treat the composite score as confirmed training-market density."
+      }
+    }
+  },
+  "title": "The Race That Rebuilt the Gym Floor",
+  "summary": "Hyrox's visible story is a structured fitness-racing format crossing into North American mainstream; the real business is the training economy it generates — equipment retrofits, programming licenses, race-prep coaching, and specialist nutrition serving a customer cohort that organises spending around a race calendar.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Hyrox's visible story is a structured fitness-racing format crossing into North American mainstream; the real business is the training economy it generates — equipment retrofits, programming licenses, race-prep coaching, and specialist nutrition serving a customer cohort that organises spending around a race calendar.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-30",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-30-hyrox@v1",
+      "falsification": "Signal weakens materially if manual audit of the 100 venues finds fewer than 20 running named Hyrox prep programs. Signal kills if Google Trends velocity plateaus or reverses over the next 8 weeks without a local race announcement, or if the Hyrox North America race calendar shows no planned Vancouver market entry within 12 months."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Race That Rebuilt the Gym Floor",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Hyrox's visible story is a structured fitness-racing format crossing into North American mainstream; the real business is the training economy it generates — equipment retrofits, programming licenses, race-prep coaching, and specialist nutrition serving a customer cohort that organises spending around a race calendar.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Google Places API — Metro Vancouver venue density', 'observation': '100 venue records matching functional-fitness and adjacent category criteria across the metro area, observed 2026-06-30', 'strength': 'moderate', 'weakness': 'Category purity unknown without manual audit; count conflates dedicated Hyrox prep facilities with general CrossFit affiliates and functional fitness boxes that share equipment overlap but may not run structured Hyrox programming'} (strength: moderate)\n\nsig_2: {'source': 'Google Trends — search velocity', 'observation': \"59 tracked data points; velocity and vocabulary both scored at maximum 1.0; composite 0.70; 'Hyrox' consolidating as the dominant term over generic alternatives such as 'functional fitness race'\", 'strength': 'moderate', 'weakness': 'Does not distinguish training-access intent from race-registration curiosity or general awareness searching; no Reddit corroboration captured'} (strength: moderate)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Signal weakens materially if manual audit of the 100 venues finds fewer than 20 running named Hyrox prep programs. Signal kills if Google Trends velocity plateaus or reverses over the next 8 weeks without a local race announcement, or if the Hyrox North America race calendar shows no planned Vancouver market entry within 12 months.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Race That Rebuilt the Gym Floor.\" Convergence Daily. 2026-06-30. Resolve signal://foreshore/claim/foreshore-2026-06-30-hyrox@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-06-30-hyrox@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-30",
+      "published_at": "2026-06-30T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

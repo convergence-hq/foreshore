@@ -33,6 +33,16 @@
       ],
       "item": [
         {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox.json",
+          "type": "application/json",
+          "title": "The Race That Rebuilt the Gym Floor latest object"
+        },
+        {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox@sha256-4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5.json",
+          "type": "application/json",
+          "title": "The Race That Rebuilt the Gym Floor immutable object"
+        },
+        {
           "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge.json",
           "type": "application/json",
           "title": "The Ice Bath That Learned to Scale latest object"

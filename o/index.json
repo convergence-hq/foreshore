@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260630hyrox",
+      "kind": "post",
+      "slug": "foreshore-2026-06-30-hyrox",
+      "title": "The Race That Rebuilt the Gym Floor",
+      "summary": "Hyrox's visible story is a structured fitness-racing format crossing into North American mainstream; the real business is the training economy it generates — equipment retrofits, programming licenses, race-prep coaching, and specialist nutrition serving a customer cohort that organises spending around a race calendar.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox@sha256-4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-30T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-30T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-30-hyrox/"
+    },
+    {
       "id": "obj_foreshore20260629coldplunge",
       "kind": "post",
       "slug": "foreshore-2026-06-29-cold-plunge",

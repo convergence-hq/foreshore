@@ -27,7 +27,8 @@
     "signal://foreshore/claim/foreshore-2026-06-23-bjj-lifestyle-community@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-23-bjj-lifestyle-community@sha256-c8cb9f990a490ea9d0c27164224c9320af123cbd515868c5f430dd6f753e8735.json",
     "signal://foreshore/claim/foreshore-2026-06-25-breath-work@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-25-breath-work@sha256-65476c1f14576fdab7ab977b088df3fa8de74b52050736367262a74e3206607e.json",
     "signal://foreshore/claim/foreshore-2026-06-26-social-sauna@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-26-social-sauna@sha256-385b7c68e18fff19ffd26f63d6438ab42319f577b0f11c1b768d8826cd96a87c.json",
-    "signal://foreshore/claim/foreshore-2026-06-29-cold-plunge@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge@sha256-01f2045447be6c1ad57fafd1b42478ec23bd06c310f01ef36fab1c16625d9e4e.json"
+    "signal://foreshore/claim/foreshore-2026-06-29-cold-plunge@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-29-cold-plunge@sha256-01f2045447be6c1ad57fafd1b42478ec23bd06c310f01ef36fab1c16625d9e4e.json",
+    "signal://foreshore/claim/foreshore-2026-06-30-hyrox@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox@sha256-4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5.json"
   },
   "entries": [
     {
@@ -204,6 +205,14 @@
       "object_id": "obj_foreshore20260629coldplunge",
       "object_kind": "post",
       "object_slug": "foreshore-2026-06-29-cold-plunge",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://foreshore/claim/foreshore-2026-06-30-hyrox@v1",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox@sha256-4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5.json",
+      "object_id": "obj_foreshore20260630hyrox",
+      "object_kind": "post",
+      "object_slug": "foreshore-2026-06-30-hyrox",
       "claim_key": "thesis"
     }
   ]

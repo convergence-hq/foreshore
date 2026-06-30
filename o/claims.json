@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Hyrox's visible story is a structured fitness-racing format crossing into North American mainstream; the real business is the training economy it generates — equipment retrofits, programming licenses, race-prep coaching, and specialist nutrition serving a customer cohort that organises spending around a race calendar.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-30",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-06-30-hyrox@v1",
+      "falsification": "Signal weakens materially if manual audit of the 100 venues finds fewer than 20 running named Hyrox prep programs. Signal kills if Google Trends velocity plateaus or reverses over the next 8 weeks without a local race announcement, or if the Hyrox North America race calendar shows no planned Vancouver market entry within 12 months.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260630hyrox",
+      "object_slug": "foreshore-2026-06-30-hyrox",
+      "object_title": "The Race That Rebuilt the Gym Floor",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox@sha256-4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-06-30-hyrox/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Cold plunge has crossed from high-income biohacker home installation to commercial venue standard — 120 venues across Metro Vancouver and peak search velocity mark the transition point, with the service-layer opportunity sitting in the stripped-down protocol studio that sells outcomes rather than ambiance.",
       "claim_kind": "predictive",
       "confidence": 0.72,
