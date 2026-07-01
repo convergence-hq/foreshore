@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260701longevityclinics",
+  "slug": "foreshore-2026-07-01-longevity-clinics",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-01T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-01T00:00:00Z",
+    "modified_at": "2026-07-01T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-01-longevity-clinics@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-01",
+            "evidence_quote": "113 venues mapped across Metro Vancouver; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Longevity clinics — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-01",
+            "evidence_quote": "41 search-velocity records; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Longevity clinics — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          }
+        ],
+        "format": "vocabulary_shift",
+        "human_action": "Hold at observing. Commission a manual venue audit that separates true biomarker/diagnostic-first longevity practices from med-spas and IV lounges that simply added the label, and watch for any ground-level chatter (Reddit, forums, patient reviews) that either corroborates or deflates the rebrand story.",
+        "machine_action": "Re-poll Places and Trends for the longevity-clinic category in 14-21 days; escalate toward promote only if support_count rises to 3+ sources or Reddit/forum corroboration appears; otherwise leave at observing.",
+        "methodology_footer": "Sourced via internal Places-API venue density and Google Trends search-velocity tracking for Metro Vancouver; composite scores reflect signal strength across source types, not confirmed market size.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-01",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "source_type": "google_places_api",
+            "url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          },
+          {
+            "source_type": "google_trends",
+            "url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "longevity_clinics",
+          "biomarker_testing_economy",
+          "concierge_longevity_medicine"
+        ],
+        "uncertainty": "Two source types only, no Reddit corroboration, and no manual audit separating true diagnostic-first longevity practices from relabeled med-spas; could be a Vancouver-specific naming fad rather than a national repricing."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-01",
+            "evidence_quote": "113 venues mapped across Metro Vancouver; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Longevity clinics — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-01",
+            "evidence_quote": "41 search-velocity records; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Longevity clinics — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          }
+        ],
+        "falsification": "If venue counts plateau, if search vocabulary reverts toward generic 'med spa' or 'anti-aging' framing, or if a manual audit shows the 113-venue count is mostly relabeled spas with no added diagnostic service, downgrade or archive.",
+        "format": "vocabulary_shift",
+        "headline": "The Rebrand That Comes With a Blood Panel",
+        "human_action": "Hold at observing. Commission a manual venue audit that separates true biomarker/diagnostic-first longevity practices from med-spas and IV lounges that simply added the label, and watch for any ground-level chatter (Reddit, forums, patient reviews) that either corroborates or deflates the rebrand story.",
+        "issue_id": "foreshore-2026-07-01-longevity-clinics",
+        "machine_action": "Re-poll Places and Trends for the longevity-clinic category in 14-21 days; escalate toward promote only if support_count rises to 3+ sources or Reddit/forum corroboration appears; otherwise leave at observing.",
+        "methodology_footer": "Sourced via internal Places-API venue density and Google Trends search-velocity tracking for Metro Vancouver; composite scores reflect signal strength across source types, not confirmed market size.",
+        "product": "foreshore",
+        "publication_date": "2026-07-01",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-01",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'type': 'places_geo_density', 'description': '113 venues across Metro Vancouver now categorized under longevity-clinic and adjacent labels (biomarker panels, concierge health screening, hormone/metabolic optimization, membership-based protocols)', 'strength': 'moderate', 'weakness': 'category purity unknown without manual audit; count conflates med-spas and IV-therapy lounges with dedicated biomarker/longevity practices'}",
+          "{'type': 'google_trends', 'description': \"41 tracked data points showing 'longevity clinic' consolidating as the dominant search term over 'anti-aging clinic', 'wellness clinic', and 'hormone clinic'\", 'strength': 'moderate', 'weakness': 'does not distinguish patient-intent searches from media curiosity or general awareness; no Reddit corroboration captured'}"
+        ],
+        "source_objects": [
+          {
+            "source_type": "google_places_api",
+            "url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          },
+          {
+            "source_type": "google_trends",
+            "url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          }
+        ],
+        "state": "observing",
+        "thesis": "\"Longevity clinic\" is consolidating as a label ahead of any regulatory definition, and the shift is showing up independently in venue signage and search behavior across Metro Vancouver — a vocabulary change that lets existing med-spa and wellness operators reprice as diagnostic, membership-based medicine without changing what they actually do inside.",
+        "trend_ids": [
+          "longevity_clinics",
+          "biomarker_testing_economy",
+          "concierge_longevity_medicine"
+        ],
+        "uncertainty": "Two source types only, no Reddit corroboration, and no manual audit separating true diagnostic-first longevity practices from relabeled med-spas; could be a Vancouver-specific naming fad rather than a national repricing."
+      }
+    }
+  },
+  "title": "The Rebrand That Comes With a Blood Panel",
+  "summary": "\"Longevity clinic\" is consolidating as a label ahead of any regulatory definition, and the shift is showing up independently in venue signage and search behavior across Metro Vancouver — a vocabulary change that lets existing med-spa and wellness operators reprice as diagnostic, membership-based medicine without changing what they actually do inside.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "\"Longevity clinic\" is consolidating as a label ahead of any regulatory definition, and the shift is showing up independently in venue signage and search behavior across Metro Vancouver — a vocabulary change that lets existing med-spa and wellness operators reprice as diagnostic, membership-based medicine without changing what they actually do inside.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-07-01",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-01-longevity-clinics@v1",
+      "falsification": "If venue counts plateau, if search vocabulary reverts toward generic 'med spa' or 'anti-aging' framing, or if a manual audit shows the 113-venue count is mostly relabeled spas with no added diagnostic service, downgrade or archive."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Rebrand That Comes With a Blood Panel",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "\"Longevity clinic\" is consolidating as a label ahead of any regulatory definition, and the shift is showing up independently in venue signage and search behavior across Metro Vancouver — a vocabulary change that lets existing med-spa and wellness operators reprice as diagnostic, membership-based medicine without changing what they actually do inside.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 113 venues across Metro Vancouver now categorized under longevity-clinic and adjacent labels (biomarker panels, concierge health screening, hormone/metabolic optimization, membership-based protocols) (strength: moderate)\n\nsig_2: 41 tracked data points showing 'longevity clinic' consolidating as the dominant search term over 'anti-aging clinic', 'wellness clinic', and 'hormone clinic' (strength: moderate)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If venue counts plateau, if search vocabulary reverts toward generic 'med spa' or 'anti-aging' framing, or if a manual audit shows the 113-venue count is mostly relabeled spas with no added diagnostic service, downgrade or archive.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Rebrand That Comes With a Blood Panel.\" Convergence Daily. 2026-07-01. Resolve signal://foreshore/claim/foreshore-2026-07-01-longevity-clinics@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-01-longevity-clinics@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-01",
+      "published_at": "2026-07-01T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

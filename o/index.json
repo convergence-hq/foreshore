@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260701longevityclinics",
+      "kind": "post",
+      "slug": "foreshore-2026-07-01-longevity-clinics",
+      "title": "The Rebrand That Comes With a Blood Panel",
+      "summary": "\"Longevity clinic\" is consolidating as a label ahead of any regulatory definition, and the shift is showing up independently in venue signage and search behavior across Metro Vancouver — a vocabulary change that lets existing med-spa and wellness operators reprice as diagnostic, membership-based medicine without changing what they actually do inside.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-01T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-01T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-01-longevity-clinics/"
+    },
+    {
       "id": "obj_foreshore20260630hyrox",
       "kind": "post",
       "slug": "foreshore-2026-06-30-hyrox",

@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "\"Longevity clinic\" is consolidating as a label ahead of any regulatory definition, and the shift is showing up independently in venue signage and search behavior across Metro Vancouver — a vocabulary change that lets existing med-spa and wellness operators reprice as diagnostic, membership-based medicine without changing what they actually do inside.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-07-01",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-01-longevity-clinics@v1",
+      "falsification": "If venue counts plateau, if search vocabulary reverts toward generic 'med spa' or 'anti-aging' framing, or if a manual audit shows the 113-venue count is mostly relabeled spas with no added diagnostic service, downgrade or archive.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260701longevityclinics",
+      "object_slug": "foreshore-2026-07-01-longevity-clinics",
+      "object_title": "The Rebrand That Comes With a Blood Panel",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-01-longevity-clinics/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Hyrox's visible story is a structured fitness-racing format crossing into North American mainstream; the real business is the training economy it generates — equipment retrofits, programming licenses, race-prep coaching, and specialist nutrition serving a customer cohort that organises spending around a race calendar.",
       "claim_kind": "predictive",
       "confidence": 0.72,

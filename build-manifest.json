@@ -15,6 +15,15 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260701longevityclinics",
+      "kind": "post",
+      "slug": "foreshore-2026-07-01-longevity-clinics",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json",
+      "digest": "a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003",
+      "signature_path": "/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json.sig"
+    },
+    {
       "id": "obj_foreshore20260630hyrox",
       "kind": "post",
       "slug": "foreshore-2026-06-30-hyrox",
@@ -226,14 +235,14 @@
     {
       "path": "/.well-known/api-catalog",
       "media_type": "application/linkset+json",
-      "sha256": "5b0b3b97538afed0ae6aa270a018dfbdd5b93faf6d3a5af51212f1f66b64d427",
-      "byte_length": 14696
+      "sha256": "e0e0590e743572d45fcf76f69ed720f5ba63f81be83bab72250cb4eff7dce585",
+      "byte_length": 15271
     },
     {
       "path": "/feed.json",
       "media_type": "application/json",
-      "sha256": "151e73d22d42be9cc743dfff96c06a4be9651a37510020c2f9efd0134518469c",
-      "byte_length": 48780
+      "sha256": "481856623a8ea6784b690e0791fc153792b9f1f78e912c8ad69e11cc58b8d37d",
+      "byte_length": 51070
     },
     {
       "path": "/history/foreshore-2026-05-20-shadow-1/index.html",
@@ -374,34 +383,40 @@
       "byte_length": 5795
     },
     {
+      "path": "/history/foreshore-2026-07-01-longevity-clinics/index.html",
+      "media_type": "text/html",
+      "sha256": "145c00c97dbd34fd88be29813c9f034771c69a41b6c7838a5765e7031c9c9dc6",
+      "byte_length": 5837
+    },
+    {
       "path": "/index.html",
       "media_type": "text/html",
-      "sha256": "d895c225d99ea90f3b725f3c88c7f154a28ee3cb50ee6d3b7983f1f8bd618112",
-      "byte_length": 15502
+      "sha256": "64856b4fb61c8375aeb8792d410d3f1faa5217f967cca81c60094d9e24c897b1",
+      "byte_length": 16067
     },
     {
       "path": "/llms.txt",
       "media_type": "text/plain",
-      "sha256": "9debcd62647de88473ee0bea54f1773efab47572b8efbea0b2924adc5f02a523",
-      "byte_length": 5367
+      "sha256": "6888a0c8a091dc81ef5cceaa2fa8ac876fec1a9e062b88a52c9571f2864c9a51",
+      "byte_length": 5577
     },
     {
       "path": "/o/aliases.json",
       "media_type": "application/json",
-      "sha256": "33e1aeb1fdc030ba94ef235c01e5df74cb0a68cb30398acdd501c24d6d18593f",
-      "byte_length": 16498
+      "sha256": "749907d4a7d3e9c89c89dd2417e744e373423711a5b698b82189c3d007896c48",
+      "byte_length": 17207
     },
     {
       "path": "/o/claims.json",
       "media_type": "application/json",
-      "sha256": "7f5b9498d8e4489d2fae70575033e07d52013ae825dc661a216e0232a89d8e34",
-      "byte_length": 36458
+      "sha256": "be022227d3d64e5cb5a5f47c29b562879af6cfb8e2d0aca959ff17f863a2bee6",
+      "byte_length": 38104
     },
     {
       "path": "/o/index.json",
       "media_type": "application/json",
-      "sha256": "b08d0b6f5f752d415c4e07b6a9feb3899b5e5e8fb1c0f2e0d047b15f56b3c240",
-      "byte_length": 28501
+      "sha256": "9759d108e98df910272d944febd5f135ed5f5919647b1acfe0543fabf9b447f2",
+      "byte_length": 29862
     },
     {
       "path": "/o/post/foreshore-2026-05-20-shadow-1.json",
@@ -818,6 +833,24 @@
       "byte_length": 931
     },
     {
+      "path": "/o/post/foreshore-2026-07-01-longevity-clinics.json",
+      "media_type": "application/json",
+      "sha256": "29de5d46792a54016bd3151aca1421463afc45280e5f4b50830344e4ef89e595",
+      "byte_length": 13601
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json",
+      "media_type": "application/json",
+      "sha256": "29de5d46792a54016bd3151aca1421463afc45280e5f4b50830344e4ef89e595",
+      "byte_length": 13601
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "d4bddc9bca8c6312df3ae1c511e7f5ad563b79529a3469576c4b0effd71fb72f",
+      "byte_length": 967
+    },
+    {
       "path": "/o/trust.json",
       "media_type": "application/json",
       "sha256": "7a318239389c724f675e4d94117cd7bf61c56094f78f24cc17560bcea5699aae",
@@ -962,16 +995,22 @@
       "byte_length": 32198
     },
     {
+      "path": "/p/foreshore-2026-07-01-longevity-clinics/index.html",
+      "media_type": "text/html",
+      "sha256": "2365ae4306fff8e74dc7d3280cdf5263cc36a7aee8f501a277f00f62b74b8202",
+      "byte_length": 30055
+    },
+    {
       "path": "/rss.xml",
       "media_type": "application/rss+xml",
-      "sha256": "36a18157e3c7d2136a05023b4087e3668d9939661e269e1d82e2c1df367f4a64",
-      "byte_length": 16034
+      "sha256": "f99732a8bbafaf366c373b20a4dff1e0a599797f95cd76a3cc65f7797d841a7c",
+      "byte_length": 16852
     },
     {
       "path": "/sitemap.xml",
       "media_type": "application/xml",
-      "sha256": "d0dcfa9ddd1d3281f37023ffa6ec8c84e3775252d90c184a24f90349cca228e9",
-      "byte_length": 10859
+      "sha256": "493fde39e0fcf9393fa756e00c2331fae3e471c39270c38b529a8df0d3c5e78c",
+      "byte_length": 11297
     }
   ]
 }
