@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-02-mahjong-leagues/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
+      "title": "The Game Night That Started Keeping Score",
+      "summary": "Metro Vancouver has mapped 77 mahjong venues with peak search velocity for the format's league vocabulary — a geographic cluster suggesting a structured, standings-based version of the game is forming as neighbourhood infrastructure before any national outlet has named it.",
+      "content_text": "The Game Night That Started Keeping Score\n\nThesis\nMetro Vancouver has mapped 77 mahjong venues with peak search velocity for the format's league vocabulary — a geographic cluster suggesting a structured, standings-based version of the game is forming as neighbourhood infrastructure before any national outlet has named it.\n\nSignals\nsig_1: {'source': 'Google Places API — Metro Vancouver', 'type': 'places_density', 'date': '2026-07-02', 'observation': '77 venue records matching mahjong parlor, game-room, or club categories across the metro area', 'strength': 'moderate', 'notes': 'Places data conflates casual game cafes, community-center rental rooms, and long-standing private mahjong parlors with venues actually running structured leagues or tournaments. Category purity is unknown without manual audit. Venue density is real; league-model prevalence is inferred.'} (strength: moderate)\n\nsig_2: {'source': 'Google Trends', 'type': 'search_velocity', 'date': '2026-07-02', 'observation': '34 tracked data points; velocity and vocabulary both scored at maximum (1.0 each); composite 0.70', 'strength': 'moderate', 'notes': 'Rising search curve corroborates demand pull but does not distinguish competitive-league search intent from casual-play, lesson-seeking, or app-download searches. No Reddit corroboration captured.'} (strength: moderate)\n\nWhat would falsify it\nIf manual venue disaggregation finds fewer than 10 venues running an actual scored league or season (as opposed to casual drop-in play), the density signal collapses to static ethnic-parlor infrastructure rather than a new leisure category. If Trends search velocity reverses over the next 30 days, or no second metro shows a comparable venue cluster by 2026-09-30, downgrade to archive.",
+      "date_published": "2026-07-02T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-01-longevity-clinics/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json",

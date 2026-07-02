@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Metro Vancouver has mapped 77 mahjong venues with peak search velocity for the format's league vocabulary — a geographic cluster suggesting a structured, standings-based version of the game is forming as neighbourhood infrastructure before any national outlet has named it.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-02",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-02-mahjong-leagues@v1",
+      "falsification": "If manual venue disaggregation finds fewer than 10 venues running an actual scored league or season (as opposed to casual drop-in play), the density signal collapses to static ethnic-parlor infrastructure rather than a new leisure category. If Trends search velocity reverses over the next 30 days, or no second metro shows a comparable venue cluster by 2026-09-30, downgrade to archive.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260702mahjongleagues",
+      "object_slug": "foreshore-2026-07-02-mahjong-leagues",
+      "object_title": "The Game Night That Started Keeping Score",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-02-mahjong-leagues/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "\"Longevity clinic\" is consolidating as a label ahead of any regulatory definition, and the shift is showing up independently in venue signage and search behavior across Metro Vancouver — a vocabulary change that lets existing med-spa and wellness operators reprice as diagnostic, membership-based medicine without changing what they actually do inside.",
       "claim_kind": "predictive",
       "confidence": 0.55,

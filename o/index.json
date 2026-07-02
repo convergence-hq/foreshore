@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260702mahjongleagues",
+      "kind": "post",
+      "slug": "foreshore-2026-07-02-mahjong-leagues",
+      "title": "The Game Night That Started Keeping Score",
+      "summary": "Metro Vancouver has mapped 77 mahjong venues with peak search velocity for the format's league vocabulary — a geographic cluster suggesting a structured, standings-based version of the game is forming as neighbourhood infrastructure before any national outlet has named it.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-02T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-02T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-02-mahjong-leagues/"
+    },
+    {
       "id": "obj_foreshore20260701longevityclinics",
       "kind": "post",
       "slug": "foreshore-2026-07-01-longevity-clinics",

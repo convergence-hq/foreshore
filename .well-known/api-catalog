@@ -33,6 +33,16 @@
       ],
       "item": [
         {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues.json",
+          "type": "application/json",
+          "title": "The Game Night That Started Keeping Score latest object"
+        },
+        {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
+          "type": "application/json",
+          "title": "The Game Night That Started Keeping Score immutable object"
+        },
+        {
           "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics.json",
           "type": "application/json",
           "title": "The Rebrand That Comes With a Blood Panel latest object"

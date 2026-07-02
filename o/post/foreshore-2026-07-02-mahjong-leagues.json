@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260702mahjongleagues",
+  "slug": "foreshore-2026-07-02-mahjong-leagues",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-02T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-02T00:00:00Z",
+    "modified_at": "2026-07-02T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-02-mahjong-leagues@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-02",
+            "evidence_quote": "77 venues mapped across Metro Vancouver; composite 0.70 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Mahjong leagues (post-pandemic) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-02",
+            "evidence_quote": "34 search-velocity records; composite 0.70 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Mahjong leagues (post-pandemic) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          }
+        ],
+        "format": "local_signal",
+        "geography": [
+          "Metro Vancouver",
+          "British Columbia",
+          "Canada"
+        ],
+        "human_action": "Manually disaggregate the 77 Vancouver venues: identify what share are long-standing private/diaspora mahjong parlors vs. bars or community centers running organized weekly leagues with standings vs. general game cafes that happen to stock tile sets. Call 3–4 venues directly and ask whether they run a season, track wins, or charge a league fee. If organized-league venues exceed 10 and are recent additions (opened or pivoted since 2024), promote.",
+        "machine_action": "Monitor Google Trends for 'mahjong league', 'mahjong club', 'competitive mahjong', and 'mahjong tournament' nationally and against the Vancouver baseline. Watch for editorial mentions in lifestyle, gaming, and hospitality press. Flag any Reddit thread in r/mahjong, r/vancouver, or r/boardgames exceeding 100 upvotes, and expand the Places query to Toronto, Seattle, and San Francisco to test whether the cluster replicates outside Vancouver.",
+        "methodology_footer": "Places API scan: Metro Vancouver bounding box, mahjong parlor and game-club categories, 2026-07-02. Google Trends: 34 data points, velocity 1.0, vocabulary 1.0. No Reddit records. Composite 0.70 based on 2-source spread, stage very_early.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-02",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-02",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "mahjong_leagues"
+        ],
+        "uncertainty": "The 77-venue figure is the signal's load-bearing number and also its weakest claim. Google Places categories for mahjong venues do not distinguish a decades-old private parlor from a bar that added a Tuesday-night league. The honest read: elevated venue density and search velocity are confirmed; league-format proliferation specifically is inferred, not observed. Do not treat as confirmed until a manual venue audit is done."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-02",
+            "evidence_quote": "77 venues mapped across Metro Vancouver; composite 0.70 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Mahjong leagues (post-pandemic) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-02",
+            "evidence_quote": "34 search-velocity records; composite 0.70 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Mahjong leagues (post-pandemic) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          }
+        ],
+        "falsification": "If manual venue disaggregation finds fewer than 10 venues running an actual scored league or season (as opposed to casual drop-in play), the density signal collapses to static ethnic-parlor infrastructure rather than a new leisure category. If Trends search velocity reverses over the next 30 days, or no second metro shows a comparable venue cluster by 2026-09-30, downgrade to archive.",
+        "format": "local_signal",
+        "geography": [
+          "Metro Vancouver",
+          "British Columbia",
+          "Canada"
+        ],
+        "headline": "The Game Night That Started Keeping Score",
+        "human_action": "Manually disaggregate the 77 Vancouver venues: identify what share are long-standing private/diaspora mahjong parlors vs. bars or community centers running organized weekly leagues with standings vs. general game cafes that happen to stock tile sets. Call 3–4 venues directly and ask whether they run a season, track wins, or charge a league fee. If organized-league venues exceed 10 and are recent additions (opened or pivoted since 2024), promote.",
+        "issue_id": "foreshore-2026-07-02-mahjong-leagues",
+        "machine_action": "Monitor Google Trends for 'mahjong league', 'mahjong club', 'competitive mahjong', and 'mahjong tournament' nationally and against the Vancouver baseline. Watch for editorial mentions in lifestyle, gaming, and hospitality press. Flag any Reddit thread in r/mahjong, r/vancouver, or r/boardgames exceeding 100 upvotes, and expand the Places query to Toronto, Seattle, and San Francisco to test whether the cluster replicates outside Vancouver.",
+        "methodology_footer": "Places API scan: Metro Vancouver bounding box, mahjong parlor and game-club categories, 2026-07-02. Google Trends: 34 data points, velocity 1.0, vocabulary 1.0. No Reddit records. Composite 0.70 based on 2-source spread, stage very_early.",
+        "product": "foreshore",
+        "publication_date": "2026-07-02",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-02",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'source': 'Google Places API — Metro Vancouver', 'type': 'places_density', 'date': '2026-07-02', 'observation': '77 venue records matching mahjong parlor, game-room, or club categories across the metro area', 'strength': 'moderate', 'notes': 'Places data conflates casual game cafes, community-center rental rooms, and long-standing private mahjong parlors with venues actually running structured leagues or tournaments. Category purity is unknown without manual audit. Venue density is real; league-model prevalence is inferred.'}",
+          "{'source': 'Google Trends', 'type': 'search_velocity', 'date': '2026-07-02', 'observation': '34 tracked data points; velocity and vocabulary both scored at maximum (1.0 each); composite 0.70', 'strength': 'moderate', 'notes': 'Rising search curve corroborates demand pull but does not distinguish competitive-league search intent from casual-play, lesson-seeking, or app-download searches. No Reddit corroboration captured.'}"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-02",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Metro Vancouver has mapped 77 mahjong venues with peak search velocity for the format's league vocabulary — a geographic cluster suggesting a structured, standings-based version of the game is forming as neighbourhood infrastructure before any national outlet has named it.",
+        "trend_ids": [
+          "mahjong_leagues"
+        ],
+        "uncertainty": "The 77-venue figure is the signal's load-bearing number and also its weakest claim. Google Places categories for mahjong venues do not distinguish a decades-old private parlor from a bar that added a Tuesday-night league. The honest read: elevated venue density and search velocity are confirmed; league-format proliferation specifically is inferred, not observed. Do not treat as confirmed until a manual venue audit is done."
+      }
+    }
+  },
+  "title": "The Game Night That Started Keeping Score",
+  "summary": "Metro Vancouver has mapped 77 mahjong venues with peak search velocity for the format's league vocabulary — a geographic cluster suggesting a structured, standings-based version of the game is forming as neighbourhood infrastructure before any national outlet has named it.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Metro Vancouver has mapped 77 mahjong venues with peak search velocity for the format's league vocabulary — a geographic cluster suggesting a structured, standings-based version of the game is forming as neighbourhood infrastructure before any national outlet has named it.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-02",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-02-mahjong-leagues@v1",
+      "falsification": "If manual venue disaggregation finds fewer than 10 venues running an actual scored league or season (as opposed to casual drop-in play), the density signal collapses to static ethnic-parlor infrastructure rather than a new leisure category. If Trends search velocity reverses over the next 30 days, or no second metro shows a comparable venue cluster by 2026-09-30, downgrade to archive."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Game Night That Started Keeping Score",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Metro Vancouver has mapped 77 mahjong venues with peak search velocity for the format's league vocabulary — a geographic cluster suggesting a structured, standings-based version of the game is forming as neighbourhood infrastructure before any national outlet has named it.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'source': 'Google Places API — Metro Vancouver', 'type': 'places_density', 'date': '2026-07-02', 'observation': '77 venue records matching mahjong parlor, game-room, or club categories across the metro area', 'strength': 'moderate', 'notes': 'Places data conflates casual game cafes, community-center rental rooms, and long-standing private mahjong parlors with venues actually running structured leagues or tournaments. Category purity is unknown without manual audit. Venue density is real; league-model prevalence is inferred.'} (strength: moderate)\n\nsig_2: {'source': 'Google Trends', 'type': 'search_velocity', 'date': '2026-07-02', 'observation': '34 tracked data points; velocity and vocabulary both scored at maximum (1.0 each); composite 0.70', 'strength': 'moderate', 'notes': 'Rising search curve corroborates demand pull but does not distinguish competitive-league search intent from casual-play, lesson-seeking, or app-download searches. No Reddit corroboration captured.'} (strength: moderate)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If manual venue disaggregation finds fewer than 10 venues running an actual scored league or season (as opposed to casual drop-in play), the density signal collapses to static ethnic-parlor infrastructure rather than a new leisure category. If Trends search velocity reverses over the next 30 days, or no second metro shows a comparable venue cluster by 2026-09-30, downgrade to archive.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Game Night That Started Keeping Score.\" Convergence Daily. 2026-07-02. Resolve signal://foreshore/claim/foreshore-2026-07-02-mahjong-leagues@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-02-mahjong-leagues@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-02",
+      "published_at": "2026-07-02T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}
