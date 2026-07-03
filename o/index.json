@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260703pilatesreformer",
+      "kind": "post",
+      "slug": "foreshore-2026-07-03-pilates-reformer",
+      "title": "The Studio Floor That's Quietly Filling With Reformers",
+      "summary": "Reformer pilates studios are showing up across Metro Vancouver at a rate the search data agrees with, but the corroboration is still thin — two source types, one metro, no social confirmation — so this reads as a trend to watch closely, not one to build around yet.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-03T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-03T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-03-pilates-reformer/"
+    },
+    {
       "id": "obj_foreshore20260702mahjongleagues",
       "kind": "post",
       "slug": "foreshore-2026-07-02-mahjong-leagues",

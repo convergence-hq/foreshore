@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260703pilatesreformer",
+  "slug": "foreshore-2026-07-03-pilates-reformer",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-03T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-03T00:00:00Z",
+    "modified_at": "2026-07-03T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-03-pilates-reformer@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-03",
+            "evidence_quote": "76 venues mapped across Metro Vancouver; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pilates reformer studios — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pilates_reformer"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-03",
+            "evidence_quote": "36 search-velocity records; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pilates reformer studios — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pilates_reformer"
+          }
+        ],
+        "format": "smoke_before_fire",
+        "human_action": "Hold at watch. Do not commission a full feature yet. Task a stringer with a single afternoon of legwork: call five of the highest-density studios, ask how long they've operated, what their reformer count is, and whether they're franchised or independent. That single call answers whether this is genuine buildout or a Places-API artifact from spin studios re-tagging themselves.",
+        "machine_action": "Keep places_records and trends_records on weekly refresh for the pilates_reformer trend_id. Add a Reddit/Instagram corroboration pass next cycle. Flag if venue count crosses 100 or if a second metro area starts showing matching density, since either would move this from local curiosity to structural pattern.",
+        "methodology_footer": "Signal sourced from Google Places venue-density and Google Trends search-velocity data for Metro Vancouver only. No Reddit, retail, or franchise-filing corroboration has been captured for this trend as of publication.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-03",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "source_type": "internal-tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#pilates_reformer"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "pilates_reformer"
+        ],
+        "uncertainty": "The venue count is real but its meaning is not confirmed — Google Places likely counts general Pilates and barre studios that carry a reformer or two alongside dedicated reformer-only operations, and search velocity doesn't distinguish someone booking a class from someone just curious what a reformer is. Treat the number as directional, not diagnostic, until a human call verifies studio type."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-03",
+            "evidence_quote": "76 venues mapped across Metro Vancouver; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pilates reformer studios — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pilates_reformer"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-03",
+            "evidence_quote": "36 search-velocity records; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pilates reformer studios — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pilates_reformer"
+          }
+        ],
+        "falsification": "If venue growth flattens over the next two observation windows and no second source type (social mention, franchise filing, press item) appears by the 2026-07-24 check, archive as noise rather than promote.",
+        "format": "smoke_before_fire",
+        "headline": "The Studio Floor That's Quietly Filling With Reformers",
+        "human_action": "Hold at watch. Do not commission a full feature yet. Task a stringer with a single afternoon of legwork: call five of the highest-density studios, ask how long they've operated, what their reformer count is, and whether they're franchised or independent. That single call answers whether this is genuine buildout or a Places-API artifact from spin studios re-tagging themselves.",
+        "issue_id": "foreshore-2026-07-03-pilates-reformer",
+        "machine_action": "Keep places_records and trends_records on weekly refresh for the pilates_reformer trend_id. Add a Reddit/Instagram corroboration pass next cycle. Flag if venue count crosses 100 or if a second metro area starts showing matching density, since either would move this from local curiosity to structural pattern.",
+        "methodology_footer": "Signal sourced from Google Places venue-density and Google Trends search-velocity data for Metro Vancouver only. No Reddit, retail, or franchise-filing corroboration has been captured for this trend as of publication.",
+        "product": "foreshore",
+        "publication_date": "2026-07-03",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-03",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "76 venues across Metro Vancouver now categorized as pilates reformer studios in Google Places data",
+          "36 tracked Google Trends data points showing rising search velocity for reformer-specific terms",
+          "Composite tracker score of 0.70 at the 'very_early' stage",
+          "Only two independent source types corroborate the signal (venue density and search trends) — zero Reddit or community-forum mentions captured",
+          "No franchise, funding, or press activity yet attached to any named operator"
+        ],
+        "source_objects": [
+          {
+            "source_type": "internal-tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#pilates_reformer"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Reformer pilates studios are showing up across Metro Vancouver at a rate the search data agrees with, but the corroboration is still thin — two source types, one metro, no social confirmation — so this reads as a trend to watch closely, not one to build around yet.",
+        "trend_ids": [
+          "pilates_reformer"
+        ],
+        "uncertainty": "The venue count is real but its meaning is not confirmed — Google Places likely counts general Pilates and barre studios that carry a reformer or two alongside dedicated reformer-only operations, and search velocity doesn't distinguish someone booking a class from someone just curious what a reformer is. Treat the number as directional, not diagnostic, until a human call verifies studio type."
+      }
+    }
+  },
+  "title": "The Studio Floor That's Quietly Filling With Reformers",
+  "summary": "Reformer pilates studios are showing up across Metro Vancouver at a rate the search data agrees with, but the corroboration is still thin — two source types, one metro, no social confirmation — so this reads as a trend to watch closely, not one to build around yet.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Reformer pilates studios are showing up across Metro Vancouver at a rate the search data agrees with, but the corroboration is still thin — two source types, one metro, no social confirmation — so this reads as a trend to watch closely, not one to build around yet.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-07-03",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-03-pilates-reformer@v1",
+      "falsification": "If venue growth flattens over the next two observation windows and no second source type (social mention, franchise filing, press item) appears by the 2026-07-24 check, archive as noise rather than promote."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Studio Floor That's Quietly Filling With Reformers",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Reformer pilates studios are showing up across Metro Vancouver at a rate the search data agrees with, but the corroboration is still thin — two source types, one metro, no social confirmation — so this reads as a trend to watch closely, not one to build around yet.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 76 venues across Metro Vancouver now categorized as pilates reformer studios in Google Places data\n\nsig_2: 36 tracked Google Trends data points showing rising search velocity for reformer-specific terms\n\nsig_3: Composite tracker score of 0.70 at the 'very_early' stage\n\nsig_4: Only two independent source types corroborate the signal (venue density and search trends) — zero Reddit or community-forum mentions captured\n\nsig_5: No franchise, funding, or press activity yet attached to any named operator",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If venue growth flattens over the next two observation windows and no second source type (social mention, franchise filing, press item) appears by the 2026-07-24 check, archive as noise rather than promote.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Studio Floor That's Quietly Filling With Reformers.\" Convergence Daily. 2026-07-03. Resolve signal://foreshore/claim/foreshore-2026-07-03-pilates-reformer@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-03-pilates-reformer@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-03",
+      "published_at": "2026-07-03T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

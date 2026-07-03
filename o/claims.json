@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Reformer pilates studios are showing up across Metro Vancouver at a rate the search data agrees with, but the corroboration is still thin — two source types, one metro, no social confirmation — so this reads as a trend to watch closely, not one to build around yet.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-07-03",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-03-pilates-reformer@v1",
+      "falsification": "If venue growth flattens over the next two observation windows and no second source type (social mention, franchise filing, press item) appears by the 2026-07-24 check, archive as noise rather than promote.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260703pilatesreformer",
+      "object_slug": "foreshore-2026-07-03-pilates-reformer",
+      "object_title": "The Studio Floor That's Quietly Filling With Reformers",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-03-pilates-reformer/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Metro Vancouver has mapped 77 mahjong venues with peak search velocity for the format's league vocabulary — a geographic cluster suggesting a structured, standings-based version of the game is forming as neighbourhood infrastructure before any national outlet has named it.",
       "claim_kind": "predictive",
       "confidence": 0.4,

@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-03-pilates-reformer/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json",
+      "title": "The Studio Floor That's Quietly Filling With Reformers",
+      "summary": "Reformer pilates studios are showing up across Metro Vancouver at a rate the search data agrees with, but the corroboration is still thin — two source types, one metro, no social confirmation — so this reads as a trend to watch closely, not one to build around yet.",
+      "content_text": "The Studio Floor That's Quietly Filling With Reformers\n\nThesis\nReformer pilates studios are showing up across Metro Vancouver at a rate the search data agrees with, but the corroboration is still thin — two source types, one metro, no social confirmation — so this reads as a trend to watch closely, not one to build around yet.\n\nSignals\nsig_1: 76 venues across Metro Vancouver now categorized as pilates reformer studios in Google Places data\n\nsig_2: 36 tracked Google Trends data points showing rising search velocity for reformer-specific terms\n\nsig_3: Composite tracker score of 0.70 at the 'very_early' stage\n\nsig_4: Only two independent source types corroborate the signal (venue density and search trends) — zero Reddit or community-forum mentions captured\n\nsig_5: No franchise, funding, or press activity yet attached to any named operator\n\nWhat would falsify it\nIf venue growth flattens over the next two observation windows and no second source type (social mention, franchise filing, press item) appears by the 2026-07-24 check, archive as noise rather than promote.",
+      "date_published": "2026-07-03T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-02-mahjong-leagues/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
