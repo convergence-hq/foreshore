@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260706soberbars",
+  "slug": "foreshore-2026-07-06-sober-bars",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-06T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-06T00:00:00Z",
+    "modified_at": "2026-07-06T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-06-sober-bars@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-06",
+            "evidence_quote": "Tracked trend 'Sober / zero-proof bars' is firing (stage: approaching, composite 0.70). Corroborated across 76 venues mapped across Metro Vancouver (Places); rising Google Trends search velocity; editorial/culture-feed mentions.",
+            "interpretation": "The source is useful enough to watch, but still needs independent confirmation.",
+            "signal": "Sober / zero-proof bars",
+            "source_type": "hospitality",
+            "source_url": "https://pft.permanentupperclass.com/swell/#sober_bars"
+          }
+        ],
+        "format": "boring_business_hidden_inside_trend",
+        "human_action": "Read the source, test the buyer-change claim, and decide whether it belongs in the morning drop.",
+        "machine_action": "Keep the source object in the watch queue and require another source type before promotion.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-07-06",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-06",
+              "notes": "Read during candidate rendering.",
+              "source_name": "hospitality"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Sober / zero-proof bars",
+            "last_error": null,
+            "last_fetched_at": "2026-07-06",
+            "source_type": "hospitality",
+            "url": "https://pft.permanentupperclass.com/swell/#sober_bars"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "sober-bars"
+        ],
+        "uncertainty": "The source diversity is thin because this candidate starts from one pending proposal."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-06",
+            "evidence_quote": "Tracked trend 'Sober / zero-proof bars' is firing (stage: approaching, composite 0.70). Corroborated across 76 venues mapped across Metro Vancouver (Places); rising Google Trends search velocity; editorial/culture-feed mentions.",
+            "interpretation": "The source is useful enough to watch, but still needs independent confirmation.",
+            "signal": "Sober / zero-proof bars",
+            "source_type": "hospitality",
+            "source_url": "https://pft.permanentupperclass.com/swell/#sober_bars"
+          }
+        ],
+        "falsification": "Archive the candidate if no independent source type appears inside 28 days.",
+        "format": "boring_business_hidden_inside_trend",
+        "headline": "Sober / zero-proof bars: Shadow Watch",
+        "human_action": "Read the source, test the buyer-change claim, and decide whether it belongs in the morning drop.",
+        "issue_id": "foreshore-2026-07-06-sober-bars",
+        "machine_action": "Keep the source object in the watch queue and require another source type before promotion.",
+        "methodology_footer": "Foreshore treats one-source proposals as watchlist material until independent source types confirm the movement.",
+        "product": "foreshore",
+        "publication_date": "2026-07-06",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-07-06",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-06",
+              "notes": "Read during candidate rendering.",
+              "source_name": "hospitality"
+            }
+          ]
+        },
+        "signals": [
+          "pending_proposal",
+          "hospitality",
+          "sober-bars"
+        ],
+        "source_objects": [
+          {
+            "label": "Sober / zero-proof bars",
+            "last_error": null,
+            "last_fetched_at": "2026-07-06",
+            "source_type": "hospitality",
+            "url": "https://pft.permanentupperclass.com/swell/#sober_bars"
+          }
+        ],
+        "state": "observing",
+        "thesis": "The queue found one live signal for Sober / zero-proof bars. That is enough for a watch, not enough for a launch claim.",
+        "trend_ids": [
+          "sober-bars"
+        ],
+        "uncertainty": "The source diversity is thin because this candidate starts from one pending proposal."
+      }
+    }
+  },
+  "title": "Sober / zero-proof bars: Shadow Watch",
+  "summary": "The queue found one live signal for Sober / zero-proof bars.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The queue found one live signal for Sober / zero-proof bars. That is enough for a watch, not enough for a launch claim.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-07-06",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-06-sober-bars@v1",
+      "falsification": "Archive the candidate if no independent source type appears inside 28 days."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Sober / zero-proof bars: Shadow Watch",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The queue found one live signal for Sober / zero-proof bars. That is enough for a watch, not enough for a launch claim.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: pending_proposal\n\nsig_2: hospitality\n\nsig_3: sober-bars",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Archive the candidate if no independent source type appears inside 28 days.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"Sober / zero-proof bars: Shadow Watch.\" Convergence Daily. 2026-07-06. Resolve signal://foreshore/claim/foreshore-2026-07-06-sober-bars@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-06-sober-bars@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-06",
+      "published_at": "2026-07-06T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

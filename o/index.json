@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260706soberbars",
+      "kind": "post",
+      "slug": "foreshore-2026-07-06-sober-bars",
+      "title": "Sober / zero-proof bars: Shadow Watch",
+      "summary": "The queue found one live signal for Sober / zero-proof bars.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-06T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-06T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-06-sober-bars/"
+    },
+    {
       "id": "obj_foreshore20260703pilatesreformer",
       "kind": "post",
       "slug": "foreshore-2026-07-03-pilates-reformer",

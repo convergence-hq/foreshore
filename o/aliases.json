@@ -31,7 +31,8 @@
     "signal://foreshore/claim/foreshore-2026-06-30-hyrox@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-06-30-hyrox@sha256-4c28fee1398c18e24a5ce90ab5c675300dcc54c48b6ee64fac124ec7a14984c5.json",
     "signal://foreshore/claim/foreshore-2026-07-01-longevity-clinics@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json",
     "signal://foreshore/claim/foreshore-2026-07-02-mahjong-leagues@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
-    "signal://foreshore/claim/foreshore-2026-07-03-pilates-reformer@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json"
+    "signal://foreshore/claim/foreshore-2026-07-03-pilates-reformer@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json",
+    "signal://foreshore/claim/foreshore-2026-07-06-sober-bars@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json"
   },
   "entries": [
     {
@@ -240,6 +241,14 @@
       "object_id": "obj_foreshore20260703pilatesreformer",
       "object_kind": "post",
       "object_slug": "foreshore-2026-07-03-pilates-reformer",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://foreshore/claim/foreshore-2026-07-06-sober-bars@v1",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json",
+      "object_id": "obj_foreshore20260706soberbars",
+      "object_kind": "post",
+      "object_slug": "foreshore-2026-07-06-sober-bars",
       "claim_key": "thesis"
     }
   ]

@@ -33,6 +33,16 @@
       ],
       "item": [
         {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars.json",
+          "type": "application/json",
+          "title": "Sober / zero-proof bars: Shadow Watch latest object"
+        },
+        {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json",
+          "type": "application/json",
+          "title": "Sober / zero-proof bars: Shadow Watch immutable object"
+        },
+        {
           "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer.json",
           "type": "application/json",
           "title": "The Studio Floor That's Quietly Filling With Reformers latest object"
