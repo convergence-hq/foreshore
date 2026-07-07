@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-07-run-clubs/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",
+      "title": "Running Stopped Being a Solo Sport",
+      "summary": "Run clubs are showing up as measurable infrastructure — 106 mapped venues and rising search velocity across Metro Vancouver, now corroborated by independent editorial coverage rather than just venue and search data agreeing with each other — but the signal is still single-metro and unconfirmed by grassroots forums, so treat it as a trend to position around rather than one to bet on yet.",
+      "content_text": "Running Stopped Being a Solo Sport\n\nThesis\nRun clubs are showing up as measurable infrastructure — 106 mapped venues and rising search velocity across Metro Vancouver, now corroborated by independent editorial coverage rather than just venue and search data agreeing with each other — but the signal is still single-metro and unconfirmed by grassroots forums, so treat it as a trend to position around rather than one to bet on yet.\n\nSignals\nsig_1: 106 venues and recurring meeting points across Metro Vancouver now categorized as run clubs, run crews, or organized group-run gathering spots in Google Places data. (strength: moderate)\n\nsig_2: 31 tracked search data points showing rising velocity for run-club-specific terms, with vocabulary consolidating around 'run club' over generic alternatives. (strength: moderate)\n\nsig_3: Independent editorial and culture-feed mentions of the trend, arrived at without prompting from the venue or search data — the first time this tracker has closed a candidate with three distinct, independently-arrived-at source types rather than two. (strength: weak_to_moderate)\n\nWhat would falsify it\nIf the Places venue count plateaus or the Trends velocity reverses over the next two polling cycles with no Reddit or community-forum corroboration appearing, downgrade this candidate to archive.",
+      "date_published": "2026-07-07T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-06-sober-bars/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json",

@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Run clubs are showing up as measurable infrastructure — 106 mapped venues and rising search velocity across Metro Vancouver, now corroborated by independent editorial coverage rather than just venue and search data agreeing with each other — but the signal is still single-metro and unconfirmed by grassroots forums, so treat it as a trend to position around rather than one to bet on yet.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-07-07",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-07-run-clubs@v1",
+      "falsification": "If the Places venue count plateaus or the Trends velocity reverses over the next two polling cycles with no Reddit or community-forum corroboration appearing, downgrade this candidate to archive.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260707runclubs",
+      "object_slug": "foreshore-2026-07-07-run-clubs",
+      "object_title": "Running Stopped Being a Solo Sport",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-07-run-clubs/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "The queue found one live signal for Sober / zero-proof bars. That is enough for a watch, not enough for a launch claim.",
       "claim_kind": "predictive",
       "confidence": 0.72,

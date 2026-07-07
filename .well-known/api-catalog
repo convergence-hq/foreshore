@@ -33,6 +33,16 @@
       ],
       "item": [
         {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs.json",
+          "type": "application/json",
+          "title": "Running Stopped Being a Solo Sport latest object"
+        },
+        {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",
+          "type": "application/json",
+          "title": "Running Stopped Being a Solo Sport immutable object"
+        },
+        {
           "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars.json",
           "type": "application/json",
           "title": "Sober / zero-proof bars: Shadow Watch latest object"

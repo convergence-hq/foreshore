@@ -32,7 +32,8 @@
     "signal://foreshore/claim/foreshore-2026-07-01-longevity-clinics@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-01-longevity-clinics@sha256-a3c6b338385a80f15a6e7fc0ffe9ece86f00f1094f9ed68d5b6be18450382003.json",
     "signal://foreshore/claim/foreshore-2026-07-02-mahjong-leagues@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-02-mahjong-leagues@sha256-5495e6082b4560b46124a039234ac0974283d8bf6ad709c442b4d6d8c38ca305.json",
     "signal://foreshore/claim/foreshore-2026-07-03-pilates-reformer@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json",
-    "signal://foreshore/claim/foreshore-2026-07-06-sober-bars@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json"
+    "signal://foreshore/claim/foreshore-2026-07-06-sober-bars@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json",
+    "signal://foreshore/claim/foreshore-2026-07-07-run-clubs@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json"
   },
   "entries": [
     {
@@ -249,6 +250,14 @@
       "object_id": "obj_foreshore20260706soberbars",
       "object_kind": "post",
       "object_slug": "foreshore-2026-07-06-sober-bars",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://foreshore/claim/foreshore-2026-07-07-run-clubs@v1",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",
+      "object_id": "obj_foreshore20260707runclubs",
+      "object_kind": "post",
+      "object_slug": "foreshore-2026-07-07-run-clubs",
       "claim_key": "thesis"
     }
   ]

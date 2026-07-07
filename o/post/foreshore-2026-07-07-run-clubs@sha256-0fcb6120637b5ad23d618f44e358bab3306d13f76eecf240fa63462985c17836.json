@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260707runclubs",
+  "slug": "foreshore-2026-07-07-run-clubs",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-07T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-07T00:00:00Z",
+    "modified_at": "2026-07-07T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-07-run-clubs@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.72,
+            "event_date": "2026-07-07",
+            "evidence_quote": "106 venues mapped across Metro Vancouver; composite 0.72 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Run clubs (US) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#run_clubs"
+          },
+          {
+            "confidence": 0.72,
+            "event_date": "2026-07-07",
+            "evidence_quote": "31 search-velocity records; composite 0.72 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Run clubs (US) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#run_clubs"
+          }
+        ],
+        "format": "smoke_before_fire",
+        "human_action": "Hold for a second polling cycle before any launch claim. Task an operator to check for Reddit/community-forum corroboration and to identify which named run clubs or apparel/beverage sponsors are already active in Metro Vancouver, since neither shows up in Places or Trends data directly.",
+        "machine_action": "Continue weekly Places and Trends polling on this trend; add a Reddit/community-forum crawl to close the corroboration gap; re-score composite next cycle and flag if venue count growth stalls or reverses.",
+        "methodology_footer": "Signal sourced via the swell tracker: Google Places venue density, Google Trends search velocity, and editorial/culture-feed monitoring, cross-referenced for category and vocabulary consolidation.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-07",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-07",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#run_clubs"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "run_clubs"
+        ],
+        "uncertainty": "Confidence is capped below 'high' because corroboration, while broader than usual for this tracker, is still shallow in the ways that matter most: one metro, zero social/forum confirmation, and venue categorization that cannot distinguish a casual meetup from a structured club."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "evidence_map": [
+          {
+            "confidence": 0.72,
+            "event_date": "2026-07-07",
+            "evidence_quote": "106 venues mapped across Metro Vancouver; composite 0.72 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Run clubs (US) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#run_clubs"
+          },
+          {
+            "confidence": 0.72,
+            "event_date": "2026-07-07",
+            "evidence_quote": "31 search-velocity records; composite 0.72 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Run clubs (US) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#run_clubs"
+          }
+        ],
+        "falsification": "If the Places venue count plateaus or the Trends velocity reverses over the next two polling cycles with no Reddit or community-forum corroboration appearing, downgrade this candidate to archive.",
+        "format": "smoke_before_fire",
+        "headline": "Running Stopped Being a Solo Sport",
+        "human_action": "Hold for a second polling cycle before any launch claim. Task an operator to check for Reddit/community-forum corroboration and to identify which named run clubs or apparel/beverage sponsors are already active in Metro Vancouver, since neither shows up in Places or Trends data directly.",
+        "issue_id": "foreshore-2026-07-07-run-clubs",
+        "machine_action": "Continue weekly Places and Trends polling on this trend; add a Reddit/community-forum crawl to close the corroboration gap; re-score composite next cycle and flag if venue count growth stalls or reverses.",
+        "methodology_footer": "Signal sourced via the swell tracker: Google Places venue density, Google Trends search velocity, and editorial/culture-feed monitoring, cross-referenced for category and vocabulary consolidation.",
+        "product": "foreshore",
+        "publication_date": "2026-07-07",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-07",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'type': 'places_geo_density', 'description': '106 venues and recurring meeting points across Metro Vancouver now categorized as run clubs, run crews, or organized group-run gathering spots in Google Places data.', 'strength': 'moderate'}",
+          "{'type': 'google_trends', 'description': \"31 tracked search data points showing rising velocity for run-club-specific terms, with vocabulary consolidating around 'run club' over generic alternatives.\", 'strength': 'moderate'}",
+          "{'type': 'editorial_culture_feed', 'description': 'Independent editorial and culture-feed mentions of the trend, arrived at without prompting from the venue or search data — the first time this tracker has closed a candidate with three distinct, independently-arrived-at source types rather than two.', 'strength': 'weak_to_moderate'}"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-07",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#run_clubs"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Run clubs are showing up as measurable infrastructure — 106 mapped venues and rising search velocity across Metro Vancouver, now corroborated by independent editorial coverage rather than just venue and search data agreeing with each other — but the signal is still single-metro and unconfirmed by grassroots forums, so treat it as a trend to position around rather than one to bet on yet.",
+        "trend_ids": [
+          "run_clubs"
+        ],
+        "uncertainty": "Confidence is capped below 'high' because corroboration, while broader than usual for this tracker, is still shallow in the ways that matter most: one metro, zero social/forum confirmation, and venue categorization that cannot distinguish a casual meetup from a structured club."
+      }
+    }
+  },
+  "title": "Running Stopped Being a Solo Sport",
+  "summary": "Run clubs are showing up as measurable infrastructure — 106 mapped venues and rising search velocity across Metro Vancouver, now corroborated by independent editorial coverage rather than just venue and search data agreeing with each other — but the signal is still single-metro and unconfirmed by grassroots forums, so treat it as a trend to position around rather than one to bet on yet.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Run clubs are showing up as measurable infrastructure — 106 mapped venues and rising search velocity across Metro Vancouver, now corroborated by independent editorial coverage rather than just venue and search data agreeing with each other — but the signal is still single-metro and unconfirmed by grassroots forums, so treat it as a trend to position around rather than one to bet on yet.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-07-07",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-07-run-clubs@v1",
+      "falsification": "If the Places venue count plateaus or the Trends velocity reverses over the next two polling cycles with no Reddit or community-forum corroboration appearing, downgrade this candidate to archive."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Running Stopped Being a Solo Sport",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Run clubs are showing up as measurable infrastructure — 106 mapped venues and rising search velocity across Metro Vancouver, now corroborated by independent editorial coverage rather than just venue and search data agreeing with each other — but the signal is still single-metro and unconfirmed by grassroots forums, so treat it as a trend to position around rather than one to bet on yet.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 106 venues and recurring meeting points across Metro Vancouver now categorized as run clubs, run crews, or organized group-run gathering spots in Google Places data. (strength: moderate)\n\nsig_2: 31 tracked search data points showing rising velocity for run-club-specific terms, with vocabulary consolidating around 'run club' over generic alternatives. (strength: moderate)\n\nsig_3: Independent editorial and culture-feed mentions of the trend, arrived at without prompting from the venue or search data — the first time this tracker has closed a candidate with three distinct, independently-arrived-at source types rather than two. (strength: weak_to_moderate)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If the Places venue count plateaus or the Trends velocity reverses over the next two polling cycles with no Reddit or community-forum corroboration appearing, downgrade this candidate to archive.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"Running Stopped Being a Solo Sport.\" Convergence Daily. 2026-07-07. Resolve signal://foreshore/claim/foreshore-2026-07-07-run-clubs@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-07-run-clubs@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-07",
+      "published_at": "2026-07-07T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

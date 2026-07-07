@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260707runclubs",
+      "kind": "post",
+      "slug": "foreshore-2026-07-07-run-clubs",
+      "title": "Running Stopped Being a Solo Sport",
+      "summary": "Run clubs are showing up as measurable infrastructure — 106 mapped venues and rising search velocity across Metro Vancouver, now corroborated by independent editorial coverage rather than just venue and search data agreeing with each other — but the signal is still single-metro and unconfirmed by grassroots forums, so treat it as a trend to position around rather than one to bet on yet.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-07T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-07T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-07-run-clubs/"
+    },
+    {
       "id": "obj_foreshore20260706soberbars",
       "kind": "post",
       "slug": "foreshore-2026-07-06-sober-bars",
