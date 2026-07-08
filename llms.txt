@@ -12,6 +12,7 @@ Trend-intelligence for the wellness sector — what the tide is bringing in, pub
 - Optional MCP overlay: https://foreshore.permanentupperclass.com/mcp
 
 ## Objects
+- The Quiet Retrofit of Every Tennis Court in Town: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json
 - Running Stopped Being a Solo Sport: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json
 - Sober / zero-proof bars: Shadow Watch: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json
 - The Studio Floor That's Quietly Filling With Reformers: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json

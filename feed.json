@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-08-pickleball/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",
+      "title": "The Quiet Retrofit of Every Tennis Court in Town",
+      "summary": "Pickleball stopped being a discovery story years ago; what Metro Vancouver's venue data shows now is a physical retrofit economy — 126 courts converted or overlaid onto existing racquet infrastructure — and that build-out layer, not the sport's popularity, is the actual commercial opportunity.",
+      "content_text": "The Quiet Retrofit of Every Tennis Court in Town\n\nThesis\nPickleball stopped being a discovery story years ago; what Metro Vancouver's venue data shows now is a physical retrofit economy — 126 courts converted or overlaid onto existing racquet infrastructure — and that build-out layer, not the sport's popularity, is the actual commercial opportunity.\n\nSignals\nsig_1: Google Places: 126 venues across Metro Vancouver now categorized under pickleball court or facility labels (moderate confidence; category purity unaudited, likely conflates dedicated builds with shared-use overlays)\n\nsig_2: Google Trends: 21 tracked data points with search velocity and vocabulary consolidation both scored at maximum (1.0), confirming demand pull but not distinguishing player search intent from equipment or league search\n\nsig_3: Reddit / community forums: 0 records — no social corroboration captured\n\nsig_4: Composite tracker score 0.658 at 'calibration' stage, support_count 2, source_types 2 (Places + Trends only)\n\nWhat would falsify it\nIf a manual audit of a sample of the 126 venues shows most are shared-use courts inside existing tennis or community facilities rather than dedicated conversions, or if venue count is flat at the next crawl, downgrade this to noise — the retrofit story requires the conversions to be real and ongoing, not a labeling artifact.",
+      "date_published": "2026-07-08T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-07-run-clubs/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",

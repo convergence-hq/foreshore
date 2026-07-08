@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260708pickleball",
+      "kind": "post",
+      "slug": "foreshore-2026-07-08-pickleball",
+      "title": "The Quiet Retrofit of Every Tennis Court in Town",
+      "summary": "Pickleball stopped being a discovery story years ago; what Metro Vancouver's venue data shows now is a physical retrofit economy — 126 courts converted or overlaid onto existing racquet infrastructure — and that build-out layer, not the sport's popularity, is the actual commercial opportunity.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-08T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-08T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-08-pickleball/"
+    },
+    {
       "id": "obj_foreshore20260707runclubs",
       "kind": "post",
       "slug": "foreshore-2026-07-07-run-clubs",

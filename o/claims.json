@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Pickleball stopped being a discovery story years ago; what Metro Vancouver's venue data shows now is a physical retrofit economy — 126 courts converted or overlaid onto existing racquet infrastructure — and that build-out layer, not the sport's popularity, is the actual commercial opportunity.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-08",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-08-pickleball@v1",
+      "falsification": "If a manual audit of a sample of the 126 venues shows most are shared-use courts inside existing tennis or community facilities rather than dedicated conversions, or if venue count is flat at the next crawl, downgrade this to noise — the retrofit story requires the conversions to be real and ongoing, not a labeling artifact.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260708pickleball",
+      "object_slug": "foreshore-2026-07-08-pickleball",
+      "object_title": "The Quiet Retrofit of Every Tennis Court in Town",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-08-pickleball/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Run clubs are showing up as measurable infrastructure — 106 mapped venues and rising search velocity across Metro Vancouver, now corroborated by independent editorial coverage rather than just venue and search data agreeing with each other — but the signal is still single-metro and unconfirmed by grassroots forums, so treat it as a trend to position around rather than one to bet on yet.",
       "claim_kind": "predictive",
       "confidence": 0.72,

@@ -15,6 +15,15 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260708pickleball",
+      "kind": "post",
+      "slug": "foreshore-2026-07-08-pickleball",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",
+      "digest": "c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e",
+      "signature_path": "/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json.sig"
+    },
+    {
       "id": "obj_foreshore20260707runclubs",
       "kind": "post",
       "slug": "foreshore-2026-07-07-run-clubs",
@@ -271,14 +280,14 @@
     {
       "path": "/.well-known/api-catalog",
       "media_type": "application/linkset+json",
-      "sha256": "8cb85b6a1bfd698163bee764a025a435731f9d91901b2f3d93ee497976afb04b",
-      "byte_length": 17539
+      "sha256": "fa0aeef43d1e233782037a7edd0e94e28389d02c7907874536165b68688f07a9",
+      "byte_length": 18114
     },
     {
       "path": "/feed.json",
       "media_type": "application/json",
-      "sha256": "d479a9a4e85640cd95dd172645151ae3bda5833a19aca2fba61aab7f1393d369",
-      "byte_length": 59937
+      "sha256": "c739ee8c87e831e81d181eda53b5fb376a99c6e8ca29203e2f487781b0704be4",
+      "byte_length": 62437
     },
     {
       "path": "/history/foreshore-2026-05-20-shadow-1/index.html",
@@ -449,34 +458,40 @@
       "byte_length": 5800
     },
     {
+      "path": "/history/foreshore-2026-07-08-pickleball/index.html",
+      "media_type": "text/html",
+      "sha256": "364146b460a3542f5961988422f373e426bb20e2ddd989d4e9e3cb870135f566",
+      "byte_length": 5844
+    },
+    {
       "path": "/index.html",
       "media_type": "text/html",
-      "sha256": "411064e847cb53f8398e808543c8f3750841387d644c6f7b27a3308f17325a2b",
-      "byte_length": 17862
+      "sha256": "a4226841028a5df08fb8ec27370e90731031d5532a384dceb0190039f8b46fca",
+      "byte_length": 18371
     },
     {
       "path": "/llms.txt",
       "media_type": "text/plain",
-      "sha256": "df6444fc8776c2db1d7160930e61bc143eee4b8ac2037f6ba07af32b697a5339",
-      "byte_length": 6401
+      "sha256": "e8b3f363e107fadaae718a0d9f69393e8349009e407eb63bf6c14a09043309a6",
+      "byte_length": 6611
     },
     {
       "path": "/o/aliases.json",
       "media_type": "application/json",
-      "sha256": "103609af8666d1111f3785c17c2cafb139a005d24a7354690c9c5c9b23212482",
-      "byte_length": 19935
+      "sha256": "08277f1afc0ef1d1a2b3aef3b426f4d43d1c85a4d8d3f98bd6548ecd6acfb6ae",
+      "byte_length": 20603
     },
     {
       "path": "/o/claims.json",
       "media_type": "application/json",
-      "sha256": "b89524745230f46325b863cc4c711cef4b0726037e75f7178ba277fa042e26be",
-      "byte_length": 44184
+      "sha256": "70e138033cff3c741b3397648c0d9fe3e2efa1b55480673c5fde3e07446750f2",
+      "byte_length": 45845
     },
     {
       "path": "/o/index.json",
       "media_type": "application/json",
-      "sha256": "2c5f8777adff3ba66a27dd7631507208c9dc3304d7da3f61ef8b4d7319785bf4",
-      "byte_length": 34791
+      "sha256": "1a85592474f798c7fdad568790ee945d10b7f88899f7ca23f9c5a7867b260df5",
+      "byte_length": 36067
     },
     {
       "path": "/o/post/foreshore-2026-05-20-shadow-1.json",
@@ -983,6 +998,24 @@
       "byte_length": 943
     },
     {
+      "path": "/o/post/foreshore-2026-07-08-pickleball.json",
+      "media_type": "application/json",
+      "sha256": "ac16884bbdf2df4965d2e3ad77ad9bbd9e1ffbbca66134645f6b47f54445c46d",
+      "byte_length": 13890
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",
+      "media_type": "application/json",
+      "sha256": "ac16884bbdf2df4965d2e3ad77ad9bbd9e1ffbbca66134645f6b47f54445c46d",
+      "byte_length": 13890
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "8e243319517e07f9df097956aab2f559ad6458b36ce74d122ff9e69d381225a4",
+      "byte_length": 946
+    },
+    {
       "path": "/o/trust.json",
       "media_type": "application/json",
       "sha256": "7a318239389c724f675e4d94117cd7bf61c56094f78f24cc17560bcea5699aae",
@@ -1157,16 +1190,22 @@
       "byte_length": 30225
     },
     {
+      "path": "/p/foreshore-2026-07-08-pickleball/index.html",
+      "media_type": "text/html",
+      "sha256": "001d824a5fffe9db59eef3fd0bb047509f370cc91651b1d4b9eedef1834b3799",
+      "byte_length": 29763
+    },
+    {
       "path": "/rss.xml",
       "media_type": "application/rss+xml",
-      "sha256": "9ec879839a02c18863c100c7348b8ac8e44a31b617d023a0db3315e3b78eda55",
-      "byte_length": 19641
+      "sha256": "386a8a4c2e9cf522b9942e6f5816c696838261f59025fe65972e19e152e3e480",
+      "byte_length": 20396
     },
     {
       "path": "/sitemap.xml",
       "media_type": "application/xml",
-      "sha256": "69dd8be97e2c0ee6c1be713b69d5be4db6f107dff3b26c40e5beb06189767700",
-      "byte_length": 12995
+      "sha256": "d5bbb229ddf065ca6b62adbc2360a78ea416a1503956b1af239516738bb5c86a",
+      "byte_length": 13412
     }
   ]
 }

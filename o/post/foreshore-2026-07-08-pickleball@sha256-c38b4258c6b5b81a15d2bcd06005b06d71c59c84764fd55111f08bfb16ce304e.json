@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260708pickleball",
+  "slug": "foreshore-2026-07-08-pickleball",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-08T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-08T00:00:00Z",
+    "modified_at": "2026-07-08T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-08-pickleball@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.658,
+            "event_date": "2026-07-08",
+            "evidence_quote": "126 venues mapped across Metro Vancouver; composite 0.658 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pickleball (calibration - mainstream) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          },
+          {
+            "confidence": 0.658,
+            "event_date": "2026-07-08",
+            "evidence_quote": "21 search-velocity records; composite 0.658 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pickleball (calibration - mainstream) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          }
+        ],
+        "format": "boring_business_hidden_inside_trend",
+        "human_action": "Have a stringer call three of the 126 mapped venues to confirm whether courts are purpose-built, converted tennis courts, or temporary line-taped overlays, and check for any local reddit/Nextdoor/community-board chatter before treating the infrastructure claim as confirmed.",
+        "machine_action": "Queue a re-crawl in 30 days to check whether places_records growth is still rising or has plateaued, and add reddit/community-forum ingestion to this tracker to close the source_types gap before considering promotion.",
+        "methodology_footer": "Signal derived from Google Places venue density and Google Trends search velocity across Metro Vancouver, cross-referenced against the tracker's composite scoring model. No editorial, retail, or community-forum sources corroborate at this time.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-08",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-08",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "pickleball"
+        ],
+        "uncertainty": "Places data cannot distinguish dedicated pickleball builds from tennis courts simply re-striped for dual use, and Trends data cannot separate player search intent from equipment, league, or lesson searches. Pickleball's national popularity is already fully priced into media coverage, so the only new information here is local and physical."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.658,
+            "event_date": "2026-07-08",
+            "evidence_quote": "126 venues mapped across Metro Vancouver; composite 0.658 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pickleball (calibration - mainstream) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          },
+          {
+            "confidence": 0.658,
+            "event_date": "2026-07-08",
+            "evidence_quote": "21 search-velocity records; composite 0.658 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pickleball (calibration - mainstream) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          }
+        ],
+        "falsification": "If a manual audit of a sample of the 126 venues shows most are shared-use courts inside existing tennis or community facilities rather than dedicated conversions, or if venue count is flat at the next crawl, downgrade this to noise — the retrofit story requires the conversions to be real and ongoing, not a labeling artifact.",
+        "format": "boring_business_hidden_inside_trend",
+        "headline": "The Quiet Retrofit of Every Tennis Court in Town",
+        "human_action": "Have a stringer call three of the 126 mapped venues to confirm whether courts are purpose-built, converted tennis courts, or temporary line-taped overlays, and check for any local reddit/Nextdoor/community-board chatter before treating the infrastructure claim as confirmed.",
+        "issue_id": "foreshore-2026-07-08-pickleball",
+        "machine_action": "Queue a re-crawl in 30 days to check whether places_records growth is still rising or has plateaued, and add reddit/community-forum ingestion to this tracker to close the source_types gap before considering promotion.",
+        "methodology_footer": "Signal derived from Google Places venue density and Google Trends search velocity across Metro Vancouver, cross-referenced against the tracker's composite scoring model. No editorial, retail, or community-forum sources corroborate at this time.",
+        "product": "foreshore",
+        "publication_date": "2026-07-08",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-08",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "Google Places: 126 venues across Metro Vancouver now categorized under pickleball court or facility labels (moderate confidence; category purity unaudited, likely conflates dedicated builds with shared-use overlays)",
+          "Google Trends: 21 tracked data points with search velocity and vocabulary consolidation both scored at maximum (1.0), confirming demand pull but not distinguishing player search intent from equipment or league search",
+          "Reddit / community forums: 0 records — no social corroboration captured",
+          "Composite tracker score 0.658 at 'calibration' stage, support_count 2, source_types 2 (Places + Trends only)"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-08",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Pickleball stopped being a discovery story years ago; what Metro Vancouver's venue data shows now is a physical retrofit economy — 126 courts converted or overlaid onto existing racquet infrastructure — and that build-out layer, not the sport's popularity, is the actual commercial opportunity.",
+        "trend_ids": [
+          "pickleball"
+        ],
+        "uncertainty": "Places data cannot distinguish dedicated pickleball builds from tennis courts simply re-striped for dual use, and Trends data cannot separate player search intent from equipment, league, or lesson searches. Pickleball's national popularity is already fully priced into media coverage, so the only new information here is local and physical."
+      }
+    }
+  },
+  "title": "The Quiet Retrofit of Every Tennis Court in Town",
+  "summary": "Pickleball stopped being a discovery story years ago; what Metro Vancouver's venue data shows now is a physical retrofit economy — 126 courts converted or overlaid onto existing racquet infrastructure — and that build-out layer, not the sport's popularity, is the actual commercial opportunity.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Pickleball stopped being a discovery story years ago; what Metro Vancouver's venue data shows now is a physical retrofit economy — 126 courts converted or overlaid onto existing racquet infrastructure — and that build-out layer, not the sport's popularity, is the actual commercial opportunity.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-08",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-08-pickleball@v1",
+      "falsification": "If a manual audit of a sample of the 126 venues shows most are shared-use courts inside existing tennis or community facilities rather than dedicated conversions, or if venue count is flat at the next crawl, downgrade this to noise — the retrofit story requires the conversions to be real and ongoing, not a labeling artifact."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Quiet Retrofit of Every Tennis Court in Town",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Pickleball stopped being a discovery story years ago; what Metro Vancouver's venue data shows now is a physical retrofit economy — 126 courts converted or overlaid onto existing racquet infrastructure — and that build-out layer, not the sport's popularity, is the actual commercial opportunity.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: Google Places: 126 venues across Metro Vancouver now categorized under pickleball court or facility labels (moderate confidence; category purity unaudited, likely conflates dedicated builds with shared-use overlays)\n\nsig_2: Google Trends: 21 tracked data points with search velocity and vocabulary consolidation both scored at maximum (1.0), confirming demand pull but not distinguishing player search intent from equipment or league search\n\nsig_3: Reddit / community forums: 0 records — no social corroboration captured\n\nsig_4: Composite tracker score 0.658 at 'calibration' stage, support_count 2, source_types 2 (Places + Trends only)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If a manual audit of a sample of the 126 venues shows most are shared-use courts inside existing tennis or community facilities rather than dedicated conversions, or if venue count is flat at the next crawl, downgrade this to noise — the retrofit story requires the conversions to be real and ongoing, not a labeling artifact.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Quiet Retrofit of Every Tennis Court in Town.\" Convergence Daily. 2026-07-08. Resolve signal://foreshore/claim/foreshore-2026-07-08-pickleball@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-08-pickleball@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-08",
+      "published_at": "2026-07-08T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}
