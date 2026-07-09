@@ -1,0 +1,245 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260709functionalfitnesssmallbox",
+  "slug": "foreshore-2026-07-09-functional-fitness-smallbox",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-09T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-09T00:00:00Z",
+    "modified_at": "2026-07-09T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-09-functional-fitness-smallbox@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.63,
+            "event_date": "2026-07-09",
+            "evidence_quote": "56 venues mapped across Metro Vancouver; composite 0.63 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Functional-fitness small-box gyms — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#functional_fitness_smallbox"
+          },
+          {
+            "confidence": 0.63,
+            "event_date": "2026-07-09",
+            "evidence_quote": "22 search-velocity records; composite 0.63 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Functional-fitness small-box gyms — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#functional_fitness_smallbox"
+          }
+        ],
+        "format": "smoke_before_fire",
+        "human_action": "Hold for one more tracking cycle; do not brief as a standalone category yet. If vocabulary consolidation crosses 0.7 or a third source type (social/editorial) fires, escalate to a Boring Business Hidden Inside the Trend piece on the franchise/retrofit layer.",
+        "machine_action": "Continue polling Places and Trends weekly for this slug; add Reddit/community-forum crawl to close the source-type gap; flag if venue count crosses 80 or vocabulary score crosses 0.7.",
+        "methodology_footer": "Sourced from the swell tracker's composite of Google Places venue density and Google Trends search velocity/vocabulary scoring for Metro Vancouver; no Reddit or editorial corroboration has fired for this candidate as of 2026-07-09.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-09",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-09",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#functional_fitness_smallbox"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "functional_fitness_smallbox"
+        ],
+        "uncertainty": "Category purity is unaudited: Places records likely conflate general CrossFit affiliates, boutique strength studios, and dedicated small-box functional-fitness operators. The relationship to the already-tracked Hyrox training-economy trend is unresolved — this could be the same build-out measured earlier in its life cycle, or a genuinely separate format."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.63,
+            "event_date": "2026-07-09",
+            "evidence_quote": "56 venues mapped across Metro Vancouver; composite 0.63 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Functional-fitness small-box gyms — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#functional_fitness_smallbox"
+          },
+          {
+            "confidence": 0.63,
+            "event_date": "2026-07-09",
+            "evidence_quote": "22 search-velocity records; composite 0.63 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Functional-fitness small-box gyms — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#functional_fitness_smallbox"
+          }
+        ],
+        "falsification": "If venue count and search velocity plateau over the next two cycles without a dominant naming term emerging, or if growth turns out to be entirely attributable to the already-published Hyrox training-economy build-out, downgrade and archive this as a duplicate rather than a distinct trend.",
+        "format": "smoke_before_fire",
+        "headline": "The Gym Floor That Hasn't Picked a Name Yet",
+        "human_action": "Hold for one more tracking cycle; do not brief as a standalone category yet. If vocabulary consolidation crosses 0.7 or a third source type (social/editorial) fires, escalate to a Boring Business Hidden Inside the Trend piece on the franchise/retrofit layer.",
+        "issue_id": "foreshore-2026-07-09-functional-fitness-smallbox",
+        "machine_action": "Continue polling Places and Trends weekly for this slug; add Reddit/community-forum crawl to close the source-type gap; flag if venue count crosses 80 or vocabulary score crosses 0.7.",
+        "methodology_footer": "Sourced from the swell tracker's composite of Google Places venue density and Google Trends search velocity/vocabulary scoring for Metro Vancouver; no Reddit or editorial corroboration has fired for this candidate as of 2026-07-09.",
+        "product": "foreshore",
+        "publication_date": "2026-07-09",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-09",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "56 venues categorized under functional-fitness small-box labels across Metro Vancouver (Google Places)",
+          "22 tracked Google Trends data points showing rising search velocity for the category",
+          "Vocabulary consolidation scored only 0.5 — no single term (box, functional studio, training gym) has won yet",
+          "Composite tracker score 0.63 at 'approaching' stage, below calibration",
+          "Zero Reddit or community-forum corroboration captured",
+          "Only two independent source types firing: venue density and search trends"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-09",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#functional_fitness_smallbox"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Fifty-six small-box functional-fitness gyms have mapped across Metro Vancouver with rising search velocity behind them, but the category hasn't consolidated a name the way Hyrox did a week ago in the same dataset — treat this as an unconfirmed precursor, not a launch signal.",
+        "trend_ids": [
+          "functional_fitness_smallbox"
+        ],
+        "uncertainty": "Category purity is unaudited: Places records likely conflate general CrossFit affiliates, boutique strength studios, and dedicated small-box functional-fitness operators. The relationship to the already-tracked Hyrox training-economy trend is unresolved — this could be the same build-out measured earlier in its life cycle, or a genuinely separate format."
+      }
+    }
+  },
+  "title": "The Gym Floor That Hasn't Picked a Name Yet",
+  "summary": "Fifty-six small-box functional-fitness gyms have mapped across Metro Vancouver with rising search velocity behind them, but the category hasn't consolidated a name the way Hyrox did a week ago in the same dataset — treat this as an unconfirmed precursor, not a launch signal.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Fifty-six small-box functional-fitness gyms have mapped across Metro Vancouver with rising search velocity behind them, but the category hasn't consolidated a name the way Hyrox did a week ago in the same dataset — treat this as an unconfirmed precursor, not a launch signal.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-09",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-09-functional-fitness-smallbox@v1",
+      "falsification": "If venue count and search velocity plateau over the next two cycles without a dominant naming term emerging, or if growth turns out to be entirely attributable to the already-published Hyrox training-economy build-out, downgrade and archive this as a duplicate rather than a distinct trend."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Gym Floor That Hasn't Picked a Name Yet",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Fifty-six small-box functional-fitness gyms have mapped across Metro Vancouver with rising search velocity behind them, but the category hasn't consolidated a name the way Hyrox did a week ago in the same dataset — treat this as an unconfirmed precursor, not a launch signal.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 56 venues categorized under functional-fitness small-box labels across Metro Vancouver (Google Places)\n\nsig_2: 22 tracked Google Trends data points showing rising search velocity for the category\n\nsig_3: Vocabulary consolidation scored only 0.5 — no single term (box, functional studio, training gym) has won yet\n\nsig_4: Composite tracker score 0.63 at 'approaching' stage, below calibration\n\nsig_5: Zero Reddit or community-forum corroboration captured\n\nsig_6: Only two independent source types firing: venue density and search trends",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If venue count and search velocity plateau over the next two cycles without a dominant naming term emerging, or if growth turns out to be entirely attributable to the already-published Hyrox training-economy build-out, downgrade and archive this as a duplicate rather than a distinct trend.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Gym Floor That Hasn't Picked a Name Yet.\" Convergence Daily. 2026-07-09. Resolve signal://foreshore/claim/foreshore-2026-07-09-functional-fitness-smallbox@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-09-functional-fitness-smallbox@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-09",
+      "published_at": "2026-07-09T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

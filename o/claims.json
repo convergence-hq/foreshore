@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Fifty-six small-box functional-fitness gyms have mapped across Metro Vancouver with rising search velocity behind them, but the category hasn't consolidated a name the way Hyrox did a week ago in the same dataset — treat this as an unconfirmed precursor, not a launch signal.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-09",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-09-functional-fitness-smallbox@v1",
+      "falsification": "If venue count and search velocity plateau over the next two cycles without a dominant naming term emerging, or if growth turns out to be entirely attributable to the already-published Hyrox training-economy build-out, downgrade and archive this as a duplicate rather than a distinct trend.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260709functionalfitnesssmallbox",
+      "object_slug": "foreshore-2026-07-09-functional-fitness-smallbox",
+      "object_title": "The Gym Floor That Hasn't Picked a Name Yet",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-09-functional-fitness-smallbox/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Pickleball stopped being a discovery story years ago; what Metro Vancouver's venue data shows now is a physical retrofit economy — 126 courts converted or overlaid onto existing racquet infrastructure — and that build-out layer, not the sport's popularity, is the actual commercial opportunity.",
       "claim_kind": "predictive",
       "confidence": 0.4,

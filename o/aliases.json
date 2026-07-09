@@ -34,7 +34,8 @@
     "signal://foreshore/claim/foreshore-2026-07-03-pilates-reformer@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-03-pilates-reformer@sha256-fc8e408e02f0908d6ea6bb41f7e42e9ea8a803d6e0e5a63354dc32a769dd8db1.json",
     "signal://foreshore/claim/foreshore-2026-07-06-sober-bars@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-06-sober-bars@sha256-83ca81066337a9b96b7fc989c1c6c1fc4f33fc6b1a30345c01a848df190775c4.json",
     "signal://foreshore/claim/foreshore-2026-07-07-run-clubs@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json",
-    "signal://foreshore/claim/foreshore-2026-07-08-pickleball@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json"
+    "signal://foreshore/claim/foreshore-2026-07-08-pickleball@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",
+    "signal://foreshore/claim/foreshore-2026-07-09-functional-fitness-smallbox@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json"
   },
   "entries": [
     {
@@ -267,6 +268,14 @@
       "object_id": "obj_foreshore20260708pickleball",
       "object_kind": "post",
       "object_slug": "foreshore-2026-07-08-pickleball",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://foreshore/claim/foreshore-2026-07-09-functional-fitness-smallbox@v1",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json",
+      "object_id": "obj_foreshore20260709functionalfitnesssmallbox",
+      "object_kind": "post",
+      "object_slug": "foreshore-2026-07-09-functional-fitness-smallbox",
       "claim_key": "thesis"
     }
   ]

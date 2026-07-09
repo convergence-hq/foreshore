@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-09-functional-fitness-smallbox/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json",
+      "title": "The Gym Floor That Hasn't Picked a Name Yet",
+      "summary": "Fifty-six small-box functional-fitness gyms have mapped across Metro Vancouver with rising search velocity behind them, but the category hasn't consolidated a name the way Hyrox did a week ago in the same dataset — treat this as an unconfirmed precursor, not a launch signal.",
+      "content_text": "The Gym Floor That Hasn't Picked a Name Yet\n\nThesis\nFifty-six small-box functional-fitness gyms have mapped across Metro Vancouver with rising search velocity behind them, but the category hasn't consolidated a name the way Hyrox did a week ago in the same dataset — treat this as an unconfirmed precursor, not a launch signal.\n\nSignals\nsig_1: 56 venues categorized under functional-fitness small-box labels across Metro Vancouver (Google Places)\n\nsig_2: 22 tracked Google Trends data points showing rising search velocity for the category\n\nsig_3: Vocabulary consolidation scored only 0.5 — no single term (box, functional studio, training gym) has won yet\n\nsig_4: Composite tracker score 0.63 at 'approaching' stage, below calibration\n\nsig_5: Zero Reddit or community-forum corroboration captured\n\nsig_6: Only two independent source types firing: venue density and search trends\n\nWhat would falsify it\nIf venue count and search velocity plateau over the next two cycles without a dominant naming term emerging, or if growth turns out to be entirely attributable to the already-published Hyrox training-economy build-out, downgrade and archive this as a duplicate rather than a distinct trend.",
+      "date_published": "2026-07-09T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-08-pickleball/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json",

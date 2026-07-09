@@ -15,6 +15,15 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260709functionalfitnesssmallbox",
+      "kind": "post",
+      "slug": "foreshore-2026-07-09-functional-fitness-smallbox",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json",
+      "digest": "0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce",
+      "signature_path": "/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json.sig"
+    },
+    {
       "id": "obj_foreshore20260708pickleball",
       "kind": "post",
       "slug": "foreshore-2026-07-08-pickleball",
@@ -280,14 +289,14 @@
     {
       "path": "/.well-known/api-catalog",
       "media_type": "application/linkset+json",
-      "sha256": "fa0aeef43d1e233782037a7edd0e94e28389d02c7907874536165b68688f07a9",
-      "byte_length": 18114
+      "sha256": "8bcdcc15050ba8925d199b9f9d9b882f802583657bf9bc4ce67ad75a8e5df799",
+      "byte_length": 18713
     },
     {
       "path": "/feed.json",
       "media_type": "application/json",
-      "sha256": "c739ee8c87e831e81d181eda53b5fb376a99c6e8ca29203e2f487781b0704be4",
-      "byte_length": 62437
+      "sha256": "548d4301ecb4a3d4665d31aa2babd6878ec7b4c190508cd10b8b969c713cc84a",
+      "byte_length": 64800
     },
     {
       "path": "/history/foreshore-2026-05-20-shadow-1/index.html",
@@ -464,34 +473,40 @@
       "byte_length": 5844
     },
     {
+      "path": "/history/foreshore-2026-07-09-functional-fitness-smallbox/index.html",
+      "media_type": "text/html",
+      "sha256": "bfa09d380929da1912401c42629b864b8e18493309dc8dcf5de872047afa3c08",
+      "byte_length": 5878
+    },
+    {
       "path": "/index.html",
       "media_type": "text/html",
-      "sha256": "a4226841028a5df08fb8ec27370e90731031d5532a384dceb0190039f8b46fca",
-      "byte_length": 18371
+      "sha256": "9963fdac88d7d7ab0c94c347ba0876e708731c1e9d1f02bf808ff1f7a3c2f6dd",
+      "byte_length": 18871
     },
     {
       "path": "/llms.txt",
       "media_type": "text/plain",
-      "sha256": "e8b3f363e107fadaae718a0d9f69393e8349009e407eb63bf6c14a09043309a6",
-      "byte_length": 6611
+      "sha256": "da07bafefe6a238052b7affa2d0e67ce886d4415a77c3b8e851cbfd82e6f23b9",
+      "byte_length": 6833
     },
     {
       "path": "/o/aliases.json",
       "media_type": "application/json",
-      "sha256": "08277f1afc0ef1d1a2b3aef3b426f4d43d1c85a4d8d3f98bd6548ecd6acfb6ae",
-      "byte_length": 20603
+      "sha256": "8872495f9a4ad260d1bc3c5648c3987f3656a865d6902f11dfd505d3bdd30e8b",
+      "byte_length": 21371
     },
     {
       "path": "/o/claims.json",
       "media_type": "application/json",
-      "sha256": "70e138033cff3c741b3397648c0d9fe3e2efa1b55480673c5fde3e07446750f2",
-      "byte_length": 45845
+      "sha256": "d1eddc7104b640ecb300d637388104bae16fbdf0208d85246d1129af37f7ba17",
+      "byte_length": 47525
     },
     {
       "path": "/o/index.json",
       "media_type": "application/json",
-      "sha256": "1a85592474f798c7fdad568790ee945d10b7f88899f7ca23f9c5a7867b260df5",
-      "byte_length": 36067
+      "sha256": "d27734daa2ec5ce6ee6148c13d274ab3df901571448acdf494aff7df944875e1",
+      "byte_length": 37400
     },
     {
       "path": "/o/post/foreshore-2026-05-20-shadow-1.json",
@@ -1016,6 +1031,24 @@
       "byte_length": 946
     },
     {
+      "path": "/o/post/foreshore-2026-07-09-functional-fitness-smallbox.json",
+      "media_type": "application/json",
+      "sha256": "d0b40891b4563ae9acaaea42f83d1f0f58c16c8502c7ce6c68c4a6fff845db46",
+      "byte_length": 13617
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json",
+      "media_type": "application/json",
+      "sha256": "d0b40891b4563ae9acaaea42f83d1f0f58c16c8502c7ce6c68c4a6fff845db46",
+      "byte_length": 13617
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "f7805a0837282a894bc0988e08baf144bb645e4250651cd13fc0745674e15c93",
+      "byte_length": 997
+    },
+    {
       "path": "/o/trust.json",
       "media_type": "application/json",
       "sha256": "7a318239389c724f675e4d94117cd7bf61c56094f78f24cc17560bcea5699aae",
@@ -1196,16 +1229,22 @@
       "byte_length": 29763
     },
     {
+      "path": "/p/foreshore-2026-07-09-functional-fitness-smallbox/index.html",
+      "media_type": "text/html",
+      "sha256": "03db4b878528d904629be02499f91365aa5bc441bdf7a6c1bae82ee206ad63ea",
+      "byte_length": 29427
+    },
+    {
       "path": "/rss.xml",
       "media_type": "application/rss+xml",
-      "sha256": "386a8a4c2e9cf522b9942e6f5816c696838261f59025fe65972e19e152e3e480",
-      "byte_length": 20396
+      "sha256": "1cb76b5ea745b50c7d1e43fa3b02f2a6726292811908d31abbe3b8ebb2b2a7b6",
+      "byte_length": 21159
     },
     {
       "path": "/sitemap.xml",
       "media_type": "application/xml",
-      "sha256": "d5bbb229ddf065ca6b62adbc2360a78ea416a1503956b1af239516738bb5c86a",
-      "byte_length": 13412
+      "sha256": "4d4aae2db8a0d045e9281b23502a3d9e4d69a4524b1e89aca80effe13f4b7f28",
+      "byte_length": 13880
     }
   ]
 }
