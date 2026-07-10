@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260710breathwork",
+      "kind": "post",
+      "slug": "foreshore-2026-07-10-breath-work",
+      "title": "Breathing Found Its Name Before It Found Its Chain",
+      "summary": "Breath-work practitioners are showing up across Metro Vancouver with the label already locked — vocabulary consolidation is maxed out even though venue count and geographic spread are still thin, meaning the naming fight that usually drags on for years is already over before the category has scaled.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-10-breath-work.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-10-breath-work@sha256-711d39b99340b3cda39807745189494e85b48cd552292b807448a25134558fb5.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "711d39b99340b3cda39807745189494e85b48cd552292b807448a25134558fb5",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-10T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-10T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-10-breath-work/"
+    },
+    {
       "id": "obj_foreshore20260709functionalfitnesssmallbox",
       "kind": "post",
       "slug": "foreshore-2026-07-09-functional-fitness-smallbox",

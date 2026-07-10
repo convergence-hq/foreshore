@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260710breathwork",
+  "slug": "foreshore-2026-07-10-breath-work",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-10-breath-work.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-10-breath-work@sha256-711d39b99340b3cda39807745189494e85b48cd552292b807448a25134558fb5.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-10T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "711d39b99340b3cda39807745189494e85b48cd552292b807448a25134558fb5",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-10T00:00:00Z",
+    "modified_at": "2026-07-10T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-10-breath-work@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 1,
+            "event_date": "2026-07-10",
+            "evidence_quote": "29 venues mapped across Metro Vancouver; composite 1.0 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Breath-work practitioners — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          },
+          {
+            "confidence": 1,
+            "event_date": "2026-07-10",
+            "evidence_quote": "14 search-velocity records; composite 1.0 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Breath-work practitioners — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          }
+        ],
+        "format": "vocabulary_shift",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "human_action": "Add breath_work to the active watchlist as a naming-rights story rather than a launch story. Commission a light scan of who currently owns the term commercially — studio brand names, app category tags, certification bodies — before a fitness or wellness chain claims 'breath work' as house vocabulary. Do not greenlight a full build brief yet; the venue base is still small and unaudited.",
+        "machine_action": "Continue tracking breath_work in the swell checker. Re-poll Places and Trends in 14 days. Add a Reddit/community-forum source pass, since none has fired yet. Escalate to promote if venue count crosses 50 or a second metro independently corroborates the same vocabulary consolidation.",
+        "methodology_footer": "Derived from Google Places venue density, Google Trends search velocity and vocabulary consolidation scoring, and independent editorial/culture-feed mentions, all restricted to Metro Vancouver via the swell tracker.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-10",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-10",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "breath_work"
+        ],
+        "uncertainty": "Composite score of 1.00 reflects internal tracker calibration, not real-world scale — venue count is modest and unaudited for category purity, so the practices being counted may range from dedicated breath-work studios to yoga and meditation venues that added a breath-work class line."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "evidence_map": [
+          {
+            "confidence": 1,
+            "event_date": "2026-07-10",
+            "evidence_quote": "29 venues mapped across Metro Vancouver; composite 1.0 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Breath-work practitioners — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          },
+          {
+            "confidence": 1,
+            "event_date": "2026-07-10",
+            "evidence_quote": "14 search-velocity records; composite 1.0 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Breath-work practitioners — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          }
+        ],
+        "falsification": "If venue count stays under 40, no Reddit or community corroboration appears within 60 days, and vocabulary consolidation reverts to competing terms, downgrade to archive as noise rather than an early category.",
+        "format": "vocabulary_shift",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "headline": "Breathing Found Its Name Before It Found Its Chain",
+        "human_action": "Add breath_work to the active watchlist as a naming-rights story rather than a launch story. Commission a light scan of who currently owns the term commercially — studio brand names, app category tags, certification bodies — before a fitness or wellness chain claims 'breath work' as house vocabulary. Do not greenlight a full build brief yet; the venue base is still small and unaudited.",
+        "issue_id": "foreshore-2026-07-10-breath-work",
+        "machine_action": "Continue tracking breath_work in the swell checker. Re-poll Places and Trends in 14 days. Add a Reddit/community-forum source pass, since none has fired yet. Escalate to promote if venue count crosses 50 or a second metro independently corroborates the same vocabulary consolidation.",
+        "methodology_footer": "Derived from Google Places venue density, Google Trends search velocity and vocabulary consolidation scoring, and independent editorial/culture-feed mentions, all restricted to Metro Vancouver via the swell tracker.",
+        "product": "foreshore",
+        "publication_date": "2026-07-10",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-10",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "29 venues mapped in Metro Vancouver Google Places data under breath-work-adjacent categories",
+          "14 Google Trends data points showing rising search velocity for the term",
+          "Editorial and culture-feed mentions of breath work arrived independently of the venue and search data — a third, unprompted source type",
+          "Vocabulary consolidation scored at the maximum (1.0): 'breath work' is winning over 'breathing exercises,' 'pranayama,' or generic 'breathing class' framing",
+          "Composite tracker score of 1.00 at very-early stage, support count of 3 source types"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-10",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#breath_work"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Breath-work practitioners are showing up across Metro Vancouver with the label already locked — vocabulary consolidation is maxed out even though venue count and geographic spread are still thin, meaning the naming fight that usually drags on for years is already over before the category has scaled.",
+        "trend_ids": [
+          "breath_work"
+        ],
+        "uncertainty": "Composite score of 1.00 reflects internal tracker calibration, not real-world scale — venue count is modest and unaudited for category purity, so the practices being counted may range from dedicated breath-work studios to yoga and meditation venues that added a breath-work class line."
+      }
+    }
+  },
+  "title": "Breathing Found Its Name Before It Found Its Chain",
+  "summary": "Breath-work practitioners are showing up across Metro Vancouver with the label already locked — vocabulary consolidation is maxed out even though venue count and geographic spread are still thin, meaning the naming fight that usually drags on for years is already over before the category has scaled.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Breath-work practitioners are showing up across Metro Vancouver with the label already locked — vocabulary consolidation is maxed out even though venue count and geographic spread are still thin, meaning the naming fight that usually drags on for years is already over before the category has scaled.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-07-10",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-10-breath-work@v1",
+      "falsification": "If venue count stays under 40, no Reddit or community corroboration appears within 60 days, and vocabulary consolidation reverts to competing terms, downgrade to archive as noise rather than an early category."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Breathing Found Its Name Before It Found Its Chain",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Breath-work practitioners are showing up across Metro Vancouver with the label already locked — vocabulary consolidation is maxed out even though venue count and geographic spread are still thin, meaning the naming fight that usually drags on for years is already over before the category has scaled.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 29 venues mapped in Metro Vancouver Google Places data under breath-work-adjacent categories\n\nsig_2: 14 Google Trends data points showing rising search velocity for the term\n\nsig_3: Editorial and culture-feed mentions of breath work arrived independently of the venue and search data — a third, unprompted source type\n\nsig_4: Vocabulary consolidation scored at the maximum (1.0): 'breath work' is winning over 'breathing exercises,' 'pranayama,' or generic 'breathing class' framing\n\nsig_5: Composite tracker score of 1.00 at very-early stage, support count of 3 source types",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If venue count stays under 40, no Reddit or community corroboration appears within 60 days, and vocabulary consolidation reverts to competing terms, downgrade to archive as noise rather than an early category.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"Breathing Found Its Name Before It Found Its Chain.\" Convergence Daily. 2026-07-10. Resolve signal://foreshore/claim/foreshore-2026-07-10-breath-work@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-10-breath-work@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-10",
+      "published_at": "2026-07-10T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

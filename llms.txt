@@ -12,6 +12,7 @@ Trend-intelligence for the wellness sector — what the tide is bringing in, pub
 - Optional MCP overlay: https://foreshore.permanentupperclass.com/mcp
 
 ## Objects
+- Breathing Found Its Name Before It Found Its Chain: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-10-breath-work@sha256-711d39b99340b3cda39807745189494e85b48cd552292b807448a25134558fb5.json
 - The Gym Floor That Hasn't Picked a Name Yet: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-09-functional-fitness-smallbox@sha256-0bf755f0b386e8faa2c7c6d3fe1733eba0f1bdb21e2fcc38d2686cc49afbf6ce.json
 - The Quiet Retrofit of Every Tennis Court in Town: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-08-pickleball@sha256-c38b4258c6b5b81a15d2bcd06005b06d71c59c84764fd55111f08bfb16ce304e.json
 - Running Stopped Being a Solo Sport: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-07-run-clubs@sha256-0fcb6120637b5ad23d618f44e358bab3306d13f76eecf240fa63462985c17836.json
