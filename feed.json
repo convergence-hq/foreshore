@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives@sha256-625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-13-f45-alternatives/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives@sha256-625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132.json",
+      "title": "What Moved Into the Empty F45 Studios",
+      "summary": "Forty-three Metro Vancouver venues have adopted \"F45 alternative\" / group-HIIT positioning language during the exact window the incumbent franchise has been shrinking, and the vocabulary has consolidated faster than the venue count has, before any national outlet has framed this as a category; the geography is showing the trade before the trend has a headline.",
+      "content_text": "What Moved Into the Empty F45 Studios\n\nThesis\nForty-three Metro Vancouver venues have adopted \"F45 alternative\" / group-HIIT positioning language during the exact window the incumbent franchise has been shrinking, and the vocabulary has consolidated faster than the venue count has, before any national outlet has framed this as a category; the geography is showing the trade before the trend has a headline.\n\nSignals\nsig_1: places_venue_density\n\nsig_2: google_trends_search_velocity\n\nsig_3: vocabulary_consolidation_maxed\n\nsig_4: zero_reddit_corroboration\n\nsig_5: two_source_type_limit\n\nWhat would falsify it\nIf Reddit and forum corroboration is still at zero after two more tracking cycles, or a manual audit shows most of the 43 venues are generic functional-fitness gyms mislabeled by the Places API rather than deliberately positioned against F45, downgrade to archive.",
+      "date_published": "2026-07-13T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-10-breath-work@sha256-711d39b99340b3cda39807745189494e85b48cd552292b807448a25134558fb5.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-10-breath-work/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-10-breath-work@sha256-711d39b99340b3cda39807745189494e85b48cd552292b807448a25134558fb5.json",

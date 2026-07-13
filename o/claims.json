@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Forty-three Metro Vancouver venues have adopted \"F45 alternative\" / group-HIIT positioning language during the exact window the incumbent franchise has been shrinking, and the vocabulary has consolidated faster than the venue count has, before any national outlet has framed this as a category; the geography is showing the trade before the trend has a headline.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-13",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-13-f45-alternatives@v1",
+      "falsification": "If Reddit and forum corroboration is still at zero after two more tracking cycles, or a manual audit shows most of the 43 venues are generic functional-fitness gyms mislabeled by the Places API rather than deliberately positioned against F45, downgrade to archive.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260713f45alternatives",
+      "object_slug": "foreshore-2026-07-13-f45-alternatives",
+      "object_title": "What Moved Into the Empty F45 Studios",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives@sha256-625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-13-f45-alternatives/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Breath-work practitioners are showing up across Metro Vancouver with the label already locked — vocabulary consolidation is maxed out even though venue count and geographic spread are still thin, meaning the naming fight that usually drags on for years is already over before the category has scaled.",
       "claim_kind": "predictive",
       "confidence": 0.55,

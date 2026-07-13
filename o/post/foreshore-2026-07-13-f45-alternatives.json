@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260713f45alternatives",
+  "slug": "foreshore-2026-07-13-f45-alternatives",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives@sha256-625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-13T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-13T00:00:00Z",
+    "modified_at": "2026-07-13T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-13-f45-alternatives@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.61,
+            "event_date": "2026-07-13",
+            "evidence_quote": "43 venues mapped across Metro Vancouver (Places)",
+            "interpretation": "A meaningful cluster of independently branded group-training venues has formed in one metro faster than national coverage has caught up.",
+            "signal": "F45 alternatives / group HIIT venue density",
+            "source_type": "places_api",
+            "source_url": "https://pft.permanentupperclass.com/swell/#f45_alternatives"
+          },
+          {
+            "confidence": 0.61,
+            "event_date": "2026-07-13",
+            "evidence_quote": "rising Google Trends search velocity; vocabulary consolidation scored at maximum",
+            "interpretation": "Searchers have already settled on \"F45 alternative\" phrasing rather than generic descriptors, even though venue and search volume are both still thin.",
+            "signal": "F45 alternatives search velocity",
+            "source_type": "google_trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#f45_alternatives"
+          }
+        ],
+        "format": "local_signal",
+        "geography": [
+          "Metro Vancouver, BC"
+        ],
+        "human_action": "Send a local scout to the top eight to ten highest-density venue clusters to confirm they're explicitly branding against F45 (signage, class names, intro-offer copy) rather than generic HIIT studios getting swept into the Places category by keyword overlap. Cross-check two or three names against F45's public store-closure list to see if any are literal address reuse.",
+        "machine_action": "Add a Reddit/community-forum pass keyed to \"F45 alternative,\" \"F45 closed,\" and \"F45 replacement\" phrasing; re-run the tracker in two cycles to see whether venue count and a third source type push composite past the 0.65 calibration line the better-corroborated fitness trends have cleared this month.",
+        "methodology_footer": "Sourced from the swell checker's Places / Google Trends / Reddit / culture-feed pipeline. Foreshore holds two-source-type proposals at observing until a third independent source corroborates.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Both active sources (Places, Trends) are healthy. Reddit/community-forum pass has not yet been run against this trend, so the two-source ceiling is a coverage gap, not a source failure.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-07-13",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-13",
+              "notes": "43 venues mapped under group-HIIT / F45-alternative adjacent labels; category purity not manually audited.",
+              "source_name": "Google Places"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-13",
+              "notes": "Only 2 tracked data points, but velocity and vocabulary both scored at maximum.",
+              "source_name": "Google Trends related/rising"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": null,
+              "notes": "Not yet queried against this trend; zero records is a coverage gap, not a confirmed absence of chatter.",
+              "source_name": "Reddit subscriber-delta"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Google Places venue density, Metro Vancouver",
+            "last_error": null,
+            "last_fetched_at": "2026-07-13",
+            "source_type": "places_api",
+            "url": "https://pft.permanentupperclass.com/swell/#f45_alternatives"
+          },
+          {
+            "label": "Google Trends search velocity, F45 alternative / group HIIT terms",
+            "last_error": null,
+            "last_fetched_at": "2026-07-13",
+            "source_type": "google_trends",
+            "url": "https://pft.permanentupperclass.com/swell/#f45_alternatives"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "f45_alternatives"
+        ],
+        "uncertainty": "Only two independent source types (Places, Trends) confirm this; composite sits below the calibration threshold cleared by better-corroborated fitness trends this cycle, and Reddit/community-forum corroboration is at zero. Places category purity is unaudited — venue count may partly reflect generic functional-fitness gyms swept in by keyword overlap rather than deliberate F45-alternative branding."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.61,
+            "event_date": "2026-07-13",
+            "evidence_quote": "43 venues mapped across Metro Vancouver (Places)",
+            "interpretation": "A meaningful cluster of independently branded group-training venues has formed in one metro faster than national coverage has caught up.",
+            "signal": "F45 alternatives / group HIIT venue density",
+            "source_type": "places_api",
+            "source_url": "https://pft.permanentupperclass.com/swell/#f45_alternatives"
+          },
+          {
+            "confidence": 0.61,
+            "event_date": "2026-07-13",
+            "evidence_quote": "rising Google Trends search velocity; vocabulary consolidation scored at maximum",
+            "interpretation": "Searchers have already settled on \"F45 alternative\" phrasing rather than generic descriptors, even though venue and search volume are both still thin.",
+            "signal": "F45 alternatives search velocity",
+            "source_type": "google_trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#f45_alternatives"
+          }
+        ],
+        "falsification": "If Reddit and forum corroboration is still at zero after two more tracking cycles, or a manual audit shows most of the 43 venues are generic functional-fitness gyms mislabeled by the Places API rather than deliberately positioned against F45, downgrade to archive.",
+        "format": "local_signal",
+        "geography": [
+          "Metro Vancouver, BC"
+        ],
+        "headline": "What Moved Into the Empty F45 Studios",
+        "human_action": "Send a local scout to the top eight to ten highest-density venue clusters to confirm they're explicitly branding against F45 (signage, class names, intro-offer copy) rather than generic HIIT studios getting swept into the Places category by keyword overlap. Cross-check two or three names against F45's public store-closure list to see if any are literal address reuse.",
+        "issue_id": "foreshore-2026-07-13-f45-alternatives",
+        "machine_action": "Add a Reddit/community-forum pass keyed to \"F45 alternative,\" \"F45 closed,\" and \"F45 replacement\" phrasing; re-run the tracker in two cycles to see whether venue count and a third source type push composite past the 0.65 calibration line the better-corroborated fitness trends have cleared this month.",
+        "methodology_footer": "Sourced from the swell checker's Places / Google Trends / Reddit / culture-feed pipeline. Foreshore holds two-source-type proposals at observing until a third independent source corroborates.",
+        "product": "foreshore",
+        "publication_date": "2026-07-13",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Both active sources (Places, Trends) are healthy. Reddit/community-forum pass has not yet been run against this trend, so the two-source ceiling is a coverage gap, not a source failure.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-07-13",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-13",
+              "notes": "43 venues mapped under group-HIIT / F45-alternative adjacent labels; category purity not manually audited.",
+              "source_name": "Google Places"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-13",
+              "notes": "Only 2 tracked data points, but velocity and vocabulary both scored at maximum.",
+              "source_name": "Google Trends related/rising"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": null,
+              "notes": "Not yet queried against this trend; zero records is a coverage gap, not a confirmed absence of chatter.",
+              "source_name": "Reddit subscriber-delta"
+            }
+          ]
+        },
+        "signals": [
+          "places_venue_density",
+          "google_trends_search_velocity",
+          "vocabulary_consolidation_maxed",
+          "zero_reddit_corroboration",
+          "two_source_type_limit"
+        ],
+        "source_objects": [
+          {
+            "label": "Google Places venue density, Metro Vancouver",
+            "last_error": null,
+            "last_fetched_at": "2026-07-13",
+            "source_type": "places_api",
+            "url": "https://pft.permanentupperclass.com/swell/#f45_alternatives"
+          },
+          {
+            "label": "Google Trends search velocity, F45 alternative / group HIIT terms",
+            "last_error": null,
+            "last_fetched_at": "2026-07-13",
+            "source_type": "google_trends",
+            "url": "https://pft.permanentupperclass.com/swell/#f45_alternatives"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Forty-three Metro Vancouver venues have adopted \"F45 alternative\" / group-HIIT positioning language during the exact window the incumbent franchise has been shrinking, and the vocabulary has consolidated faster than the venue count has, before any national outlet has framed this as a category; the geography is showing the trade before the trend has a headline.",
+        "trend_ids": [
+          "f45_alternatives"
+        ],
+        "uncertainty": "Only two independent source types (Places, Trends) confirm this; composite sits below the calibration threshold cleared by better-corroborated fitness trends this cycle, and Reddit/community-forum corroboration is at zero. Places category purity is unaudited — venue count may partly reflect generic functional-fitness gyms swept in by keyword overlap rather than deliberate F45-alternative branding."
+      }
+    }
+  },
+  "title": "What Moved Into the Empty F45 Studios",
+  "summary": "Forty-three Metro Vancouver venues have adopted \"F45 alternative\" / group-HIIT positioning language during the exact window the incumbent franchise has been shrinking, and the vocabulary has consolidated faster than the venue count has, before any national outlet has framed this as a category; the geography is showing the trade before the trend has a headline.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Forty-three Metro Vancouver venues have adopted \"F45 alternative\" / group-HIIT positioning language during the exact window the incumbent franchise has been shrinking, and the vocabulary has consolidated faster than the venue count has, before any national outlet has framed this as a category; the geography is showing the trade before the trend has a headline.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-13",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-13-f45-alternatives@v1",
+      "falsification": "If Reddit and forum corroboration is still at zero after two more tracking cycles, or a manual audit shows most of the 43 venues are generic functional-fitness gyms mislabeled by the Places API rather than deliberately positioned against F45, downgrade to archive."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "What Moved Into the Empty F45 Studios",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Forty-three Metro Vancouver venues have adopted \"F45 alternative\" / group-HIIT positioning language during the exact window the incumbent franchise has been shrinking, and the vocabulary has consolidated faster than the venue count has, before any national outlet has framed this as a category; the geography is showing the trade before the trend has a headline.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: places_venue_density\n\nsig_2: google_trends_search_velocity\n\nsig_3: vocabulary_consolidation_maxed\n\nsig_4: zero_reddit_corroboration\n\nsig_5: two_source_type_limit",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If Reddit and forum corroboration is still at zero after two more tracking cycles, or a manual audit shows most of the 43 venues are generic functional-fitness gyms mislabeled by the Places API rather than deliberately positioned against F45, downgrade to archive.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"What Moved Into the Empty F45 Studios.\" Convergence Daily. 2026-07-13. Resolve signal://foreshore/claim/foreshore-2026-07-13-f45-alternatives@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-13-f45-alternatives@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-13",
+      "published_at": "2026-07-13T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

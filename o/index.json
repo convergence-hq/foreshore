@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260713f45alternatives",
+      "kind": "post",
+      "slug": "foreshore-2026-07-13-f45-alternatives",
+      "title": "What Moved Into the Empty F45 Studios",
+      "summary": "Forty-three Metro Vancouver venues have adopted \"F45 alternative\" / group-HIIT positioning language during the exact window the incumbent franchise has been shrinking, and the vocabulary has consolidated faster than the venue count has, before any national outlet has framed this as a category; the geography is showing the trade before the trend has a headline.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives@sha256-625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-13T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-13T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-13-f45-alternatives/"
+    },
+    {
       "id": "obj_foreshore20260710breathwork",
       "kind": "post",
       "slug": "foreshore-2026-07-10-breath-work",
