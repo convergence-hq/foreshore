@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260714padelus",
+  "slug": "foreshore-2026-07-14-padel-us",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-14T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-14T00:00:00Z",
+    "modified_at": "2026-07-14T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-14-padel-us@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.608,
+            "event_date": "2026-07-14",
+            "evidence_quote": "Tracked trend 'Padel (US)' is firing (stage: approaching, composite 0.61). Corroborated across 74 venues mapped across Metro Vancouver (Places); rising Google Trends search velocity.",
+            "interpretation": "Corroborated public-signal movement across two source types, not independent journalistic confirmation, and no vocabulary consolidation yet.",
+            "signal": "Padel (US) (approaching) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#padel_us"
+          },
+          {
+            "confidence": 0.608,
+            "event_date": "2026-07-14",
+            "evidence_quote": "19 tracked Google Trends data points; composite 0.608 at stage approaching; vocabulary consolidation scored 0.0",
+            "interpretation": "Search demand is rising but has not settled on a single public-facing term, consistent with adoption still concentrated in private, closed-membership venues.",
+            "signal": "Padel (US) (approaching) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#padel_us"
+          }
+        ],
+        "format": "rich_people_beta",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "human_action": "Have a stringer call a sample of the 74 mapped venues to establish who is building these courts — private clubs and resorts adding padel as a members' amenity, or public/commercial facilities open to walk-ins — and check membership pricing at three of them to confirm the cost-of-entry gap. Also check whether any market the sport outright as 'padel' versus folding it into existing tennis or squash program listings.",
+        "machine_action": "Queue a re-crawl in 30 days to track whether the vocabulary score moves off 0.0 as courts start marketing under a consistent name, and add reddit/community-forum ingestion to close the source_types gap. Flag if composite crosses 0.65 (the calibration threshold pickleball cleared) before the next issue cycle.",
+        "methodology_footer": "Signal derived from Google Places venue density and Google Trends search velocity across Metro Vancouver, cross-referenced against the tracker's composite scoring model. No editorial, retail, or community-forum sources corroborate at this time.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-14",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-14",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#padel_us"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "padel_us"
+        ],
+        "uncertainty": "Places data cannot distinguish a dedicated padel build from an existing tennis or squash club listing padel as a secondary offering, and a vocabulary score of 0.0 means the term itself has not yet separated from adjacent racquet-sport search behavior — this could resolve into a real infrastructure story or stay a minor amenity line item at existing clubs. Two source types, zero reddit corroboration, and an 'approaching' (sub-calibration) stage keep this below the confidence pickleball reached in this same tracker on 2026-07-08."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.608,
+            "event_date": "2026-07-14",
+            "evidence_quote": "Tracked trend 'Padel (US)' is firing (stage: approaching, composite 0.61). Corroborated across 74 venues mapped across Metro Vancouver (Places); rising Google Trends search velocity.",
+            "interpretation": "Corroborated public-signal movement across two source types, not independent journalistic confirmation, and no vocabulary consolidation yet.",
+            "signal": "Padel (US) (approaching) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#padel_us"
+          },
+          {
+            "confidence": 0.608,
+            "event_date": "2026-07-14",
+            "evidence_quote": "19 tracked Google Trends data points; composite 0.608 at stage approaching; vocabulary consolidation scored 0.0",
+            "interpretation": "Search demand is rising but has not settled on a single public-facing term, consistent with adoption still concentrated in private, closed-membership venues.",
+            "signal": "Padel (US) (approaching) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#padel_us"
+          }
+        ],
+        "falsification": "If a manual audit of the 74 venues shows most are existing tennis or squash clubs simply listing padel as a minor add-on rather than committing dedicated court real estate, or if the vocabulary score stays at 0.0 through the next two crawls while venue count plateaus, downgrade this to noise — the rich-people-beta story requires genuine capital commitment to dedicated courts, not a labeling artifact on existing racquet inventory.",
+        "format": "rich_people_beta",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "headline": "The Glass-Walled Court Behind the Members' Gate",
+        "human_action": "Have a stringer call a sample of the 74 mapped venues to establish who is building these courts — private clubs and resorts adding padel as a members' amenity, or public/commercial facilities open to walk-ins — and check membership pricing at three of them to confirm the cost-of-entry gap. Also check whether any market the sport outright as 'padel' versus folding it into existing tennis or squash program listings.",
+        "issue_id": "foreshore-2026-07-14-padel-us",
+        "machine_action": "Queue a re-crawl in 30 days to track whether the vocabulary score moves off 0.0 as courts start marketing under a consistent name, and add reddit/community-forum ingestion to close the source_types gap. Flag if composite crosses 0.65 (the calibration threshold pickleball cleared) before the next issue cycle.",
+        "methodology_footer": "Signal derived from Google Places venue density and Google Trends search velocity across Metro Vancouver, cross-referenced against the tracker's composite scoring model. No editorial, retail, or community-forum sources corroborate at this time.",
+        "product": "foreshore",
+        "publication_date": "2026-07-14",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-14",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "Google Places: 74 venues across Metro Vancouver now categorized under padel court or racquet-club labels (moderate confidence; category purity unaudited — likely mixes purpose-built padel courts with squash/tennis/racquetball clubs offering it as a new add-on rather than dedicated single-sport builds)",
+          "Google Trends: 19 tracked data points showing rising search velocity for padel-related terms, but vocabulary score is 0.0 — no single descriptor has consolidated the way 'pickleball' or 'hyrox' did in this tracker; search demand is rising ahead of a settled public name",
+          "Reddit / community forums: 0 records — no social corroboration captured, and support_count is 2 (only Places and Trends firing)",
+          "Composite tracker score 0.608 at 'approaching' stage — below the 0.658 'calibration' threshold pickleball cleared in this same tracker on 2026-07-08, meaning padel is earlier in the build-out curve than the last racquet-sport signal this desk ran"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-14",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#padel_us"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Seventy-four padel-adjacent venues have appeared across Metro Vancouver, but the vocabulary consolidation score is flat at zero — the courts are going up inside private clubs and racquet facilities faster than the sport is being named in public, echoing padel's earlier luxury-editorial moment but now showing up as real, measurable infrastructure rather than seasonal styling.",
+        "trend_ids": [
+          "padel_us"
+        ],
+        "uncertainty": "Places data cannot distinguish a dedicated padel build from an existing tennis or squash club listing padel as a secondary offering, and a vocabulary score of 0.0 means the term itself has not yet separated from adjacent racquet-sport search behavior — this could resolve into a real infrastructure story or stay a minor amenity line item at existing clubs. Two source types, zero reddit corroboration, and an 'approaching' (sub-calibration) stage keep this below the confidence pickleball reached in this same tracker on 2026-07-08."
+      }
+    }
+  },
+  "title": "The Glass-Walled Court Behind the Members' Gate",
+  "summary": "Seventy-four padel-adjacent venues have appeared across Metro Vancouver, but the vocabulary consolidation score is flat at zero — the courts are going up inside private clubs and racquet facilities faster than the sport is being named in public, echoing padel's earlier luxury-editorial moment but now showing up as real, measurable infrastructure rather than seasonal styling.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Seventy-four padel-adjacent venues have appeared across Metro Vancouver, but the vocabulary consolidation score is flat at zero — the courts are going up inside private clubs and racquet facilities faster than the sport is being named in public, echoing padel's earlier luxury-editorial moment but now showing up as real, measurable infrastructure rather than seasonal styling.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-14",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-14-padel-us@v1",
+      "falsification": "If a manual audit of the 74 venues shows most are existing tennis or squash clubs simply listing padel as a minor add-on rather than committing dedicated court real estate, or if the vocabulary score stays at 0.0 through the next two crawls while venue count plateaus, downgrade this to noise — the rich-people-beta story requires genuine capital commitment to dedicated courts, not a labeling artifact on existing racquet inventory."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Glass-Walled Court Behind the Members' Gate",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Seventy-four padel-adjacent venues have appeared across Metro Vancouver, but the vocabulary consolidation score is flat at zero — the courts are going up inside private clubs and racquet facilities faster than the sport is being named in public, echoing padel's earlier luxury-editorial moment but now showing up as real, measurable infrastructure rather than seasonal styling.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: Google Places: 74 venues across Metro Vancouver now categorized under padel court or racquet-club labels (moderate confidence; category purity unaudited — likely mixes purpose-built padel courts with squash/tennis/racquetball clubs offering it as a new add-on rather than dedicated single-sport builds)\n\nsig_2: Google Trends: 19 tracked data points showing rising search velocity for padel-related terms, but vocabulary score is 0.0 — no single descriptor has consolidated the way 'pickleball' or 'hyrox' did in this tracker; search demand is rising ahead of a settled public name\n\nsig_3: Reddit / community forums: 0 records — no social corroboration captured, and support_count is 2 (only Places and Trends firing)\n\nsig_4: Composite tracker score 0.608 at 'approaching' stage — below the 0.658 'calibration' threshold pickleball cleared in this same tracker on 2026-07-08, meaning padel is earlier in the build-out curve than the last racquet-sport signal this desk ran",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If a manual audit of the 74 venues shows most are existing tennis or squash clubs simply listing padel as a minor add-on rather than committing dedicated court real estate, or if the vocabulary score stays at 0.0 through the next two crawls while venue count plateaus, downgrade this to noise — the rich-people-beta story requires genuine capital commitment to dedicated courts, not a labeling artifact on existing racquet inventory.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Glass-Walled Court Behind the Members' Gate.\" Convergence Daily. 2026-07-14. Resolve signal://foreshore/claim/foreshore-2026-07-14-padel-us@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-14-padel-us@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-14",
+      "published_at": "2026-07-14T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

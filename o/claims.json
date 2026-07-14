@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Seventy-four padel-adjacent venues have appeared across Metro Vancouver, but the vocabulary consolidation score is flat at zero — the courts are going up inside private clubs and racquet facilities faster than the sport is being named in public, echoing padel's earlier luxury-editorial moment but now showing up as real, measurable infrastructure rather than seasonal styling.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-14",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-14-padel-us@v1",
+      "falsification": "If a manual audit of the 74 venues shows most are existing tennis or squash clubs simply listing padel as a minor add-on rather than committing dedicated court real estate, or if the vocabulary score stays at 0.0 through the next two crawls while venue count plateaus, downgrade this to noise — the rich-people-beta story requires genuine capital commitment to dedicated courts, not a labeling artifact on existing racquet inventory.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260714padelus",
+      "object_slug": "foreshore-2026-07-14-padel-us",
+      "object_title": "The Glass-Walled Court Behind the Members' Gate",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-14-padel-us/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Forty-three Metro Vancouver venues have adopted \"F45 alternative\" / group-HIIT positioning language during the exact window the incumbent franchise has been shrinking, and the vocabulary has consolidated faster than the venue count has, before any national outlet has framed this as a category; the geography is showing the trade before the trend has a headline.",
       "claim_kind": "predictive",
       "confidence": 0.4,

@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-14-padel-us/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json",
+      "title": "The Glass-Walled Court Behind the Members' Gate",
+      "summary": "Seventy-four padel-adjacent venues have appeared across Metro Vancouver, but the vocabulary consolidation score is flat at zero — the courts are going up inside private clubs and racquet facilities faster than the sport is being named in public, echoing padel's earlier luxury-editorial moment but now showing up as real, measurable infrastructure rather than seasonal styling.",
+      "content_text": "The Glass-Walled Court Behind the Members' Gate\n\nThesis\nSeventy-four padel-adjacent venues have appeared across Metro Vancouver, but the vocabulary consolidation score is flat at zero — the courts are going up inside private clubs and racquet facilities faster than the sport is being named in public, echoing padel's earlier luxury-editorial moment but now showing up as real, measurable infrastructure rather than seasonal styling.\n\nSignals\nsig_1: Google Places: 74 venues across Metro Vancouver now categorized under padel court or racquet-club labels (moderate confidence; category purity unaudited — likely mixes purpose-built padel courts with squash/tennis/racquetball clubs offering it as a new add-on rather than dedicated single-sport builds)\n\nsig_2: Google Trends: 19 tracked data points showing rising search velocity for padel-related terms, but vocabulary score is 0.0 — no single descriptor has consolidated the way 'pickleball' or 'hyrox' did in this tracker; search demand is rising ahead of a settled public name\n\nsig_3: Reddit / community forums: 0 records — no social corroboration captured, and support_count is 2 (only Places and Trends firing)\n\nsig_4: Composite tracker score 0.608 at 'approaching' stage — below the 0.658 'calibration' threshold pickleball cleared in this same tracker on 2026-07-08, meaning padel is earlier in the build-out curve than the last racquet-sport signal this desk ran\n\nWhat would falsify it\nIf a manual audit of the 74 venues shows most are existing tennis or squash clubs simply listing padel as a minor add-on rather than committing dedicated court real estate, or if the vocabulary score stays at 0.0 through the next two crawls while venue count plateaus, downgrade this to noise — the rich-people-beta story requires genuine capital commitment to dedicated courts, not a labeling artifact on existing racquet inventory.",
+      "date_published": "2026-07-14T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives@sha256-625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-13-f45-alternatives/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives@sha256-625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132.json",

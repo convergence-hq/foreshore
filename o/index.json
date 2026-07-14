@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260714padelus",
+      "kind": "post",
+      "slug": "foreshore-2026-07-14-padel-us",
+      "title": "The Glass-Walled Court Behind the Members' Gate",
+      "summary": "Seventy-four padel-adjacent venues have appeared across Metro Vancouver, but the vocabulary consolidation score is flat at zero — the courts are going up inside private clubs and racquet facilities faster than the sport is being named in public, echoing padel's earlier luxury-editorial moment but now showing up as real, measurable infrastructure rather than seasonal styling.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-14T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-14T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-14-padel-us/"
+    },
+    {
       "id": "obj_foreshore20260713f45alternatives",
       "kind": "post",
       "slug": "foreshore-2026-07-13-f45-alternatives",
