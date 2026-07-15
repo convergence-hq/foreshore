@@ -15,6 +15,15 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260715hyrox",
+      "kind": "post",
+      "slug": "foreshore-2026-07-15-hyrox",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",
+      "digest": "e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90",
+      "signature_path": "/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json.sig"
+    },
+    {
       "id": "obj_foreshore20260714padelus",
       "kind": "post",
       "slug": "foreshore-2026-07-14-padel-us",
@@ -316,14 +325,14 @@
     {
       "path": "/.well-known/api-catalog",
       "media_type": "application/linkset+json",
-      "sha256": "6733c596f22818807502444d8b7b79768d21fbed358f3d53c43209b888ed2f81",
-      "byte_length": 20428
+      "sha256": "945ea6058c61abb7655525eb5420655133ed3e25ceb58f21b56d61f21c9c05ec",
+      "byte_length": 21009
     },
     {
       "path": "/feed.json",
       "media_type": "application/json",
-      "sha256": "949d8dd9f5c34599b70912bf1d1c7e84493d481a5081a980edc8bfe98304827d",
-      "byte_length": 72325
+      "sha256": "a199198bfc13933c1f754add8c8406f83a62f6e76ffaf0177966d04ee08031c4",
+      "byte_length": 74431
     },
     {
       "path": "/history/foreshore-2026-05-20-shadow-1/index.html",
@@ -524,34 +533,40 @@
       "byte_length": 5852
     },
     {
+      "path": "/history/foreshore-2026-07-15-hyrox/index.html",
+      "media_type": "text/html",
+      "sha256": "5a6e064132492d0c5dd4597a5ff3f1ea5ddba0b375627c4c2ea63b98686edd27",
+      "byte_length": 5858
+    },
+    {
       "path": "/index.html",
       "media_type": "text/html",
-      "sha256": "93101b055d4dd0241d0e322df7d75f9287c3e9bb24499d718b13848f71ca6695",
-      "byte_length": 20532
+      "sha256": "4fab02ff465872fcf66bc5e0438d3b1222fe078da3cfb949b5e0879333cbd38c",
+      "byte_length": 21082
     },
     {
       "path": "/llms.txt",
       "media_type": "text/plain",
-      "sha256": "e793bb9d1622623136deb33e7ad1917f5ee33a4ff95b3e9568256ccc77391d81",
-      "byte_length": 7458
+      "sha256": "3171f3353cb4f2b1c843f4343bfee835d17f692a2f113e31ddd7a653f4384d73",
+      "byte_length": 7671
     },
     {
       "path": "/o/aliases.json",
       "media_type": "application/json",
-      "sha256": "aaf7ec926174a8cccbcc605e22e22a44ee1226aeda59413e1889c9eec1f77d59",
-      "byte_length": 23402
+      "sha256": "f4bdb005994d0ead57376fc81c04d330dd20068657709d5e187f8c19d2a5505f",
+      "byte_length": 24040
     },
     {
       "path": "/o/claims.json",
       "media_type": "application/json",
-      "sha256": "60d2d7e517e803f5117a91b1c0911640699e78f703e180dcf4915dcc77778f15",
-      "byte_length": 52592
+      "sha256": "7f5325d1ea031ba2e37fbf0cb60975cc9ecb05e7921186d287d5f90fedce0e59",
+      "byte_length": 54177
     },
     {
       "path": "/o/index.json",
       "media_type": "application/json",
-      "sha256": "e6cb34eeaeb9031e667ac6be6e74ec896b00df22f61f86b6cbaf7d04bc7e2edb",
-      "byte_length": 41391
+      "sha256": "4ac3a00533500f1d7812992efc762fc11fb79234b71de40e8e817b0bd4b73b2f",
+      "byte_length": 42698
     },
     {
       "path": "/o/post/foreshore-2026-05-20-shadow-1.json",
@@ -1148,6 +1163,24 @@
       "byte_length": 940
     },
     {
+      "path": "/o/post/foreshore-2026-07-15-hyrox.json",
+      "media_type": "application/json",
+      "sha256": "2f6835186cab7c1d6e1d2e1dc70d954d47fb9eaf6ee39ffadecfc3d9646cdc93",
+      "byte_length": 14559
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",
+      "media_type": "application/json",
+      "sha256": "2f6835186cab7c1d6e1d2e1dc70d954d47fb9eaf6ee39ffadecfc3d9646cdc93",
+      "byte_length": 14559
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "c5e6661ec3c6b718f9ee688c19bf320ec240726db4d6143c85c96e4ebd27e883",
+      "byte_length": 931
+    },
+    {
       "path": "/o/trust.json",
       "media_type": "application/json",
       "sha256": "7a318239389c724f675e4d94117cd7bf61c56094f78f24cc17560bcea5699aae",
@@ -1352,16 +1385,22 @@
       "byte_length": 33838
     },
     {
+      "path": "/p/foreshore-2026-07-15-hyrox/index.html",
+      "media_type": "text/html",
+      "sha256": "e6bb69a0d8cf7f1d7eceaac9c5b69c856ff4c1791e771924bf7d29fb9db9f629",
+      "byte_length": 30640
+    },
+    {
       "path": "/rss.xml",
       "media_type": "application/rss+xml",
-      "sha256": "78f2c68c5c85bf79fbb2ec04c6b22b26211a8dce2c7855f4417a2bbd3beadd3e",
-      "byte_length": 23563
+      "sha256": "2a2477b63820a86338cfd5657e449a47c66a5c519926cd7725b39c27092eb4ec",
+      "byte_length": 24354
     },
     {
       "path": "/sitemap.xml",
       "media_type": "application/xml",
-      "sha256": "30e2aa0d7a8133c98ad99cbece2cc3739ce4966c02f0b036f3eb89712773ad65",
-      "byte_length": 15146
+      "sha256": "4b9ca03bef03c72599afce7a56303edc66366c1060638fe46407989869b38e69",
+      "byte_length": 15548
     }
   ]
 }

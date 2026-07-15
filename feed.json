@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-15-hyrox/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",
+      "title": "The race built for the obsessed just rented a strip mall",
+      "summary": "Hyrox spent its first years as a paid, travel-heavy circuit for hybrid athletes willing to fly to an arena and suffer in public; the tracker now shows the training side of that habit crossing into ordinary Metro Vancouver gyms, with venue build-out and search demand both climbing even though the corroboration behind that crossing is still thin.",
+      "content_text": "The race built for the obsessed just rented a strip mall\n\nThesis\nHyrox spent its first years as a paid, travel-heavy circuit for hybrid athletes willing to fly to an arena and suffer in public; the tracker now shows the training side of that habit crossing into ordinary Metro Vancouver gyms, with venue build-out and search demand both climbing even though the corroboration behind that crossing is still thin.\n\nSignals\nsig_1: places_venue_density_42_records\n\nsig_2: google_trends_velocity_16_records\n\nsig_3: vocabulary_consolidation_maxed\n\nsig_4: calibration_stage_crossing\n\nsig_5: single_metro_corroboration\n\nsig_6: zero_reddit_corroboration\n\nsig_7: two_source_type_limit\n\nWhat would falsify it\nIf venue count stalls or reverses over the next two tracker cycles, or if Trends velocity flattens without a third source type ever confirming, downgrade this back to a niche-circuit story rather than a mainstream crossover.",
+      "date_published": "2026-07-15T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-14-padel-us/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json",

@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260715hyrox",
+  "slug": "foreshore-2026-07-15-hyrox",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-15T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-15T00:00:00Z",
+    "modified_at": "2026-07-15T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-15-hyrox@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-15",
+            "evidence_quote": "Corroborated across 42 venues mapped across Metro Vancouver (Places); rising Google Trends search velocity.",
+            "interpretation": "Forty-two venues carrying Hyrox-adjacent training language is enough physical build-out to be a real supply-side response, not a marketing flourish at one flagship gym.",
+            "signal": "Hyrox venue density",
+            "source_type": "places_api",
+            "source_url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-15",
+            "evidence_quote": "Tracked trend 'Hyrox (calibration - mainstream)' is firing (stage: calibration, composite 0.70).",
+            "interpretation": "Search demand is rising in step with venue supply, which is the pairing that usually precedes a category going mainstream rather than staying a niche competitive circuit.",
+            "signal": "Hyrox search velocity",
+            "source_type": "google_trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          }
+        ],
+        "format": "rich_people_beta",
+        "human_action": "Identify which of the 42 mapped Metro Vancouver venues are running dedicated Hyrox-prep blocks versus just bolting the name onto an existing HIIT class, then talk to two or three operators about what a licensed or affiliate training program actually costs to stand up. That's the business, not the race itself.",
+        "machine_action": "Keep the Places and Trends feeds running weekly on the hyrox trend and add Reddit and short-form video ingestion so support_count can move past two source types before this gets treated as anything more than a well-corroborated watch.",
+        "methodology_footer": "Foreshore treats calibration-stage trends with fewer than three independent source types as promotable watchlist material, not confirmed mainstream crossings.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Healthy on both active feeds, but Reddit remains uningested for this trend, capping support_count at 2.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-07-15",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-15",
+              "notes": "42 venue records mapped across Metro Vancouver.",
+              "source_name": "Google Places"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-15",
+              "notes": "16 tracked data points, vocabulary and velocity both scored at maximum.",
+              "source_name": "Google Trends"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": null,
+              "notes": "No records captured for this trend; support_count held at 2 until this fires.",
+              "source_name": "Reddit subscriber-delta"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "Swell tracker — hyrox",
+            "last_error": null,
+            "last_fetched_at": "2026-07-15",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          }
+        ],
+        "state": "promote",
+        "trend_ids": [
+          "hyrox"
+        ],
+        "uncertainty": "Two source types only, both machine-observed (Places and Trends), with zero Reddit or community-forum corroboration and only one metro represented. The composite score clears the tracker's calibration bar, but the support count hasn't widened, so treat the mainstream label as directional, not confirmed."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-15",
+            "evidence_quote": "Corroborated across 42 venues mapped across Metro Vancouver (Places); rising Google Trends search velocity.",
+            "interpretation": "Forty-two venues carrying Hyrox-adjacent training language is enough physical build-out to be a real supply-side response, not a marketing flourish at one flagship gym.",
+            "signal": "Hyrox venue density",
+            "source_type": "places_api",
+            "source_url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-07-15",
+            "evidence_quote": "Tracked trend 'Hyrox (calibration - mainstream)' is firing (stage: calibration, composite 0.70).",
+            "interpretation": "Search demand is rising in step with venue supply, which is the pairing that usually precedes a category going mainstream rather than staying a niche competitive circuit.",
+            "signal": "Hyrox search velocity",
+            "source_type": "google_trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          }
+        ],
+        "falsification": "If venue count stalls or reverses over the next two tracker cycles, or if Trends velocity flattens without a third source type ever confirming, downgrade this back to a niche-circuit story rather than a mainstream crossover.",
+        "format": "rich_people_beta",
+        "headline": "The race built for the obsessed just rented a strip mall",
+        "human_action": "Identify which of the 42 mapped Metro Vancouver venues are running dedicated Hyrox-prep blocks versus just bolting the name onto an existing HIIT class, then talk to two or three operators about what a licensed or affiliate training program actually costs to stand up. That's the business, not the race itself.",
+        "issue_id": "foreshore-2026-07-15-hyrox",
+        "machine_action": "Keep the Places and Trends feeds running weekly on the hyrox trend and add Reddit and short-form video ingestion so support_count can move past two source types before this gets treated as anything more than a well-corroborated watch.",
+        "methodology_footer": "Foreshore treats calibration-stage trends with fewer than three independent source types as promotable watchlist material, not confirmed mainstream crossings.",
+        "product": "foreshore",
+        "publication_date": "2026-07-15",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "Healthy on both active feeds, but Reddit remains uningested for this trend, capping support_count at 2.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-07-15",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-15",
+              "notes": "42 venue records mapped across Metro Vancouver.",
+              "source_name": "Google Places"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-15",
+              "notes": "16 tracked data points, vocabulary and velocity both scored at maximum.",
+              "source_name": "Google Trends"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": null,
+              "notes": "No records captured for this trend; support_count held at 2 until this fires.",
+              "source_name": "Reddit subscriber-delta"
+            }
+          ]
+        },
+        "signals": [
+          "places_venue_density_42_records",
+          "google_trends_velocity_16_records",
+          "vocabulary_consolidation_maxed",
+          "calibration_stage_crossing",
+          "single_metro_corroboration",
+          "zero_reddit_corroboration",
+          "two_source_type_limit"
+        ],
+        "source_objects": [
+          {
+            "label": "Swell tracker — hyrox",
+            "last_error": null,
+            "last_fetched_at": "2026-07-15",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#hyrox"
+          }
+        ],
+        "state": "promote",
+        "thesis": "Hyrox spent its first years as a paid, travel-heavy circuit for hybrid athletes willing to fly to an arena and suffer in public; the tracker now shows the training side of that habit crossing into ordinary Metro Vancouver gyms, with venue build-out and search demand both climbing even though the corroboration behind that crossing is still thin.",
+        "trend_ids": [
+          "hyrox"
+        ],
+        "uncertainty": "Two source types only, both machine-observed (Places and Trends), with zero Reddit or community-forum corroboration and only one metro represented. The composite score clears the tracker's calibration bar, but the support count hasn't widened, so treat the mainstream label as directional, not confirmed."
+      }
+    }
+  },
+  "title": "The race built for the obsessed just rented a strip mall",
+  "summary": "Hyrox spent its first years as a paid, travel-heavy circuit for hybrid athletes willing to fly to an arena and suffer in public; the tracker now shows the training side of that habit crossing into ordinary Metro Vancouver gyms, with venue build-out and search demand both climbing even though the corroboration behind that crossing is still thin.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Hyrox spent its first years as a paid, travel-heavy circuit for hybrid athletes willing to fly to an arena and suffer in public; the tracker now shows the training side of that habit crossing into ordinary Metro Vancouver gyms, with venue build-out and search demand both climbing even though the corroboration behind that crossing is still thin.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-07-15",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-15-hyrox@v1",
+      "falsification": "If venue count stalls or reverses over the next two tracker cycles, or if Trends velocity flattens without a third source type ever confirming, downgrade this back to a niche-circuit story rather than a mainstream crossover."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The race built for the obsessed just rented a strip mall",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Hyrox spent its first years as a paid, travel-heavy circuit for hybrid athletes willing to fly to an arena and suffer in public; the tracker now shows the training side of that habit crossing into ordinary Metro Vancouver gyms, with venue build-out and search demand both climbing even though the corroboration behind that crossing is still thin.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: places_venue_density_42_records\n\nsig_2: google_trends_velocity_16_records\n\nsig_3: vocabulary_consolidation_maxed\n\nsig_4: calibration_stage_crossing\n\nsig_5: single_metro_corroboration\n\nsig_6: zero_reddit_corroboration\n\nsig_7: two_source_type_limit",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If venue count stalls or reverses over the next two tracker cycles, or if Trends velocity flattens without a third source type ever confirming, downgrade this back to a niche-circuit story rather than a mainstream crossover.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The race built for the obsessed just rented a strip mall.\" Convergence Daily. 2026-07-15. Resolve signal://foreshore/claim/foreshore-2026-07-15-hyrox@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-15-hyrox@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-15",
+      "published_at": "2026-07-15T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

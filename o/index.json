@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260715hyrox",
+      "kind": "post",
+      "slug": "foreshore-2026-07-15-hyrox",
+      "title": "The race built for the obsessed just rented a strip mall",
+      "summary": "Hyrox spent its first years as a paid, travel-heavy circuit for hybrid athletes willing to fly to an arena and suffer in public; the tracker now shows the training side of that habit crossing into ordinary Metro Vancouver gyms, with venue build-out and search demand both climbing even though the corroboration behind that crossing is still thin.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-15T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-15T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-15-hyrox/"
+    },
+    {
       "id": "obj_foreshore20260714padelus",
       "kind": "post",
       "slug": "foreshore-2026-07-14-padel-us",
