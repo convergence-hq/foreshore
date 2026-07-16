@@ -39,7 +39,8 @@
     "signal://foreshore/claim/foreshore-2026-07-10-breath-work@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-10-breath-work@sha256-711d39b99340b3cda39807745189494e85b48cd552292b807448a25134558fb5.json",
     "signal://foreshore/claim/foreshore-2026-07-13-f45-alternatives@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives@sha256-625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132.json",
     "signal://foreshore/claim/foreshore-2026-07-14-padel-us@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json",
-    "signal://foreshore/claim/foreshore-2026-07-15-hyrox@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json"
+    "signal://foreshore/claim/foreshore-2026-07-15-hyrox@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",
+    "signal://foreshore/claim/foreshore-2026-07-16-climbing-urban@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json"
   },
   "entries": [
     {
@@ -312,6 +313,14 @@
       "object_id": "obj_foreshore20260715hyrox",
       "object_kind": "post",
       "object_slug": "foreshore-2026-07-15-hyrox",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://foreshore/claim/foreshore-2026-07-16-climbing-urban@v1",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
+      "object_id": "obj_foreshore20260716climbingurban",
+      "object_kind": "post",
+      "object_slug": "foreshore-2026-07-16-climbing-urban",
       "claim_key": "thesis"
     }
   ]

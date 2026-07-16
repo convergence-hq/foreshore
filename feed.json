@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-16-climbing-urban/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
+      "title": "The Warehouse Down the Street Just Grew a Climbing Wall",
+      "summary": "Sixty-three climbing gyms have mapped across Metro Vancouver inside converted big-box retail and warehouse shells, but the vocabulary hasn't consolidated and search demand is still below the threshold this tracker used to clear pickleball — the real estate conversion story is ahead of the sport's own naming.",
+      "content_text": "The Warehouse Down the Street Just Grew a Climbing Wall\n\nThesis\nSixty-three climbing gyms have mapped across Metro Vancouver inside converted big-box retail and warehouse shells, but the vocabulary hasn't consolidated and search demand is still below the threshold this tracker used to clear pickleball — the real estate conversion story is ahead of the sport's own naming.\n\nSignals\nsig_1: 63 venues categorized under climbing gym / bouldering gym / rock gym labels across Metro Vancouver in Google Places data\n\nsig_2: 7 Google Trends data points showing rising search velocity for climbing-gym-adjacent terms\n\nsig_3: Vocabulary consolidation scored 0.0 — no single descriptor (climbing gym, bouldering gym, rock gym) has won out yet\n\nsig_4: Composite tracker score of 0.56 at 'approaching' stage, below the 0.658 calibration threshold pickleball needed to clear in this same tracker\n\nsig_5: Only two independent source types firing (Places, Trends); zero Reddit or community-forum corroboration captured\n\nsig_6: Support count of 2, same structural profile as padel (0.608) — earlier in the build-out curve than trends this desk has already promoted\n\nWhat would falsify it\nIf composite score has not crossed 0.658 within four more tracking cycles, or venue count stalls below 70, downgrade to archive.",
+      "date_published": "2026-07-16T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-15-hyrox/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",

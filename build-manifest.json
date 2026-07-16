@@ -15,6 +15,15 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260716climbingurban",
+      "kind": "post",
+      "slug": "foreshore-2026-07-16-climbing-urban",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
+      "digest": "4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a",
+      "signature_path": "/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json.sig"
+    },
+    {
       "id": "obj_foreshore20260715hyrox",
       "kind": "post",
       "slug": "foreshore-2026-07-15-hyrox",
@@ -325,14 +334,14 @@
     {
       "path": "/.well-known/api-catalog",
       "media_type": "application/linkset+json",
-      "sha256": "945ea6058c61abb7655525eb5420655133ed3e25ceb58f21b56d61f21c9c05ec",
-      "byte_length": 21009
+      "sha256": "0fa366c615173e7a25031994ac8948a31d978cd330bb2a72f006151dd0d90d65",
+      "byte_length": 21606
     },
     {
       "path": "/feed.json",
       "media_type": "application/json",
-      "sha256": "a199198bfc13933c1f754add8c8406f83a62f6e76ffaf0177966d04ee08031c4",
-      "byte_length": 74431
+      "sha256": "872eb3349f725491e1063db9f492f7a5142637c4528c8aa3c3c0484c27005920",
+      "byte_length": 76911
     },
     {
       "path": "/history/foreshore-2026-05-20-shadow-1/index.html",
@@ -539,34 +548,40 @@
       "byte_length": 5858
     },
     {
+      "path": "/history/foreshore-2026-07-16-climbing-urban/index.html",
+      "media_type": "text/html",
+      "sha256": "b2039f455e94d37d063adb3f99d68b42b1aab5f4943ad47ffd6f412de2768eb6",
+      "byte_length": 5873
+    },
+    {
       "path": "/index.html",
       "media_type": "text/html",
-      "sha256": "4fab02ff465872fcf66bc5e0438d3b1222fe078da3cfb949b5e0879333cbd38c",
-      "byte_length": 21082
+      "sha256": "45a6676107e3a96c298647a0ae5e719e9a700e857ee12ecffbc1947b6de594a3",
+      "byte_length": 21615
     },
     {
       "path": "/llms.txt",
       "media_type": "text/plain",
-      "sha256": "3171f3353cb4f2b1c843f4343bfee835d17f692a2f113e31ddd7a653f4384d73",
-      "byte_length": 7671
+      "sha256": "d79b52cd3cd1c0ad2cb56c7d765e302dc2cd052b695afbc5be4ba1e97fc1c922",
+      "byte_length": 7892
     },
     {
       "path": "/o/aliases.json",
       "media_type": "application/json",
-      "sha256": "f4bdb005994d0ead57376fc81c04d330dd20068657709d5e187f8c19d2a5505f",
-      "byte_length": 24040
+      "sha256": "9ac7f96f6838b924deb2e9a65c36fa5e356c9e43bdce91fb91fe7c42a7876a7a",
+      "byte_length": 24731
     },
     {
       "path": "/o/claims.json",
       "media_type": "application/json",
-      "sha256": "7f5325d1ea031ba2e37fbf0cb60975cc9ecb05e7921186d287d5f90fedce0e59",
-      "byte_length": 54177
+      "sha256": "46d342cd25f4cc4781344dca56707f34d7a2212e558db71849d011fd7ef613e2",
+      "byte_length": 55677
     },
     {
       "path": "/o/index.json",
       "media_type": "application/json",
-      "sha256": "4ac3a00533500f1d7812992efc762fc11fb79234b71de40e8e817b0bd4b73b2f",
-      "byte_length": 42698
+      "sha256": "eb7f6b26d71082fdae371ede700e9fea5ec58cd6a988cad224c2fcbd9af44e14",
+      "byte_length": 44013
     },
     {
       "path": "/o/post/foreshore-2026-05-20-shadow-1.json",
@@ -1181,6 +1196,24 @@
       "byte_length": 931
     },
     {
+      "path": "/o/post/foreshore-2026-07-16-climbing-urban.json",
+      "media_type": "application/json",
+      "sha256": "ca3ac94580004016fe7d2f523dd317f5228ca5444724168b58803cda002f17fb",
+      "byte_length": 13607
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
+      "media_type": "application/json",
+      "sha256": "ca3ac94580004016fe7d2f523dd317f5228ca5444724168b58803cda002f17fb",
+      "byte_length": 13607
+    },
+    {
+      "path": "/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "f7e3d8bdd03d172439d76f51a4822535c37b4ba0a9f536c29a0a507e9594d2cc",
+      "byte_length": 958
+    },
+    {
       "path": "/o/trust.json",
       "media_type": "application/json",
       "sha256": "7a318239389c724f675e4d94117cd7bf61c56094f78f24cc17560bcea5699aae",
@@ -1391,16 +1424,22 @@
       "byte_length": 30640
     },
     {
+      "path": "/p/foreshore-2026-07-16-climbing-urban/index.html",
+      "media_type": "text/html",
+      "sha256": "e9ea28ae9062b0b327bfa5a9b43e1b7b55f2ba7d5016985c454907932e7ecd7e",
+      "byte_length": 29636
+    },
+    {
       "path": "/rss.xml",
       "media_type": "application/rss+xml",
-      "sha256": "2a2477b63820a86338cfd5657e449a47c66a5c519926cd7725b39c27092eb4ec",
-      "byte_length": 24354
+      "sha256": "0b0b79f6f42af6ee7f86fb9b4daed8c22f776576571cd29c2404f991e02c7e76",
+      "byte_length": 25137
     },
     {
       "path": "/sitemap.xml",
       "media_type": "application/xml",
-      "sha256": "4b9ca03bef03c72599afce7a56303edc66366c1060638fe46407989869b38e69",
-      "byte_length": 15548
+      "sha256": "229012aa482fc32f1e8a16834930efec3a538c1248c3532081eb9a8dbf847066",
+      "byte_length": 15977
     }
   ]
 }

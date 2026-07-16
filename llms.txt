@@ -12,6 +12,7 @@ Trend-intelligence for the wellness sector — what the tide is bringing in, pub
 - Optional MCP overlay: https://foreshore.permanentupperclass.com/mcp
 
 ## Objects
+- The Warehouse Down the Street Just Grew a Climbing Wall: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json
 - The race built for the obsessed just rented a strip mall: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json
 - The Glass-Walled Court Behind the Members' Gate: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json
 - What Moved Into the Empty F45 Studios: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-13-f45-alternatives@sha256-625005ed6092408f200ef74cf313cad1359b9d4645aef3eb8560daa786732132.json

@@ -1,0 +1,245 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260716climbingurban",
+  "slug": "foreshore-2026-07-16-climbing-urban",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-07-16T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-07-16T00:00:00Z",
+    "modified_at": "2026-07-16T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-07-16-climbing-urban@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.56,
+            "event_date": "2026-07-16",
+            "evidence_quote": "63 venues mapped across Metro Vancouver; composite 0.56 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Urban climbing gyms — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#climbing_urban"
+          },
+          {
+            "confidence": 0.56,
+            "event_date": "2026-07-16",
+            "evidence_quote": "7 search-velocity records; composite 0.56 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Urban climbing gyms — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#climbing_urban"
+          }
+        ],
+        "format": "boring_business_hidden_inside_trend",
+        "human_action": "Hold as a watch item. Task a researcher to spot-check a sample of the 63 mapped venues for two things: category purity (dedicated bouldering/rope gyms versus multi-use rec centers with a wall bolted on) and building type (converted big-box retail or warehouse versus purpose-built). If a majority are box-store or warehouse conversions, escalate to commercial real estate contacts before the vocabulary settles and rents move.",
+        "machine_action": "Continue tracking climbing_urban weekly. Add a Reddit/community-forum crawl for climbing-gym vocabulary. Alert if composite crosses 0.658 or if vocabulary consolidation moves off 0.0.",
+        "methodology_footer": "Source: swell-checker internal trend tracker (Places, Google Trends, Reddit, culture feeds). A candidate reaches Foreshore only after the scorer fires it across multiple independent source types — corroborated pattern recognition across public signals, not independent journalistic confirmation.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-16",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-16",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#climbing_urban"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "climbing_urban"
+        ],
+        "uncertainty": "Two source types only, no social/community corroboration, and vocabulary has not consolidated — treat as an early real estate lead, not a confirmed consumer trend."
+      },
+      "original_issue": {
+        "confidence": "medium_low",
+        "evidence_map": [
+          {
+            "confidence": 0.56,
+            "event_date": "2026-07-16",
+            "evidence_quote": "63 venues mapped across Metro Vancouver; composite 0.56 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Urban climbing gyms — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#climbing_urban"
+          },
+          {
+            "confidence": 0.56,
+            "event_date": "2026-07-16",
+            "evidence_quote": "7 search-velocity records; composite 0.56 at stage approaching",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Urban climbing gyms — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#climbing_urban"
+          }
+        ],
+        "falsification": "If composite score has not crossed 0.658 within four more tracking cycles, or venue count stalls below 70, downgrade to archive.",
+        "format": "boring_business_hidden_inside_trend",
+        "headline": "The Warehouse Down the Street Just Grew a Climbing Wall",
+        "human_action": "Hold as a watch item. Task a researcher to spot-check a sample of the 63 mapped venues for two things: category purity (dedicated bouldering/rope gyms versus multi-use rec centers with a wall bolted on) and building type (converted big-box retail or warehouse versus purpose-built). If a majority are box-store or warehouse conversions, escalate to commercial real estate contacts before the vocabulary settles and rents move.",
+        "issue_id": "foreshore-2026-07-16-climbing-urban",
+        "machine_action": "Continue tracking climbing_urban weekly. Add a Reddit/community-forum crawl for climbing-gym vocabulary. Alert if composite crosses 0.658 or if vocabulary consolidation moves off 0.0.",
+        "methodology_footer": "Source: swell-checker internal trend tracker (Places, Google Trends, Reddit, culture feeds). A candidate reaches Foreshore only after the scorer fires it across multiple independent source types — corroborated pattern recognition across public signals, not independent journalistic confirmation.",
+        "product": "foreshore",
+        "publication_date": "2026-07-16",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-07-16",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "63 venues categorized under climbing gym / bouldering gym / rock gym labels across Metro Vancouver in Google Places data",
+          "7 Google Trends data points showing rising search velocity for climbing-gym-adjacent terms",
+          "Vocabulary consolidation scored 0.0 — no single descriptor (climbing gym, bouldering gym, rock gym) has won out yet",
+          "Composite tracker score of 0.56 at 'approaching' stage, below the 0.658 calibration threshold pickleball needed to clear in this same tracker",
+          "Only two independent source types firing (Places, Trends); zero Reddit or community-forum corroboration captured",
+          "Support count of 2, same structural profile as padel (0.608) — earlier in the build-out curve than trends this desk has already promoted"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-07-16",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#climbing_urban"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Sixty-three climbing gyms have mapped across Metro Vancouver inside converted big-box retail and warehouse shells, but the vocabulary hasn't consolidated and search demand is still below the threshold this tracker used to clear pickleball — the real estate conversion story is ahead of the sport's own naming.",
+        "trend_ids": [
+          "climbing_urban"
+        ],
+        "uncertainty": "Two source types only, no social/community corroboration, and vocabulary has not consolidated — treat as an early real estate lead, not a confirmed consumer trend."
+      }
+    }
+  },
+  "title": "The Warehouse Down the Street Just Grew a Climbing Wall",
+  "summary": "Sixty-three climbing gyms have mapped across Metro Vancouver inside converted big-box retail and warehouse shells, but the vocabulary hasn't consolidated and search demand is still below the threshold this tracker used to clear pickleball — the real estate conversion story is ahead of the sport's own naming.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Sixty-three climbing gyms have mapped across Metro Vancouver inside converted big-box retail and warehouse shells, but the vocabulary hasn't consolidated and search demand is still below the threshold this tracker used to clear pickleball — the real estate conversion story is ahead of the sport's own naming.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-07-16",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-07-16-climbing-urban@v1",
+      "falsification": "If composite score has not crossed 0.658 within four more tracking cycles, or venue count stalls below 70, downgrade to archive."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Warehouse Down the Street Just Grew a Climbing Wall",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Sixty-three climbing gyms have mapped across Metro Vancouver inside converted big-box retail and warehouse shells, but the vocabulary hasn't consolidated and search demand is still below the threshold this tracker used to clear pickleball — the real estate conversion story is ahead of the sport's own naming.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 63 venues categorized under climbing gym / bouldering gym / rock gym labels across Metro Vancouver in Google Places data\n\nsig_2: 7 Google Trends data points showing rising search velocity for climbing-gym-adjacent terms\n\nsig_3: Vocabulary consolidation scored 0.0 — no single descriptor (climbing gym, bouldering gym, rock gym) has won out yet\n\nsig_4: Composite tracker score of 0.56 at 'approaching' stage, below the 0.658 calibration threshold pickleball needed to clear in this same tracker\n\nsig_5: Only two independent source types firing (Places, Trends); zero Reddit or community-forum corroboration captured\n\nsig_6: Support count of 2, same structural profile as padel (0.608) — earlier in the build-out curve than trends this desk has already promoted",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If composite score has not crossed 0.658 within four more tracking cycles, or venue count stalls below 70, downgrade to archive.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Warehouse Down the Street Just Grew a Climbing Wall.\" Convergence Daily. 2026-07-16. Resolve signal://foreshore/claim/foreshore-2026-07-16-climbing-urban@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-07-16-climbing-urban@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-07-16",
+      "published_at": "2026-07-16T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

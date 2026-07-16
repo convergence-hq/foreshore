@@ -33,6 +33,16 @@
       ],
       "item": [
         {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban.json",
+          "type": "application/json",
+          "title": "The Warehouse Down the Street Just Grew a Climbing Wall latest object"
+        },
+        {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
+          "type": "application/json",
+          "title": "The Warehouse Down the Street Just Grew a Climbing Wall immutable object"
+        },
+        {
           "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox.json",
           "type": "application/json",
           "title": "The race built for the obsessed just rented a strip mall latest object"

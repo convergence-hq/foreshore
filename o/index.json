@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260716climbingurban",
+      "kind": "post",
+      "slug": "foreshore-2026-07-16-climbing-urban",
+      "title": "The Warehouse Down the Street Just Grew a Climbing Wall",
+      "summary": "Sixty-three climbing gyms have mapped across Metro Vancouver inside converted big-box retail and warehouse shells, but the vocabulary hasn't consolidated and search demand is still below the threshold this tracker used to clear pickleball — the real estate conversion story is ahead of the sport's own naming.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-16T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-16T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-16-climbing-urban/"
+    },
+    {
       "id": "obj_foreshore20260715hyrox",
       "kind": "post",
       "slug": "foreshore-2026-07-15-hyrox",
