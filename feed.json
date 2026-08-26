@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-26-social-sauna/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json",
+      "title": "The Sauna Word Beat the Sauna Business to Market",
+      "summary": "Forty-one venues have mapped across Metro Vancouver under a 'social sauna' label whose vocabulary has already fully consolidated, even though the tracker is still at its earliest confirmed stage and only two of three independent source types have fired.",
+      "content_text": "The Sauna Word Beat the Sauna Business to Market\n\nThesis\nForty-one venues have mapped across Metro Vancouver under a 'social sauna' label whose vocabulary has already fully consolidated, even though the tracker is still at its earliest confirmed stage and only two of three independent source types have fired.\n\nSignals\nsig_1: 41 venues mapped across Metro Vancouver under social-sauna-adjacent categories in Google Places data\n\nsig_2: 18 Google Trends data points showing rising search velocity for the term\n\nsig_3: Vocabulary consolidation score at maximum (1.0) — a single descriptor has already won, unlike comparable trackers at this stage\n\nsig_4: Geographic spread score at maximum (1.0) across the metro rather than clustered in one neighborhood\n\nsig_5: Composite tracker score of 0.824 at very_early stage\n\nsig_6: Only two independent source types firing (Places, Trends) — zero Reddit or community-forum corroboration captured\n\nsig_7: Support count of 2, same structural limit as several prior candidates in this tracker\n\nWhat would falsify it\nIf venue count plateaus without crossing into new metros, or if Trends velocity reverses over the next two read cycles, or if a competing descriptor (e.g. 'bathhouse club', 'sweat social') starts splitting search share, downgrade the vocabulary-shift read.",
+      "date_published": "2026-08-26T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-07-16-climbing-urban/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",

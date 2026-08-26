@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Forty-one venues have mapped across Metro Vancouver under a 'social sauna' label whose vocabulary has already fully consolidated, even though the tracker is still at its earliest confirmed stage and only two of three independent source types have fired.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-08-26",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-08-26-social-sauna@v1",
+      "falsification": "If venue count plateaus without crossing into new metros, or if Trends velocity reverses over the next two read cycles, or if a competing descriptor (e.g. 'bathhouse club', 'sweat social') starts splitting search share, downgrade the vocabulary-shift read.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260826socialsauna",
+      "object_slug": "foreshore-2026-08-26-social-sauna",
+      "object_title": "The Sauna Word Beat the Sauna Business to Market",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-26-social-sauna/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Sixty-three climbing gyms have mapped across Metro Vancouver inside converted big-box retail and warehouse shells, but the vocabulary hasn't consolidated and search demand is still below the threshold this tracker used to clear pickleball — the real estate conversion story is ahead of the sport's own naming.",
       "claim_kind": "predictive",
       "confidence": 0.4,

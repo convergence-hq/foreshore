@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260826socialsauna",
+  "slug": "foreshore-2026-08-26-social-sauna",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-08-26T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-08-26T00:00:00Z",
+    "modified_at": "2026-08-26T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-08-26-social-sauna@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.824,
+            "event_date": "2026-08-26",
+            "evidence_quote": "41 venues mapped across Metro Vancouver; composite 0.824 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Social sauna clubs — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          },
+          {
+            "confidence": 0.824,
+            "event_date": "2026-08-26",
+            "evidence_quote": "18 search-velocity records; composite 0.824 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Social sauna clubs — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          }
+        ],
+        "format": "vocabulary_shift",
+        "human_action": "Watch for a third source type (community forum, editorial, or booking-platform mention) before treating this as investable; in the meantime, scope who could credibly own the 'social sauna' name and format nationally before a franchise operator claims it.",
+        "machine_action": "continue_tracking",
+        "methodology_footer": "Sourced from the internal swell tracker (Google Places venue density + Google Trends search velocity, Metro Vancouver). Composite scoring and vocabulary consolidation are tracker-internal metrics; see signal_health for the full breakdown.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-26",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-08-26",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "social_sauna"
+        ],
+        "uncertainty": "Category purity on the 41 Places records is unaudited — the label likely mixes purpose-built social sauna venues with traditional spas and wellness centers that have simply adopted the term for listings. Zero Reddit or forum corroboration means there is no read yet on whether this is consumer-driven demand or supply-side relabeling."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "evidence_map": [
+          {
+            "confidence": 0.824,
+            "event_date": "2026-08-26",
+            "evidence_quote": "41 venues mapped across Metro Vancouver; composite 0.824 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Social sauna clubs — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          },
+          {
+            "confidence": 0.824,
+            "event_date": "2026-08-26",
+            "evidence_quote": "18 search-velocity records; composite 0.824 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Social sauna clubs — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          }
+        ],
+        "falsification": "If venue count plateaus without crossing into new metros, or if Trends velocity reverses over the next two read cycles, or if a competing descriptor (e.g. 'bathhouse club', 'sweat social') starts splitting search share, downgrade the vocabulary-shift read.",
+        "format": "vocabulary_shift",
+        "headline": "The Sauna Word Beat the Sauna Business to Market",
+        "human_action": "Watch for a third source type (community forum, editorial, or booking-platform mention) before treating this as investable; in the meantime, scope who could credibly own the 'social sauna' name and format nationally before a franchise operator claims it.",
+        "issue_id": "foreshore-2026-08-26-social-sauna",
+        "machine_action": "continue_tracking",
+        "methodology_footer": "Sourced from the internal swell tracker (Google Places venue density + Google Trends search velocity, Metro Vancouver). Composite scoring and vocabulary consolidation are tracker-internal metrics; see signal_health for the full breakdown.",
+        "product": "foreshore",
+        "publication_date": "2026-08-26",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-26",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "41 venues mapped across Metro Vancouver under social-sauna-adjacent categories in Google Places data",
+          "18 Google Trends data points showing rising search velocity for the term",
+          "Vocabulary consolidation score at maximum (1.0) — a single descriptor has already won, unlike comparable trackers at this stage",
+          "Geographic spread score at maximum (1.0) across the metro rather than clustered in one neighborhood",
+          "Composite tracker score of 0.824 at very_early stage",
+          "Only two independent source types firing (Places, Trends) — zero Reddit or community-forum corroboration captured",
+          "Support count of 2, same structural limit as several prior candidates in this tracker"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-08-26",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#social_sauna"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Forty-one venues have mapped across Metro Vancouver under a 'social sauna' label whose vocabulary has already fully consolidated, even though the tracker is still at its earliest confirmed stage and only two of three independent source types have fired.",
+        "trend_ids": [
+          "social_sauna"
+        ],
+        "uncertainty": "Category purity on the 41 Places records is unaudited — the label likely mixes purpose-built social sauna venues with traditional spas and wellness centers that have simply adopted the term for listings. Zero Reddit or forum corroboration means there is no read yet on whether this is consumer-driven demand or supply-side relabeling."
+      }
+    }
+  },
+  "title": "The Sauna Word Beat the Sauna Business to Market",
+  "summary": "Forty-one venues have mapped across Metro Vancouver under a 'social sauna' label whose vocabulary has already fully consolidated, even though the tracker is still at its earliest confirmed stage and only two of three independent source types have fired.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Forty-one venues have mapped across Metro Vancouver under a 'social sauna' label whose vocabulary has already fully consolidated, even though the tracker is still at its earliest confirmed stage and only two of three independent source types have fired.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-08-26",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-08-26-social-sauna@v1",
+      "falsification": "If venue count plateaus without crossing into new metros, or if Trends velocity reverses over the next two read cycles, or if a competing descriptor (e.g. 'bathhouse club', 'sweat social') starts splitting search share, downgrade the vocabulary-shift read."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Sauna Word Beat the Sauna Business to Market",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Forty-one venues have mapped across Metro Vancouver under a 'social sauna' label whose vocabulary has already fully consolidated, even though the tracker is still at its earliest confirmed stage and only two of three independent source types have fired.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 41 venues mapped across Metro Vancouver under social-sauna-adjacent categories in Google Places data\n\nsig_2: 18 Google Trends data points showing rising search velocity for the term\n\nsig_3: Vocabulary consolidation score at maximum (1.0) — a single descriptor has already won, unlike comparable trackers at this stage\n\nsig_4: Geographic spread score at maximum (1.0) across the metro rather than clustered in one neighborhood\n\nsig_5: Composite tracker score of 0.824 at very_early stage\n\nsig_6: Only two independent source types firing (Places, Trends) — zero Reddit or community-forum corroboration captured\n\nsig_7: Support count of 2, same structural limit as several prior candidates in this tracker",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "If venue count plateaus without crossing into new metros, or if Trends velocity reverses over the next two read cycles, or if a competing descriptor (e.g. 'bathhouse club', 'sweat social') starts splitting search share, downgrade the vocabulary-shift read.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Sauna Word Beat the Sauna Business to Market.\" Convergence Daily. 2026-08-26. Resolve signal://foreshore/claim/foreshore-2026-08-26-social-sauna@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-08-26-social-sauna@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-08-26",
+      "published_at": "2026-08-26T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

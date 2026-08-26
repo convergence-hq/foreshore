@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260826socialsauna",
+      "kind": "post",
+      "slug": "foreshore-2026-08-26-social-sauna",
+      "title": "The Sauna Word Beat the Sauna Business to Market",
+      "summary": "Forty-one venues have mapped across Metro Vancouver under a 'social sauna' label whose vocabulary has already fully consolidated, even though the tracker is still at its earliest confirmed stage and only two of three independent source types have fired.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-08-26T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-08-26T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-26-social-sauna/"
+    },
+    {
       "id": "obj_foreshore20260716climbingurban",
       "kind": "post",
       "slug": "foreshore-2026-07-16-climbing-urban",
