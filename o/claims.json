@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Longevity clinics are showing early but unusually coherent signs in Metro Vancouver: 43 mapped venues, rising search velocity, consolidated vocabulary, and editorial/culture-feed mentions. The signal is still tracker-led and geography-bound, but the shape points to affluent health optimizers turning preventive medicine into a recurring retail service.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-08-27",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-08-27-longevity-clinics@v1",
+      "falsification": "Downgrade if venue growth stalls, search velocity rolls over, or manual review shows the 43 Places records are mostly legacy wellness and aesthetic medicine businesses relabeled as longevity without new service packaging.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260827longevityclinics",
+      "object_slug": "foreshore-2026-08-27-longevity-clinics",
+      "object_title": "The Checkup Became a Membership",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics@sha256-20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-27-longevity-clinics/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Forty-one venues have mapped across Metro Vancouver under a 'social sauna' label whose vocabulary has already fully consolidated, even though the tracker is still at its earliest confirmed stage and only two of three independent source types have fired.",
       "claim_kind": "predictive",
       "confidence": 0.72,

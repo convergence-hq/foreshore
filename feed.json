@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics@sha256-20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-27-longevity-clinics/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics@sha256-20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d.json",
+      "title": "The Checkup Became a Membership",
+      "summary": "Longevity clinics are showing early but unusually coherent signs in Metro Vancouver: 43 mapped venues, rising search velocity, consolidated vocabulary, and editorial/culture-feed mentions.",
+      "content_text": "The Checkup Became a Membership\n\nThesis\nLongevity clinics are showing early but unusually coherent signs in Metro Vancouver: 43 mapped venues, rising search velocity, consolidated vocabulary, and editorial/culture-feed mentions. The signal is still tracker-led and geography-bound, but the shape points to affluent health optimizers turning preventive medicine into a recurring retail service.\n\nSignals\nsig_1: 43 longevity-clinic venues mapped across Metro Vancouver in Places data. (strength: moderate)\n\nsig_2: 21 tracked Google Trends records show rising search velocity for longevity-clinic terms. (strength: moderate)\n\nsig_3: Editorial and culture-feed mentions arrived alongside venue and search data, giving a third source type. (strength: weak_to_moderate)\n\nWhat would falsify it\nDowngrade if venue growth stalls, search velocity rolls over, or manual review shows the 43 Places records are mostly legacy wellness and aesthetic medicine businesses relabeled as longevity without new service packaging.",
+      "date_published": "2026-08-27T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-26-social-sauna/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json",

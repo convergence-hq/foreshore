@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260827longevityclinics",
+  "slug": "foreshore-2026-08-27-longevity-clinics",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics@sha256-20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-08-27T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-08-27T00:00:00Z",
+    "modified_at": "2026-08-27T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-08-27-longevity-clinics@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-08-26",
+            "evidence_quote": "43 venues mapped across Metro Vancouver; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Longevity clinics — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-08-26",
+            "evidence_quote": "21 search-velocity records; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Longevity clinics — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          }
+        ],
+        "format": "rich_people_beta",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "human_action": "Review the venue list for category purity: separate true longevity clinics from med spas, naturopaths, hormone clinics, IV bars, diagnostics labs, and general wellness providers using the term opportunistically.",
+        "machine_action": "Monitor Metro Vancouver and two comparison metros for changes in venue count, query velocity, appointment-language vocabulary, and emergence of operator-specific service bundles such as biomarkers, DEXA, VO2 max, hormones, peptides, and concierge follow-up.",
+        "methodology_footer": "Based on the internal Swell tracker snapshot supplied for 2026-08-27.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-27",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-08-26",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "longevity_clinics"
+        ],
+        "uncertainty": "This is a strong-looking early local signal, not yet a national demand claim. The most important uncertainty is whether the Places records represent new longevity-specific operators or old wellness inventory adopting a hotter descriptor."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-08-26",
+            "evidence_quote": "43 venues mapped across Metro Vancouver; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Longevity clinics — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-08-26",
+            "evidence_quote": "21 search-velocity records; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Longevity clinics — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          }
+        ],
+        "falsification": "Downgrade if venue growth stalls, search velocity rolls over, or manual review shows the 43 Places records are mostly legacy wellness and aesthetic medicine businesses relabeled as longevity without new service packaging.",
+        "format": "rich_people_beta",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "headline": "The Checkup Became a Membership",
+        "human_action": "Review the venue list for category purity: separate true longevity clinics from med spas, naturopaths, hormone clinics, IV bars, diagnostics labs, and general wellness providers using the term opportunistically.",
+        "issue_id": "foreshore-2026-08-27-longevity-clinics",
+        "machine_action": "Monitor Metro Vancouver and two comparison metros for changes in venue count, query velocity, appointment-language vocabulary, and emergence of operator-specific service bundles such as biomarkers, DEXA, VO2 max, hormones, peptides, and concierge follow-up.",
+        "methodology_footer": "Based on the internal Swell tracker snapshot supplied for 2026-08-27.",
+        "product": "foreshore",
+        "publication_date": "2026-08-27",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-27",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'type': 'places_geo_density', 'description': '43 longevity-clinic venues mapped across Metro Vancouver in Places data.', 'strength': 'moderate', 'source_url': 'https://pft.permanentupperclass.com/swell/#longevity_clinics'}",
+          "{'type': 'google_trends', 'description': '21 tracked Google Trends records show rising search velocity for longevity-clinic terms.', 'strength': 'moderate', 'source_url': 'https://pft.permanentupperclass.com/swell/#longevity_clinics'}",
+          "{'type': 'editorial_culture_feed', 'description': 'Editorial and culture-feed mentions arrived alongside venue and search data, giving a third source type.', 'strength': 'weak_to_moderate', 'source_url': 'https://pft.permanentupperclass.com/swell/#longevity_clinics'}"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-08-26",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#longevity_clinics"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Longevity clinics are showing early but unusually coherent signs in Metro Vancouver: 43 mapped venues, rising search velocity, consolidated vocabulary, and editorial/culture-feed mentions. The signal is still tracker-led and geography-bound, but the shape points to affluent health optimizers turning preventive medicine into a recurring retail service.",
+        "trend_ids": [
+          "longevity_clinics"
+        ],
+        "uncertainty": "This is a strong-looking early local signal, not yet a national demand claim. The most important uncertainty is whether the Places records represent new longevity-specific operators or old wellness inventory adopting a hotter descriptor."
+      }
+    }
+  },
+  "title": "The Checkup Became a Membership",
+  "summary": "Longevity clinics are showing early but unusually coherent signs in Metro Vancouver: 43 mapped venues, rising search velocity, consolidated vocabulary, and editorial/culture-feed mentions.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Longevity clinics are showing early but unusually coherent signs in Metro Vancouver: 43 mapped venues, rising search velocity, consolidated vocabulary, and editorial/culture-feed mentions. The signal is still tracker-led and geography-bound, but the shape points to affluent health optimizers turning preventive medicine into a recurring retail service.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-08-27",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-08-27-longevity-clinics@v1",
+      "falsification": "Downgrade if venue growth stalls, search velocity rolls over, or manual review shows the 43 Places records are mostly legacy wellness and aesthetic medicine businesses relabeled as longevity without new service packaging."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Checkup Became a Membership",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Longevity clinics are showing early but unusually coherent signs in Metro Vancouver: 43 mapped venues, rising search velocity, consolidated vocabulary, and editorial/culture-feed mentions. The signal is still tracker-led and geography-bound, but the shape points to affluent health optimizers turning preventive medicine into a recurring retail service.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 43 longevity-clinic venues mapped across Metro Vancouver in Places data. (strength: moderate)\n\nsig_2: 21 tracked Google Trends records show rising search velocity for longevity-clinic terms. (strength: moderate)\n\nsig_3: Editorial and culture-feed mentions arrived alongside venue and search data, giving a third source type. (strength: weak_to_moderate)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Downgrade if venue growth stalls, search velocity rolls over, or manual review shows the 43 Places records are mostly legacy wellness and aesthetic medicine businesses relabeled as longevity without new service packaging.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Checkup Became a Membership.\" Convergence Daily. 2026-08-27. Resolve signal://foreshore/claim/foreshore-2026-08-27-longevity-clinics@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-08-27-longevity-clinics@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-08-27",
+      "published_at": "2026-08-27T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

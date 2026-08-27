@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260827longevityclinics",
+      "kind": "post",
+      "slug": "foreshore-2026-08-27-longevity-clinics",
+      "title": "The Checkup Became a Membership",
+      "summary": "Longevity clinics are showing early but unusually coherent signs in Metro Vancouver: 43 mapped venues, rising search velocity, consolidated vocabulary, and editorial/culture-feed mentions.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics@sha256-20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-08-27T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-08-27T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-27-longevity-clinics/"
+    },
+    {
       "id": "obj_foreshore20260826socialsauna",
       "kind": "post",
       "slug": "foreshore-2026-08-26-social-sauna",

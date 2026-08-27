@@ -41,7 +41,8 @@
     "signal://foreshore/claim/foreshore-2026-07-14-padel-us@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-14-padel-us@sha256-3f1945c125b104238499bc40089e9808a6ff959c5253abdc07829c83513f018c.json",
     "signal://foreshore/claim/foreshore-2026-07-15-hyrox@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json",
     "signal://foreshore/claim/foreshore-2026-07-16-climbing-urban@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json",
-    "signal://foreshore/claim/foreshore-2026-08-26-social-sauna@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json"
+    "signal://foreshore/claim/foreshore-2026-08-26-social-sauna@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json",
+    "signal://foreshore/claim/foreshore-2026-08-27-longevity-clinics@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics@sha256-20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d.json"
   },
   "entries": [
     {
@@ -330,6 +331,14 @@
       "object_id": "obj_foreshore20260826socialsauna",
       "object_kind": "post",
       "object_slug": "foreshore-2026-08-26-social-sauna",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://foreshore/claim/foreshore-2026-08-27-longevity-clinics@v1",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics@sha256-20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d.json",
+      "object_id": "obj_foreshore20260827longevityclinics",
+      "object_kind": "post",
+      "object_slug": "foreshore-2026-08-27-longevity-clinics",
       "claim_key": "thesis"
     }
   ]

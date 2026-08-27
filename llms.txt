@@ -12,6 +12,7 @@ Trend-intelligence for the wellness sector — what the tide is bringing in, pub
 - Optional MCP overlay: https://foreshore.permanentupperclass.com/mcp
 
 ## Objects
+- The Checkup Became a Membership: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics@sha256-20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d.json
 - The Sauna Word Beat the Sauna Business to Market: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json
 - The Warehouse Down the Street Just Grew a Climbing Wall: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-16-climbing-urban@sha256-4694d327a1a8501f0678174109df4fabd2b7e95dde3da6900e99ce759f77f46a.json
 - The race built for the obsessed just rented a strip mall: https://foreshore.permanentupperclass.com/o/post/foreshore-2026-07-15-hyrox@sha256-e4ce577e8e5ceda698e263447f2d4a7298d9fc6b6ec73dd57b4ac713218fef90.json
