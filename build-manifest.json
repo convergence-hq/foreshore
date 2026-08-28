@@ -15,6 +15,15 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260828mahjongleagues",
+      "kind": "post",
+      "slug": "foreshore-2026-08-28-mahjong-leagues",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json",
+      "digest": "705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f",
+      "signature_path": "/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json.sig"
+    },
+    {
       "id": "obj_foreshore20260827longevityclinics",
       "kind": "post",
       "slug": "foreshore-2026-08-27-longevity-clinics",
@@ -352,14 +361,14 @@
     {
       "path": "/.well-known/api-catalog",
       "media_type": "application/linkset+json",
-      "sha256": "f372168c72f9364f6341b31fc6fbd111c7a534bb09a2543ebd34bf5915cb587a",
-      "byte_length": 22740
+      "sha256": "00c25ba123e139ba7ae01416bd2fdda7b3633bc73cfdfda8e26fa1fd07a12b05",
+      "byte_length": 23301
     },
     {
       "path": "/feed.json",
       "media_type": "application/json",
-      "sha256": "d50067747c7c222aaf9a50aeca055f93056c5d75cb6cb7296c3bc05816d0c64a",
-      "byte_length": 81365
+      "sha256": "d16ba20d511b7b1a4ea995acda53dbd1245467cd32eb28c982ec6c95c26f191b",
+      "byte_length": 83331
     },
     {
       "path": "/history/foreshore-2026-05-20-shadow-1/index.html",
@@ -584,34 +593,40 @@
       "byte_length": 5807
     },
     {
+      "path": "/history/foreshore-2026-08-28-mahjong-leagues/index.html",
+      "media_type": "text/html",
+      "sha256": "5c030f861361b8699605ffcd8ecffadbddd2c0bc851663be25a5da676ffd4100",
+      "byte_length": 5818
+    },
+    {
       "path": "/index.html",
       "media_type": "text/html",
-      "sha256": "68f4d80e8e6e2524ed3ee3e287d707fd5c19c45842cfd2369d7d541edd672c01",
-      "byte_length": 22460
+      "sha256": "2bc0e6276fc6896858a7b32b0c8af8e9e96c4cd192889505a0dd7e59211e2d34",
+      "byte_length": 22859
     },
     {
       "path": "/llms.txt",
       "media_type": "text/plain",
-      "sha256": "5775d8f9ab55a9e78ab20d1bcde3505ee7206e79de3bb89d49c9dddd5db3ad6c",
-      "byte_length": 8304
+      "sha256": "d9f6154d7367086fb5719de3ccd27a35957583f4efe75e81320f7f66ded5a787",
+      "byte_length": 8507
     },
     {
       "path": "/o/aliases.json",
       "media_type": "application/json",
-      "sha256": "f2ef770d180ee90c946a450fe7a9c7347fe58a55baee16300614cfce5eaaf8d5",
-      "byte_length": 26119
+      "sha256": "ce61dd5c15ce15e89e96ae334dbb4abd457d7298b84efca6a99cc2ac19e3a108",
+      "byte_length": 26816
     },
     {
       "path": "/o/claims.json",
       "media_type": "application/json",
-      "sha256": "2a95a9d998bb82280f89789179d2c2ccbfadbd259ab4583dd886caee5c614937",
-      "byte_length": 58855
+      "sha256": "90c30a70ef66b9924e2eb2ce6599c141face5759e8f14042300f950065a7f45d",
+      "byte_length": 60469
     },
     {
       "path": "/o/index.json",
       "media_type": "application/json",
-      "sha256": "c502a40c2d04d7c2870af79f8ca0372d013f5423fcce82fb8620ef9273d5cbe3",
-      "byte_length": 46436
+      "sha256": "e5d2bc40e70ce12cdaa82d037e7f93003cdc3865d0684fa26cc23ddc1ad8efda",
+      "byte_length": 47631
     },
     {
       "path": "/o/post/foreshore-2026-05-20-shadow-1.json",
@@ -1280,6 +1295,24 @@
       "byte_length": 967
     },
     {
+      "path": "/o/post/foreshore-2026-08-28-mahjong-leagues.json",
+      "media_type": "application/json",
+      "sha256": "de9c740a425da491dc68b757aeec98b328d19c602604b133c5afea6745fa0d29",
+      "byte_length": 12784
+    },
+    {
+      "path": "/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json",
+      "media_type": "application/json",
+      "sha256": "de9c740a425da491dc68b757aeec98b328d19c602604b133c5afea6745fa0d29",
+      "byte_length": 12784
+    },
+    {
+      "path": "/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "e9aa84245dd81942f7c15b0325fb2b785d8e0ff9a45d067b776f6d521bedcf35",
+      "byte_length": 961
+    },
+    {
       "path": "/o/trust.json",
       "media_type": "application/json",
       "sha256": "7a318239389c724f675e4d94117cd7bf61c56094f78f24cc17560bcea5699aae",
@@ -1508,16 +1541,22 @@
       "byte_length": 28477
     },
     {
+      "path": "/p/foreshore-2026-08-28-mahjong-leagues/index.html",
+      "media_type": "text/html",
+      "sha256": "8938bf895ca603038ceca7def8135dd4841f9b6fb73f7e5128cee496aa06c7b4",
+      "byte_length": 27612
+    },
+    {
       "path": "/rss.xml",
       "media_type": "application/rss+xml",
-      "sha256": "5a08e7d83c9862d50063eb8e373f404127d15da7cceac0b8af573f3fae692be7",
-      "byte_length": 26483
+      "sha256": "24a6eb76fd33c301a50298a110591fc22b847d34d3f6c6a17584f7409307f368",
+      "byte_length": 27133
     },
     {
       "path": "/sitemap.xml",
       "media_type": "application/xml",
-      "sha256": "f488ae15a22e535be59b6ad80cd27d1aff12fe952eeaa1892e6707045d501c0d",
-      "byte_length": 16838
+      "sha256": "c023d6752261c296ea8a8e006c87f52bdad5fb19d28a70c573eea51a4780b180",
+      "byte_length": 17270
     }
   ]
 }

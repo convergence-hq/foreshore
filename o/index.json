@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260828mahjongleagues",
+      "kind": "post",
+      "slug": "foreshore-2026-08-28-mahjong-leagues",
+      "title": "The Tile Table Found Its Third Place",
+      "summary": "Mahjong leagues are showing early formation in Metro Vancouver, with 23 mapped venues and rising search velocity, but only two source types are firing and no community-forum corroboration has appeared yet.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-08-28T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-08-28T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-28-mahjong-leagues/"
+    },
+    {
       "id": "obj_foreshore20260827longevityclinics",
       "kind": "post",
       "slug": "foreshore-2026-08-27-longevity-clinics",

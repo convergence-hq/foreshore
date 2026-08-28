@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260828mahjongleagues",
+  "slug": "foreshore-2026-08-28-mahjong-leagues",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-08-28T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-08-28T00:00:00Z",
+    "modified_at": "2026-08-28T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-08-28-mahjong-leagues@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-08-27",
+            "evidence_quote": "23 venues mapped across Metro Vancouver; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Mahjong leagues (post-pandemic) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-08-27",
+            "evidence_quote": "29 search-velocity records; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Mahjong leagues (post-pandemic) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          }
+        ],
+        "format": "local_signal",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "human_action": "Review whether the mapped venues are actual recurring league nodes rather than restaurants, senior centers, cultural associations, or one-off event listings using mahjong as generic programming.",
+        "machine_action": "Track new venue additions, repeat-event language, league/tournament vocabulary, organizer names, and reservation products attached to Metro Vancouver mahjong listings.",
+        "methodology_footer": "Source: swell-checker internal trend tracker (Places, Google Trends, Reddit, culture feeds). A candidate reaches Foreshore only after the scorer fires it across multiple independent source types — corroborated pattern recognition across public signals, not independent journalistic confirmation.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-28",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-08-27",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "mahjong_leagues"
+        ],
+        "uncertainty": "The tracker may be seeing a real social-game format, or it may be overcounting legacy community mahjong spaces now described in more searchable language."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "evidence_map": [
+          {
+            "confidence": 0.7,
+            "event_date": "2026-08-27",
+            "evidence_quote": "23 venues mapped across Metro Vancouver; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Mahjong leagues (post-pandemic) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          },
+          {
+            "confidence": 0.7,
+            "event_date": "2026-08-27",
+            "evidence_quote": "29 search-velocity records; composite 0.7 at stage very_early",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Mahjong leagues (post-pandemic) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          }
+        ],
+        "falsification": "Venue count fails to grow beyond the current Metro Vancouver cluster over the next two update cycles. Search velocity decays while listings remain static. Manual review shows most records are generic casual play, senior programming, or cultural-center listings rather than organized leagues. No independent social, ticketing, calendar, or operator evidence appears.",
+        "format": "local_signal",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "headline": "The Tile Table Found Its Third Place",
+        "human_action": "Review whether the mapped venues are actual recurring league nodes rather than restaurants, senior centers, cultural associations, or one-off event listings using mahjong as generic programming.",
+        "issue_id": "foreshore-2026-08-28-mahjong-leagues",
+        "machine_action": "Track new venue additions, repeat-event language, league/tournament vocabulary, organizer names, and reservation products attached to Metro Vancouver mahjong listings.",
+        "methodology_footer": "Source: swell-checker internal trend tracker (Places, Google Trends, Reddit, culture feeds). A candidate reaches Foreshore only after the scorer fires it across multiple independent source types — corroborated pattern recognition across public signals, not independent journalistic confirmation.",
+        "product": "foreshore",
+        "publication_date": "2026-08-28",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-28",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'type': 'places_geo_density', 'description': '23 mahjong-league-adjacent venues mapped across Metro Vancouver.', 'strength': 'moderate', 'source_url': 'https://pft.permanentupperclass.com/swell/#mahjong_leagues'}",
+          "{'type': 'google_trends', 'description': '29 tracked search records show rising velocity for mahjong-league terms.', 'strength': 'moderate', 'source_url': 'https://pft.permanentupperclass.com/swell/#mahjong_leagues'}",
+          "{'type': 'community_forums', 'description': 'No Reddit or community-forum corroboration captured.', 'strength': 'weak', 'source_url': 'https://pft.permanentupperclass.com/swell/#mahjong_leagues'}"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-08-27",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#mahjong_leagues"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Mahjong leagues are showing early formation in Metro Vancouver, with 23 mapped venues and rising search velocity, but only two source types are firing and no community-forum corroboration has appeared yet.",
+        "trend_ids": [
+          "mahjong_leagues"
+        ],
+        "uncertainty": "The tracker may be seeing a real social-game format, or it may be overcounting legacy community mahjong spaces now described in more searchable language."
+      }
+    }
+  },
+  "title": "The Tile Table Found Its Third Place",
+  "summary": "Mahjong leagues are showing early formation in Metro Vancouver, with 23 mapped venues and rising search velocity, but only two source types are firing and no community-forum corroboration has appeared yet.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Mahjong leagues are showing early formation in Metro Vancouver, with 23 mapped venues and rising search velocity, but only two source types are firing and no community-forum corroboration has appeared yet.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-08-28",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-08-28-mahjong-leagues@v1",
+      "falsification": "Venue count fails to grow beyond the current Metro Vancouver cluster over the next two update cycles. Search velocity decays while listings remain static. Manual review shows most records are generic casual play, senior programming, or cultural-center listings rather than organized leagues. No independent social, ticketing, calendar, or operator evidence appears."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Tile Table Found Its Third Place",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Mahjong leagues are showing early formation in Metro Vancouver, with 23 mapped venues and rising search velocity, but only two source types are firing and no community-forum corroboration has appeared yet.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 23 mahjong-league-adjacent venues mapped across Metro Vancouver. (strength: moderate)\n\nsig_2: 29 tracked search records show rising velocity for mahjong-league terms. (strength: moderate)\n\nsig_3: No Reddit or community-forum corroboration captured. (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Venue count fails to grow beyond the current Metro Vancouver cluster over the next two update cycles. Search velocity decays while listings remain static. Manual review shows most records are generic casual play, senior programming, or cultural-center listings rather than organized leagues. No independent social, ticketing, calendar, or operator evidence appears.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Tile Table Found Its Third Place.\" Convergence Daily. 2026-08-28. Resolve signal://foreshore/claim/foreshore-2026-08-28-mahjong-leagues@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-08-28-mahjong-leagues@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-08-28",
+      "published_at": "2026-08-28T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

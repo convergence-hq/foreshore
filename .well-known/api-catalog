@@ -33,6 +33,16 @@
       ],
       "item": [
         {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues.json",
+          "type": "application/json",
+          "title": "The Tile Table Found Its Third Place latest object"
+        },
+        {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json",
+          "type": "application/json",
+          "title": "The Tile Table Found Its Third Place immutable object"
+        },
+        {
           "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics.json",
           "type": "application/json",
           "title": "The Checkup Became a Membership latest object"
