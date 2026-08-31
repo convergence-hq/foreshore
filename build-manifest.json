@@ -15,6 +15,15 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260831runclubs",
+      "kind": "post",
+      "slug": "foreshore-2026-08-31-run-clubs",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json",
+      "digest": "e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365",
+      "signature_path": "/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json.sig"
+    },
+    {
       "id": "obj_foreshore20260828mahjongleagues",
       "kind": "post",
       "slug": "foreshore-2026-08-28-mahjong-leagues",
@@ -361,14 +370,14 @@
     {
       "path": "/.well-known/api-catalog",
       "media_type": "application/linkset+json",
-      "sha256": "00c25ba123e139ba7ae01416bd2fdda7b3633bc73cfdfda8e26fa1fd07a12b05",
-      "byte_length": 23301
+      "sha256": "d621c5d0bd82440495e0ebb2c99d3c3dd03c18f8a1ecd938f959f958d51f49d1",
+      "byte_length": 23854
     },
     {
       "path": "/feed.json",
       "media_type": "application/json",
-      "sha256": "d16ba20d511b7b1a4ea995acda53dbd1245467cd32eb28c982ec6c95c26f191b",
-      "byte_length": 83331
+      "sha256": "c5f494ab35d81feb50fb4c0a8764f6b75f0e9c0eed9135ab5b521fb6a79654ba",
+      "byte_length": 85518
     },
     {
       "path": "/history/foreshore-2026-05-20-shadow-1/index.html",
@@ -599,34 +608,40 @@
       "byte_length": 5818
     },
     {
+      "path": "/history/foreshore-2026-08-31-run-clubs/index.html",
+      "media_type": "text/html",
+      "sha256": "260d92cad75f0e0188f4195db63f9ad100a9e12d8b0c79707568cf98ea9a1297",
+      "byte_length": 5812
+    },
+    {
       "path": "/index.html",
       "media_type": "text/html",
-      "sha256": "2bc0e6276fc6896858a7b32b0c8af8e9e96c4cd192889505a0dd7e59211e2d34",
-      "byte_length": 22859
+      "sha256": "dc86a3efae2d80b1fa06f0af67cd1e318e1ae6c16f6783b317bdb2315c828708",
+      "byte_length": 23291
     },
     {
       "path": "/llms.txt",
       "media_type": "text/plain",
-      "sha256": "d9f6154d7367086fb5719de3ccd27a35957583f4efe75e81320f7f66ded5a787",
-      "byte_length": 8507
+      "sha256": "db4276cf17c8626862cd22ea189310a493229686ab4f48e88eaf6464e99d2e09",
+      "byte_length": 8706
     },
     {
       "path": "/o/aliases.json",
       "media_type": "application/json",
-      "sha256": "ce61dd5c15ce15e89e96ae334dbb4abd457d7298b84efca6a99cc2ac19e3a108",
-      "byte_length": 26816
+      "sha256": "afc35b4e9075dd1a484ffbf034d92c23e0627cc372af36a390bea0b352349d9b",
+      "byte_length": 27477
     },
     {
       "path": "/o/claims.json",
       "media_type": "application/json",
-      "sha256": "90c30a70ef66b9924e2eb2ce6599c141face5759e8f14042300f950065a7f45d",
-      "byte_length": 60469
+      "sha256": "77b4413c6b1b395c37314a045c05f7668a6429fa7d9a9debb21a2309c1bd9448",
+      "byte_length": 61962
     },
     {
       "path": "/o/index.json",
       "media_type": "application/json",
-      "sha256": "e5d2bc40e70ce12cdaa82d037e7f93003cdc3865d0684fa26cc23ddc1ad8efda",
-      "byte_length": 47631
+      "sha256": "7601e7e9df613c4da84fcd7e60636e2cd75248206d56d4e60d76f6411a993251",
+      "byte_length": 48835
     },
     {
       "path": "/o/post/foreshore-2026-05-20-shadow-1.json",
@@ -1313,6 +1328,24 @@
       "byte_length": 961
     },
     {
+      "path": "/o/post/foreshore-2026-08-31-run-clubs.json",
+      "media_type": "application/json",
+      "sha256": "1dbf2d8cae0bce60b64821e3f7c85535dfdfe2b0842c769fbb0bcea997b1077e",
+      "byte_length": 12956
+    },
+    {
+      "path": "/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json",
+      "media_type": "application/json",
+      "sha256": "1dbf2d8cae0bce60b64821e3f7c85535dfdfe2b0842c769fbb0bcea997b1077e",
+      "byte_length": 12956
+    },
+    {
+      "path": "/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "af8a5b4a07ba2994855c2d8e1c1c93f6c151a78946e109bfbe639fd769a71117",
+      "byte_length": 943
+    },
+    {
       "path": "/o/trust.json",
       "media_type": "application/json",
       "sha256": "7a318239389c724f675e4d94117cd7bf61c56094f78f24cc17560bcea5699aae",
@@ -1547,16 +1580,22 @@
       "byte_length": 27612
     },
     {
+      "path": "/p/foreshore-2026-08-31-run-clubs/index.html",
+      "media_type": "text/html",
+      "sha256": "bf97e5500aca1d8ac808ae826fa94425a0bb2b03fb4f7c9a610a495e0cf54925",
+      "byte_length": 28206
+    },
+    {
       "path": "/rss.xml",
       "media_type": "application/rss+xml",
-      "sha256": "24a6eb76fd33c301a50298a110591fc22b847d34d3f6c6a17584f7409307f368",
-      "byte_length": 27133
+      "sha256": "da40cd09707f0593489377e1800d8eeb4f433520461154f353c66315a8909d92",
+      "byte_length": 27810
     },
     {
       "path": "/sitemap.xml",
       "media_type": "application/xml",
-      "sha256": "c023d6752261c296ea8a8e006c87f52bdad5fb19d28a70c573eea51a4780b180",
-      "byte_length": 17270
+      "sha256": "29facff943f47ae24c1f0512ca8f9b92dfebf039486e9e70c5cf01439242cc0b",
+      "byte_length": 17684
     }
   ]
 }

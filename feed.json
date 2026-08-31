@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-31-run-clubs/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json",
+      "title": "The Morning Run Became a Host Platform",
+      "summary": "Run clubs are less interesting as a fitness fad than as lightweight local operating systems for cafes, apparel shops, wellness brands, and neighborhood venues that need repeat foot traffic without building a full community product themselves.",
+      "content_text": "The Morning Run Became a Host Platform\n\nThesis\nRun clubs are less interesting as a fitness fad than as lightweight local operating systems for cafes, apparel shops, wellness brands, and neighborhood venues that need repeat foot traffic without building a full community product themselves.\n\nSignals\nsig_1: 64 run-club-adjacent venues mapped across Metro Vancouver in the tracker, suggesting the behavior is attaching to physical hosts rather than living only as an online fitness identity. (strength: moderate)\n\nsig_2: 75 tracked search records show rising velocity for run-club terms, with vocabulary consolidation scored at 1.0. (strength: moderate)\n\nsig_3: Editorial and culture-feed mentions are present alongside venue and search data, giving the candidate three source types but still no captured community-forum corroboration. (strength: weak_to_moderate)\n\nWhat would falsify it\nDowngrade if fresh evidence shows run clubs are mostly media recirculation around already-known groups, if venue density is category-noisy, or if search growth fails to translate into recurring hosted events and paid operator services.",
+      "date_published": "2026-08-31T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-28-mahjong-leagues/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json",

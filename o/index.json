@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260831runclubs",
+      "kind": "post",
+      "slug": "foreshore-2026-08-31-run-clubs",
+      "title": "The Morning Run Became a Host Platform",
+      "summary": "Run clubs are less interesting as a fitness fad than as lightweight local operating systems for cafes, apparel shops, wellness brands, and neighborhood venues that need repeat foot traffic without building a full community product themselves.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-08-31T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-08-31T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-31-run-clubs/"
+    },
+    {
       "id": "obj_foreshore20260828mahjongleagues",
       "kind": "post",
       "slug": "foreshore-2026-08-28-mahjong-leagues",

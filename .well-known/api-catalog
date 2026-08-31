@@ -33,6 +33,16 @@
       ],
       "item": [
         {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs.json",
+          "type": "application/json",
+          "title": "The Morning Run Became a Host Platform latest object"
+        },
+        {
+          "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json",
+          "type": "application/json",
+          "title": "The Morning Run Became a Host Platform immutable object"
+        },
+        {
           "href": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues.json",
           "type": "application/json",
           "title": "The Tile Table Found Its Third Place latest object"
