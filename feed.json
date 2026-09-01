@@ -6,6 +6,24 @@
   "description": "Trend-intelligence for the wellness sector — what the tide is bringing in, published through the dual-native engine.",
   "items": [
     {
+      "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-09-01-pickleball@sha256-5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35.json",
+      "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-09-01-pickleball/",
+      "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-09-01-pickleball@sha256-5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35.json",
+      "title": "The Court Time Became the Scarce Thing",
+      "summary": "Pickleball is no longer interesting as a discovery trend.",
+      "content_text": "The Court Time Became the Scarce Thing\n\nThesis\nPickleball is no longer interesting as a discovery trend. The signal worth reviewing is the service layer around a crowded mainstream sport: booking, court conversion, coaching, leagues, equipment retail, and venue operations in places where demand has outrun casual municipal access.\n\nSignals\nsig_1: 169 pickleball-adjacent venues mapped across Metro Vancouver in the tracker, suggesting unusually broad physical distribution rather than a thin online-only signal. (strength: moderate)\n\nsig_2: 75 tracked search records show rising search velocity, with vocabulary consolidation scored at 1.0. (strength: moderate)\n\nsig_3: No Reddit or community-forum records are captured in the source object, leaving the signal dependent on venue mapping and search behavior. (strength: weak)\n\nWhat would falsify it\nDowngrade if venue count is mostly false positives from generic community centers and racquet clubs, if search velocity rolls over, or if no booking, league, coaching, or court-scarcity language appears outside the tracker.",
+      "date_published": "2026-09-01T00:00:00Z",
+      "authors": [
+        {
+          "name": "Foreshore",
+          "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ]
+    },
+    {
       "id": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json",
       "url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-08-31-run-clubs/",
       "external_url": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json",

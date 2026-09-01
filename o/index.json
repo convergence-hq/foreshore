@@ -7,6 +7,27 @@
   },
   "objects": [
     {
+      "id": "obj_foreshore20260901pickleball",
+      "kind": "post",
+      "slug": "foreshore-2026-09-01-pickleball",
+      "title": "The Court Time Became the Scarce Thing",
+      "summary": "Pickleball is no longer interesting as a discovery trend.",
+      "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-09-01-pickleball.json",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-09-01-pickleball@sha256-5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-09-01T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-09-01T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://foreshore.permanentupperclass.com/p/foreshore-2026-09-01-pickleball/"
+    },
+    {
       "id": "obj_foreshore20260831runclubs",
       "kind": "post",
       "slug": "foreshore-2026-08-31-run-clubs",

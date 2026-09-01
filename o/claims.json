@@ -8,6 +8,28 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Pickleball is no longer interesting as a discovery trend. The signal worth reviewing is the service layer around a crowded mainstream sport: booking, court conversion, coaching, leagues, equipment retail, and venue operations in places where demand has outrun casual municipal access.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-09-01",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-09-01-pickleball@v1",
+      "falsification": "Downgrade if venue count is mostly false positives from generic community centers and racquet clubs, if search velocity rolls over, or if no booking, league, coaching, or court-scarcity language appears outside the tracker.",
+      "cited_by": [],
+      "object_id": "obj_foreshore20260901pickleball",
+      "object_slug": "foreshore-2026-09-01-pickleball",
+      "object_title": "The Court Time Became the Scarce Thing",
+      "object_version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-09-01-pickleball@sha256-5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://foreshore.permanentupperclass.com/p/foreshore-2026-09-01-pickleball/#claim=thesis"
+    },
+    {
+      "key": "thesis",
       "statement": "Run clubs are less interesting as a fitness fad than as lightweight local operating systems for cafes, apparel shops, wellness brands, and neighborhood venues that need repeat foot traffic without building a full community product themselves.",
       "claim_kind": "predictive",
       "confidence": 0.55,

@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_foreshore20260901pickleball",
+  "slug": "foreshore-2026-09-01-pickleball",
+  "canonical_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-09-01-pickleball.json",
+  "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-09-01-pickleball@sha256-5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-09-01T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Foreshore Desk",
+    "created_at": "2026-09-01T00:00:00Z",
+    "modified_at": "2026-09-01T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://foreshore/claim/foreshore-2026-09-01-pickleball@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "evidence_map": [
+          {
+            "confidence": 0.644,
+            "event_date": "2026-08-31",
+            "evidence_quote": "169 venues mapped across Metro Vancouver; composite 0.644 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pickleball (calibration - mainstream) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          },
+          {
+            "confidence": 0.644,
+            "event_date": "2026-08-31",
+            "evidence_quote": "75 search-velocity records; composite 0.644 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pickleball (calibration - mainstream) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          }
+        ],
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "human_action": "Review whether this is still a trend story or has crossed into an operations story: court scarcity, booking friction, municipal-private competition, coaching supply, and retrofit economics.",
+        "machine_action": "Track venue additions, search velocity, court-booking language, lesson/league mentions, and any new independent community-source corroboration for pickleball in Metro Vancouver.",
+        "methodology_footer": "Based on the Foreshore tracker source object for pickleball, last seen 2026-08-31, using Places and Google Trends signals only.",
+        "product": "foreshore",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-09-01",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-08-31",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "pickleball"
+        ],
+        "uncertainty": "Pickleball is already mainstream, so the review should not treat the sport itself as the discovery. The open question is whether the next business surface is access, scheduling, instruction, and facility conversion."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "evidence_map": [
+          {
+            "confidence": 0.644,
+            "event_date": "2026-08-31",
+            "evidence_quote": "169 venues mapped across Metro Vancouver; composite 0.644 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pickleball (calibration - mainstream) — Places (geo-density) signal firing",
+            "source_type": "Places (geo-density)",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          },
+          {
+            "confidence": 0.644,
+            "event_date": "2026-08-31",
+            "evidence_quote": "75 search-velocity records; composite 0.644 at stage calibration",
+            "interpretation": "Corroborated public-signal movement, not independent journalistic confirmation.",
+            "signal": "Pickleball (calibration - mainstream) — Google Trends signal firing",
+            "source_type": "Google Trends",
+            "source_url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          }
+        ],
+        "falsification": "Downgrade if venue count is mostly false positives from generic community centers and racquet clubs, if search velocity rolls over, or if no booking, league, coaching, or court-scarcity language appears outside the tracker.",
+        "format": "boring_business_hidden_inside_trend",
+        "geography": [
+          "Metro Vancouver"
+        ],
+        "headline": "The Court Time Became the Scarce Thing",
+        "human_action": "Review whether this is still a trend story or has crossed into an operations story: court scarcity, booking friction, municipal-private competition, coaching supply, and retrofit economics.",
+        "issue_id": "foreshore-2026-09-01-pickleball",
+        "machine_action": "Track venue additions, search velocity, court-booking language, lesson/league mentions, and any new independent community-source corroboration for pickleball in Metro Vancouver.",
+        "methodology_footer": "Based on the Foreshore tracker source object for pickleball, last seen 2026-08-31, using Places and Google Trends signals only.",
+        "product": "foreshore",
+        "publication_date": "2026-09-01",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-09-01",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'type': 'places_geo_density', 'description': '169 pickleball-adjacent venues mapped across Metro Vancouver in the tracker, suggesting unusually broad physical distribution rather than a thin online-only signal.', 'strength': 'moderate', 'source_url': 'https://pft.permanentupperclass.com/swell/#pickleball'}",
+          "{'type': 'google_trends', 'description': '75 tracked search records show rising search velocity, with vocabulary consolidation scored at 1.0.', 'strength': 'moderate', 'source_url': 'https://pft.permanentupperclass.com/swell/#pickleball'}",
+          "{'type': 'community_forums', 'description': 'No Reddit or community-forum records are captured in the source object, leaving the signal dependent on venue mapping and search behavior.', 'strength': 'weak', 'source_url': 'https://pft.permanentupperclass.com/swell/#pickleball'}"
+        ],
+        "source_objects": [
+          {
+            "label": "swell-checker (Places + Google Trends + Reddit + culture feeds)",
+            "last_fetched_at": "2026-08-31",
+            "source_type": "internal_tracker",
+            "url": "https://pft.permanentupperclass.com/swell/#pickleball"
+          }
+        ],
+        "state": "observing",
+        "thesis": "Pickleball is no longer interesting as a discovery trend. The signal worth reviewing is the service layer around a crowded mainstream sport: booking, court conversion, coaching, leagues, equipment retail, and venue operations in places where demand has outrun casual municipal access.",
+        "trend_ids": [
+          "pickleball"
+        ],
+        "uncertainty": "Pickleball is already mainstream, so the review should not treat the sport itself as the discovery. The open question is whether the next business surface is access, scheduling, instruction, and facility conversion."
+      }
+    }
+  },
+  "title": "The Court Time Became the Scarce Thing",
+  "summary": "Pickleball is no longer interesting as a discovery trend.",
+  "authors": [
+    {
+      "name": "Foreshore",
+      "url": "https://foreshore.permanentupperclass.com/authors/foreshore/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Pickleball is no longer interesting as a discovery trend. The signal worth reviewing is the service layer around a crowded mainstream sport: booking, court conversion, coaching, leagues, equipment retail, and venue operations in places where demand has outrun casual municipal access.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-09-01",
+      "evidence_refs": [],
+      "citation_uri": "signal://foreshore/claim/foreshore-2026-09-01-pickleball@v1",
+      "falsification": "Downgrade if venue count is mostly false positives from generic community centers and racquet clubs, if search velocity rolls over, or if no booking, league, coaching, or court-scarcity language appears outside the tracker."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Court Time Became the Scarce Thing",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Pickleball is no longer interesting as a discovery trend. The signal worth reviewing is the service layer around a crowded mainstream sport: booking, court conversion, coaching, leagues, equipment retail, and venue operations in places where demand has outrun casual municipal access.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: 169 pickleball-adjacent venues mapped across Metro Vancouver in the tracker, suggesting unusually broad physical distribution rather than a thin online-only signal. (strength: moderate)\n\nsig_2: 75 tracked search records show rising search velocity, with vocabulary consolidation scored at 1.0. (strength: moderate)\n\nsig_3: No Reddit or community-forum records are captured in the source object, leaving the signal dependent on venue mapping and search behavior. (strength: weak)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Downgrade if venue count is mostly false positives from generic community centers and racquet clubs, if search velocity rolls over, or if no booking, league, coaching, or court-scarcity language appears outside the tracker.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Foreshore. \"The Court Time Became the Scarce Thing.\" Convergence Daily. 2026-09-01. Resolve signal://foreshore/claim/foreshore-2026-09-01-pickleball@v1 for the immutable version_uri.",
+    "preferred_url": "signal://foreshore/claim/foreshore-2026-09-01-pickleball@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-09-01",
+      "published_at": "2026-09-01T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

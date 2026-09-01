@@ -44,7 +44,8 @@
     "signal://foreshore/claim/foreshore-2026-08-26-social-sauna@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-26-social-sauna@sha256-e9a778166ca222dc699cf9b368ba2e8a035217fd4bde9174ac1bd8a76d6a07ff.json",
     "signal://foreshore/claim/foreshore-2026-08-27-longevity-clinics@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-27-longevity-clinics@sha256-20a6dd88a2023d8f42214f9bbe6774965c274689ca417fc1eca8022a6452f11d.json",
     "signal://foreshore/claim/foreshore-2026-08-28-mahjong-leagues@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-28-mahjong-leagues@sha256-705b5d2cb1f0f259e197f7012d5a9da993aefe91f5d56fb9e306afbd3a70fe4f.json",
-    "signal://foreshore/claim/foreshore-2026-08-31-run-clubs@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json"
+    "signal://foreshore/claim/foreshore-2026-08-31-run-clubs@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-08-31-run-clubs@sha256-e7de6fc61fa1c576376f188d745b5e9e168bc654a3b8d5d2da5e3442dc4d0365.json",
+    "signal://foreshore/claim/foreshore-2026-09-01-pickleball@v1": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-09-01-pickleball@sha256-5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35.json"
   },
   "entries": [
     {
@@ -357,6 +358,14 @@
       "object_id": "obj_foreshore20260831runclubs",
       "object_kind": "post",
       "object_slug": "foreshore-2026-08-31-run-clubs",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://foreshore/claim/foreshore-2026-09-01-pickleball@v1",
+      "version_uri": "https://foreshore.permanentupperclass.com/o/post/foreshore-2026-09-01-pickleball@sha256-5abab26d75ec667413044943f274e29b37dff476f8aa9e42b60505b055912a35.json",
+      "object_id": "obj_foreshore20260901pickleball",
+      "object_kind": "post",
+      "object_slug": "foreshore-2026-09-01-pickleball",
       "claim_key": "thesis"
     }
   ]
